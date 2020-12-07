@@ -5,37 +5,50 @@
   margin:0;
   padding:0;
 
-  //Font-size scales responsively with viewport with a slope
-  //defined by the value of vw
-  //Too much slope, and the font scales too fast, not easy to use in a small frame
-  //Not enough slope, and the font won't grow fast enough (too small in small and will
-  //definitely require another breakpoint)
-  //Adding fixed px values acts weird b/c while it shifts up, at small viewport sizes
-  //it will outweigh the viewport width and seem to "slow down" scaling
-  font-size: 2.5vw;
   font-family: $pt-mono;
   background-color: #FFFFFF;
   color: $black;
   line-height: 1.1666;
-
-  //In desktop breakpoint, we are static at the given font-size
-  @include desktop {
-    font-size: 16px;
-  }
 }
 
 body, html {
+  font-smoothing: antialiased;
   margin:0;
   padding:0;
+  scroll-behavior: smooth; //Chrome and FF only
+
+  @media screen and (prefers-reduced-motion: reduce) {
+    scroll-behavior: auto;
+  }
 }
 
-* {
+body > * {
+  font-size: 18px;
+
+  @include macro {
+    font-size: 21px;
+  }
+}
+
+*,
+*:before,
+*:after {
   box-sizing: border-box;
+  //Nonstandard but makes font look nicer
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-smoothing: antialiased;
 }
 
-img {
+svg, img {
   display: block;
+  vertical-align: top;
 }
+
+// TODO: Reevaluate for template
+// Include selection styles
+// Included a:not(.btn) or something styles
+// Use extend more for ^
 
 a, a:visited, a:active {
   color: $darkBlue;
