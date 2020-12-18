@@ -5,9 +5,9 @@
   margin:0;
   padding:0;
 
-  font-family: $pt-mono;
-  background-color: #FFFFFF;
-  color: $black;
+  font-family: $base-font;
+  background-color: $base-background-color;
+  color: $base-color;
   line-height: 1.1666;
 }
 
@@ -25,7 +25,7 @@ body, html {
 body > * {
   font-size: 18px;
 
-  @include macro {
+  @include desktop {
     font-size: 21px;
   }
 }
@@ -45,42 +45,70 @@ svg, img {
   vertical-align: top;
 }
 
+a img {
+  border-style:none;
+}
+
+::selection, ::-moz-selection
+{
+  color: $base-background-color;
+  background: $accent-color;
+}
+
 // TODO: Reevaluate for template
 // Include selection styles
 // Included a:not(.btn) or something styles
 // Use extend more for ^
 
 a, a:visited, a:active {
-  color: $darkBlue;
+  color: $link-color;
 }
 a:hover {
-  color: lighten($darkBlue,10%);
+  color: lighten($link-color,10%);
 }
 
 p {
-  font-size: cRems(26px);
+  margin: 0 0 25px;
+
+  font-size: 16px;
   @include desktop {
-    font-size: cRems(16px);
+    font-size: 19px;
   }
 }
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: $title-font;
+  font-weight: $bold;
+}
+
 h2 {
-  font-size: cRems(45px);
+  font-size: 36px;
+  margin: 20px 0;
   @include desktop {
-    font-size: cRems(30px);
+    font-size: 47px;
   }
 }
 
 h3 {
-  font-size: cRems(40px);
+  font-size: 31px;
+  margin: 15px 0;
   @include desktop {
-    font-size: cRems(26px);
+    font-size: 42px;
   }
 }
 
 h4 {
-  font-size: cRems(35px);
+  font-size: 26px;
+  margin: 10px 0;
   @include desktop {
-    font-size: cRems(22px);
+    font-size: 37px;
+  }
+}
+
+h5 {
+  font-size: 20px;
+  margin: 7px 0;
+  @include desktop {
+    font-size: 28px;
   }
 }

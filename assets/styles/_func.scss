@@ -1,12 +1,5 @@
+@import "_contrast_color";
 //SCSS stuffused in other files (variables, functions, etc)
-
-@function cRems($size) {
-  @return $size / 16px * 1rem;
-}
-
-@function cPct($pct) {
-  @return $pct / 2.5 * 1rem;
-}
 
 @mixin mobile {
   @media only screen and (max-width : 768px) {
@@ -26,39 +19,22 @@ $extra-bold: 800;
 
 $pt-mono: 'PT Mono', monospace;
 
+$title-font: $pt-mono;
+$base-font: $pt-mono;
+
 $black: #000;
-$darkBlue: #002A71;
+$white: #FFF;
 
-.loader {
-  display: block;
-  width: cRems(30px);
-  height: cRems(30px);
+$c-palette: (
+  "c-white": $white,
+  "c-black": $black
+);
 
-  &:before {
-    display: block;
-    content: '';
-    border-radius: 50%;
-    width: 100%;
-    height: 100%;
-    box-sizing: border-box;
-    border: cRems(5px) solid rgba(0, 0, 0, 0.2);
-    border-left: cRems(5px) solid #000;
-    animation: load360 1.1s infinite linear;
-  }
-  &.light:before {
-    border-color: rgba(255, 255, 255, 0.2);
-    border-left: cRems(5px) solid #fff;
-  }
-}
-@keyframes load360 {
-  0% {
-    transform: rotate(0deg);
-  }
-  100% {
-    transform: rotate(360deg);
-  }
-}
+$base-color: $white;
+$base-background-color: $black;
+$accent-color: #F0F;
 
-.hr {
-  border-bottom: cRems(2px) solid #E7EAF1;
-}
+$link-color: #22A2BB; // Link colors
+$link-color-hover: #2CC5E0;
+$link-color-active: #2ED1EA;
+$link-color-visited: #6B8084;

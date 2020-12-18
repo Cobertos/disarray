@@ -1,11 +1,15 @@
 <template>
-  <album-art-creator />
+  <div>
+    <loader />
+    <vue-time />
+  </div>
 </template>
 
 <script>
-import AlbumArtCreator from '@/components/AlbumArtCreator.vue';
+import Loader from '@/components/util/Loader.vue';
+import VueTime from '@/components/util/VueTime.vue';
 export default {
-  components: { AlbumArtCreator }
+  components: { Loader, VueTime }
 }
 </script>
 

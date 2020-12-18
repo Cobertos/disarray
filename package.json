@@ -20,6 +20,7 @@
     "@nuxtjs/google-analytics": "^2.2.3",
     "@nuxtjs/sitemap": "^2.0.1",
     "core-js": "^3.6.5",
+    "dayjs": "^1.9.7",
     "node-sass": "^4.13.0",
     "nuxt": "^2.14.6",
     "nuxt-mq": "^2.0.1",
