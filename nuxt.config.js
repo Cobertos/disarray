@@ -151,13 +151,13 @@ export default {
     //   });
     // }
   },
-  router: {
-    //middleware: 'redirect',
-    //Force must use trailing / to be consistent with Amazon AWS S3
-    //Requests without the trailing slash (except on the root) will fail
-    //which is what we want
-    trailingSlash: true
-  },
+  // router: {
+  //   //middleware: 'redirect',
+  //   //Force must use trailing / to be consistent with Amazon AWS S3
+  //   //Requests without the trailing slash (except on the root) will fail
+  //   //which is what we want
+  //   //trailingSlash: true
+  // },
   // == Server ==
   server: {
     port: 8897,
