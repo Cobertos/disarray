@@ -11,4 +11,4 @@ config.autoAddCss = false; //Handle this in Nuxt's config
 library.add(
   faExclamationTriangle);
 
-Vue.component('font-awesome-icon', FontAwesomeIcon);
+Vue.component('fa', FontAwesomeIcon);
