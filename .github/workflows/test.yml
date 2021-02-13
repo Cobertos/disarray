@@ -1,0 +1,43 @@
+name: Package Tests
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+
+jobs:
+  test:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [ubuntu-latest]
+        node: [14]
+
+    steps:
+      # Checkout repo @ latest release
+      - uses: actions/checkout@v2
+
+      # Install languages
+      - name: Set up Nodejs ${{ matrix.node }}
+        uses: actions/setup-node@v2.1.2
+        with:
+          node-version: ${{ matrix.node }}
+
+      # Install dependencies
+      - name: Cache node_modules
+        uses: actions/cache@v2
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+      - name: npm ci
+        run: npm ci
+
+      # Run the actions
+      - name: Test with vue-cli-service
+        run: |
+          npm run test
