@@ -40,7 +40,7 @@ test('VueTime - By default prints as normal ISO string', async t => {
   const { localVue } = t.context;
   const mounted = mount(VueTime, { localVue,
     propsData: {
-      datetime: new Date(Date.UTC(96, 1, 2, 3, 4, 5))
+      datetime: new Date(Date.UTC(96, 1, 2, 3, 4, 5)).toString()
     }
   });
 
@@ -53,7 +53,7 @@ test('VueTime - Can be passed a format for dayjs', async t => {
   const { localVue } = t.context;
   const mounted = mount(VueTime, { localVue,
     propsData: {
-      datetime: new Date(Date.UTC(96, 1, 2, 3, 4, 5)),
+      datetime: new Date(Date.UTC(96, 1, 2, 3, 4, 5)).toString(),
       format: 'YYYY MM DD hh:mm:ss'
     }
   });
