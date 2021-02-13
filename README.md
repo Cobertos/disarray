@@ -2,6 +2,8 @@
 
 A nuxt template with all of my best practices in Nuxt, clean and clonable (well it's eventually supposed to be x3)
 
+It reuses as much from `npx create-nuxt-app tmp-app` as possible. Prefering ESLint, AVA, and others
+
 ## Features
 * Mobile-first 1 breakpoint workflow with help of [`nuxt-mq`](https://github.com/vanhoofmaarten/nuxt-mq/)
 * Pre-installed [Font Awesome](https://github.com/FortAwesome/vue-fontawesome) as `<font-awesome-icon />` along with tree-shaking fix for bundle size
