@@ -3,10 +3,10 @@ name: Package Tests
 on:
   push:
     branches:
-      - master
+      - owo
   pull_request:
     branches:
-      - master
+      - owo
 
 jobs:
   test:
