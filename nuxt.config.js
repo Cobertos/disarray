@@ -137,19 +137,15 @@ export default {
     //or disable this...
     //hardSource: true,
 
-    /*
-    ** You can extend webpack config here
-    */
-    // extend (config, { isDev }) {
-    //   config.module.rules.push({
-    //     test: /webm-writer[\\/]/,
-    //     loader: 'string-replace-loader',
-    //     options: {
-    //       search: 'require(\'fs\')',
-    //       replace: 'null'
-    //     }
-    //   });
-    // }
+    extend(config) {
+      config.module.rules.push({
+        resourceQuery: /blockType=test/,
+        // TODO: Doesn't work with null-loader. I'm pretty sure that Vue does
+        // a string search for null-loader in the stack and treats it differently
+        // from looking at the GitHub issues
+        loader: require.resolve('./vue-loader-null-loader')
+      });
+    }
   },
   // router: {
   //   //middleware: 'redirect',
