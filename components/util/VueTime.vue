@@ -25,7 +25,6 @@ export default {
 </script>
 
 <test>
-import sinon from 'sinon';
 import test from 'ava';
 import { mount, createLocalVue } from '@vue/test-utils';
 import VueTime from './VueTime.vue';
@@ -46,9 +45,7 @@ test('VueTime - By default prints as normal ISO string', async t => {
 
   // assert
   // TODO: Don't just remove the timezone info to test... ;w;, but it 4am and I tired
-  console.log(mounted.element.textContent.slice(0,-6));
   t.true(mounted.element.textContent.slice(0,-6) === '1996-01-01T02:03:04', 'Defaults to ISO 8601 timestamp');
-  console.log(mounted.element.getAttribute('title'));
   t.true(mounted.element.getAttribute('title') === 'January 1, 1996 2:03', 'Title is a nice looking string (for hover)');
 });
 test('VueTime - Can be passed a format for dayjs', async t => {
@@ -62,7 +59,6 @@ test('VueTime - Can be passed a format for dayjs', async t => {
   });
 
   // assert
-  console.log(mounted.element.textContent);
   t.true(mounted.element.textContent === '1996 01 01 02:03:04');
 });
 </test>
