@@ -17,14 +17,14 @@
         <footer><p><a href="#top">[Top]</a></p></footer>
       </article>
       <article id="text__paragraphs">
-        <header><h1>Paragraphs</h1></header>
+        <header><h2>Paragraphs</h2></header>
         <div>
           <p>A paragraph (from the Greek paragraphos, “to write beside” or “written beside”) is a self-contained unit of a discourse in writing dealing with a particular point or idea. A paragraph consists of one or more sentences. Though not required by the syntax of any language, paragraphs are usually an expected part of formal writing, used to organize longer prose.</p>
         </div>
         <footer><p><a href="#top">[Top]</a></p></footer>
       </article>
       <article id="text__blockquotes">
-        <header><h1>Blockquotes</h1></header>
+        <header><h2>Blockquotes</h2></header>
         <div>
           <blockquote>
             <p>A block quotation (also known as a long quotation or extract) is a quotation in a written document, that is set off from the main text as a paragraph, or block of text.</p>
@@ -35,7 +35,7 @@
         <footer><p><a href="#top">[Top]</a></p></footer>
       </article>
       <article id="text__lists">
-        <header><h1>Lists</h1></header>
+        <header><h2>Lists</h2></header>
         <div>
           <h3>Definition list</h3>
           <dl>
@@ -58,14 +58,14 @@
         <footer><p><a href="#top">[Top]</a></p></footer>
       </article>
       <article id="text__hr">
-        <header><h1>Horizontal rules</h1></header>
+        <header><h2>Horizontal rules</h2></header>
         <div>
           <hr>
         </div>
         <footer><p><a href="#top">[Top]</a></p></footer>
       </article>
       <article id="text__tables">
-        <header><h1>Tabular data</h1></header>
+        <header><h2>Tabular data</h2></header>
         <table>
           <caption>Table Caption</caption>
           <thead>
@@ -120,7 +120,7 @@
         <footer><p><a href="#top">[Top]</a></p></footer>
       </article>
       <article id="text__code">
-        <header><h1>Code</h1></header>
+        <header><h2>Code</h2></header>
         <div>
           <p><strong>Keyboard input:</strong> <kbd>Cmd</kbd></p>
           <p><strong>Inline code:</strong> <code>&lt;div&gt;code&lt;/div&gt;</code></p>
@@ -137,7 +137,7 @@ p q r s t u v w x y z { | } ~ </pre>
         <footer><p><a href="#top">[Top]</a></p></footer>
       </article>
       <article id="text__inline">
-        <header><h1>Inline elements</h1></header>
+        <header><h2>Inline elements</h2></header>
         <div>
           <p><a href="#!">This is a text link</a>.</p>
           <p><strong>Strong is used to indicate strong importance.</strong></p>
@@ -161,7 +161,7 @@ p q r s t u v w x y z { | } ~ </pre>
         <footer><p><a href="#top">[Top]</a></p></footer>
       </article>
       <article id="text__comments">
-        <header><h1>HTML Comments</h1></header>
+        <header><h2>HTML Comments</h2></header>
         <div>
           <p>There is comment here: <!--This comment should not be displayed--></p>
           <p>There is a comment spanning multiple tags and lines below here.</p>
@@ -173,7 +173,7 @@ p q r s t u v w x y z { | } ~ </pre>
       </article>
     </section>
     <section id="embedded">
-      <header><h1>Embedded content</h1></header>
+      <header><h2>Embedded content</h2></header>
       <article id="embedded__images">
         <header><h2>Images</h2></header>
         <div>
@@ -226,7 +226,7 @@ p q r s t u v w x y z { | } ~ </pre>
       </article>
     </section>
     <section id="forms">
-      <header><h1>Form elements</h1></header>
+      <header><h2>Form elements</h2></header>
       <form>
         <fieldset id="forms__input">
           <legend>Input fields</legend>
@@ -362,8 +362,13 @@ p q r s t u v w x y z { | } ~ </pre>
         <p><a href="#top">[Top]</a></p>
       </form>
     </section>
-    <loader />
-    <vue-time />
+    <section id="custom">
+      <h2>Custom</h2>
+      <loader />
+      <vue-time
+        format="MM D YYYY"/>
+      <p><a href="#top">[Top]</a></p>
+    </section>
   </div>
 </template>
 

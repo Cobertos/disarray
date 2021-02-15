@@ -21,7 +21,7 @@ export default {
 </script>
 
 <style lang="scss">
-@import '@/assets/styles/_func.scss';
+//@import '@/assets/styles/_func.scss';
 @import '@/assets/styles/global.scss';
 
 </style>

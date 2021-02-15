@@ -1,20 +1,47 @@
-@import "_forms";
-@import "_func";
+@import "_utils";
 
-:root {
-  margin:0;
-  padding:0;
-
-  font-family: $base-font;
-  background-color: $base-background-color;
-  color: $base-color;
-  line-height: 1.1666;
+// Bulma
+// Includes a minireset that handles a lot of the normal stuff, like box-sizing: border-box,
+// margin, padding: 0 on :root, font-smoothing. It also unsets all the heading sizes
+// and margins and such so we can set ourselves
+// TODO: Until Bulma resolves dark mode (https://github.com/jgthms/bulma/issues/2342)
+// you might consider adding the following project
+// https://github.com/jloh/bulma-prefers-dark
+// TODO: Bulma will eventually support CSS variables https://github.com/jgthms/bulma/issues/1837
+//@import "@/node_modules/bulma/bulma.sass";
+@import "@/node_modules/bulma/sass/utilities/_all";
+@import "@/node_modules/bulma/sass/base/_all";
+@import "@/node_modules/bulma/sass/elements/_all";
+@import "@/node_modules/bulma/sass/form/_all";
+label:not([class="radio"]):not([class="checkbox"]) {
+  @extend .label;
 }
+input[type="text"],
+input[type="password"],
+input[type="email"],
+input[type="tel"] {
+  @extend .input;
+}
+textarea {
+  @extend .textarea;
+  // Resizer will have default style, which is annoying, but it's unstylable
+  // (-webkit-resizer stopped working in Chrome, no styling in FF)
+}
+button {
+  @extend .button;
+}
+// select, checkbox and radio require extra markup so can't be used by default
+// <div class="select><select></select></div>
+// <label class="checkbox"><input type="checkbox">My checkbox</label>
+// <label class="radio"><input type="radio">My radio</label>
+
+@import "@/node_modules/bulma/sass/components/_all";
+@import "@/node_modules/bulma/sass/grid/_all";
+@import "@/node_modules/bulma/sass/helpers/_all";
+@import "@/node_modules/bulma/sass/layout/_all";
+
 
 body, html {
-  font-smoothing: antialiased;
-  margin:0;
-  padding:0;
   scroll-behavior: smooth; //Chrome and FF only
 
   @media screen and (prefers-reduced-motion: reduce) {
@@ -22,49 +49,23 @@ body, html {
   }
 }
 
-body > * {
-  font-size: 18px;
-
-  @include desktop {
-    font-size: 21px;
-  }
-}
-
-*,
-*:before,
-*:after {
-  box-sizing: border-box;
-  //Nonstandard but makes font look nicer
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  font-smoothing: antialiased;
-}
-
-svg, img {
-  display: block;
-  vertical-align: top;
-}
-
-a img {
-  border-style:none;
-}
+// svg, img {
+//   display: block;
+//   vertical-align: top;
+// }
 
 ::selection, ::-moz-selection
 {
-  color: $base-background-color;
-  background: $accent-color;
+  color: invert($text);
+  background: invert($background);
 }
 
-// TODO: Reevaluate for template
-// Include selection styles
-// Included a:not(.btn) or something styles
-// Use extend more for ^
-
-a, a:visited, a:active {
-  color: $link-color;
-}
-a:hover {
-  color: lighten($link-color,10%);
+body {
+  // TODO: Integrate with bulma
+  font-size: 18px;
+  @include desktop {
+    font-size: 21px;
+  }
 }
 
 p {
@@ -77,8 +78,8 @@ p {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $title-font;
-  font-weight: $bold;
+  font-family: $family-secondary;
+  //font-weight: $weight-bold;
 }
 
 h2 {
