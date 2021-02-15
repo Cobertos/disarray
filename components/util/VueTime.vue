@@ -40,29 +40,29 @@ test('VueTime - By default prints as normal ISO string', async t => {
   const { localVue } = t.context;
   const mounted = mount(VueTime, { localVue,
     propsData: {
-      datetime: new Date(Date.UTC(96, 1, 2, 3, 4, 5)).toString()
+      datetime: new Date(96, 0, 1, 2, 3, 4).toString()
     }
   });
 
   // assert
   // TODO: Don't just remove the timezone info to test... ;w;, but it 4am and I tired
   console.log(mounted.element.textContent.slice(0,-6));
-  t.true(mounted.element.textContent.slice(0,-6) === '1996-02-01T22:04:05', 'Defaults to ISO 8601 timestamp');
+  t.true(mounted.element.textContent.slice(0,-6) === '1996-01-01T02:03:04', 'Defaults to ISO 8601 timestamp');
   console.log(mounted.element.getAttribute('title'));
-  t.true(mounted.element.getAttribute('title') === 'February 1, 1996 10:04', 'Title is a nice looking string (for hover)');
+  t.true(mounted.element.getAttribute('title') === 'January 1, 1996 2:03', 'Title is a nice looking string (for hover)');
 });
 test('VueTime - Can be passed a format for dayjs', async t => {
   // arrange
   const { localVue } = t.context;
   const mounted = mount(VueTime, { localVue,
     propsData: {
-      datetime: new Date(Date.UTC(96, 1, 2, 3, 4, 5)).toString(),
+      datetime: new Date(96, 0, 1, 2, 3, 4).toString(),
       format: 'YYYY MM DD hh:mm:ss'
     }
   });
 
   // assert
   console.log(mounted.element.textContent);
-  t.true(mounted.element.textContent === '1996 02 01 10:04:05');
+  t.true(mounted.element.textContent === '1996 01 01 02:03:04');
 });
 </test>
