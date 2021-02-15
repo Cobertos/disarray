@@ -40,4 +40,4 @@ jobs:
       # Run the actions
       - name: Test with vue-cli-service
         run: |
-          npm run test
+          npm run test -- -v
