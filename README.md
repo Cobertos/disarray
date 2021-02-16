@@ -1,3 +1,7 @@
+<p align="center">
+<a href="https://github.com/Cobertos/cobertos-nuxt-template/actions" target="_blank"><img alt="build status" src="https://github.com/Cobertos/cobertos-nuxt-template/workflows/Package%20Tests/badge.svg"></a>
+</p>
+
 # cobertos-nuxt-template
 
 A nuxt template with all of my best practices in Nuxt, clean and clonable (well it's eventually supposed to be x3)
@@ -40,3 +44,4 @@ If you're deploying as a static site not on a static site host, make sure you:
 * Setup a default error handler + best practices for integrating with Nuxt.js's `fetch()` and the other function
 * Add warnings for when specific things have not been changed (like title, ~.npmrc not being removed, etc)
 * Robots.txt, favicon if possible, 
+* head() and meta tags like canonical built in
