@@ -43,6 +43,7 @@ button {
 
 body, html {
   scroll-behavior: smooth; //Chrome and FF only
+  letter-spacing: 0.5px;
 
   @media screen and (prefers-reduced-motion: reduce) {
     scroll-behavior: auto;

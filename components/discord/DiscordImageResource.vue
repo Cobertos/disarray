@@ -16,7 +16,7 @@ export default {
       required: true
     },
     resource: {
-      type: String,
+      type: Object, //guild, user, whatever type of object we're handling
       required: true
     },
     ext: {

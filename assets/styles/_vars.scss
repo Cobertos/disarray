@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=PT+Mono&display=swap');
-$pt-mono: 'PT Mono', monospace;
+@import url('https://fonts.googleapis.com/css2?family=Coda&display=swap');
+$coda: 'Coda', monospace;
 
 // == Bulma overrides ==
 // https://bulma.io/documentation/customize/variables/
@@ -11,8 +11,8 @@ $pt-mono: 'PT Mono', monospace;
 // Also, if you want to create a lot of different variations of something, you can
 // use the $colors array in Bulma as a palette with a scss for loop
 
-$family-primary: $pt-mono;
-$family-secondary: $pt-mono; // We use as title font
+$family-primary: $coda;
+$family-secondary: $coda; // We use as title font
 
 $scheme-main: #000; // Sets body background
 $scheme-main-bis: lighten($scheme-main, 2.5%);
