@@ -6,7 +6,7 @@ import { faFileAlt, faClock } from '@fortawesome/free-regular-svg-icons';
 import { faExclamationTriangle } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome';
 
-config.autoAddCss = false; //Handle this in Nuxt's config
+config.autoAddCss = false; //TODO: Handle this in Nuxt's config
 
 library.add(
   faExclamationTriangle);
