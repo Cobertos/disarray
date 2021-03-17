@@ -32,7 +32,7 @@ export default {
     > div {
       width: 100%;
       height: 100%;
-      background-color: #444;
+      background-color: #BBB;
     }
     
     @for $j from 0 to 20 {
@@ -51,7 +51,7 @@ export default {
             transform: rotate(random(360) * 1deg);
             transition: all 0.3s;
             transition-delay: #{$dist/9 * 0.5s};
-            background-color: lighten(#333, $dist / 5 * 1%);
+            background-color: darken(#CCC, $dist * 1%);
           }
         }
       }
@@ -60,7 +60,7 @@ export default {
 
   &.bgHighlight {
     .mover-base > div {
-      background-color: #FFF;
+      background-color: #000;
     }
   }
 

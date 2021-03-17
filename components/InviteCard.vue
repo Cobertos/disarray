@@ -18,42 +18,49 @@
     />
   </div-->
   <div
-    class="invite-card-content"
+    class="invite-card-top"
   >
-    <div
-      class="invite-card-content-text"
-    >
-      <header>
-        <h3
-          class="invite-card-content-name"
-          :title="`Guild id: ${invite.guild.id}`"
-          v-text="invite.guild.name"
-        />
-        <p
-          class="invite-card-content-channel"
-          :title="`Channel id: ${invite.channel.id}`"
-          v-text="`> #${invite.channel.name}`"
-        />
-      </header>
-      <div
-        class="invite-card-presence">
-        <fa :icon="['fas', 'users']" />
-        {{invite.approximate_member_count}}
-        <fa class="online-icon" :icon="['fas', 'circle']" />
-        {{invite.approximate_presence_count}}
-      </div>
-    </div>
     <discord-image-resource
       class="invite-card-image"
       :resourceType="'guild/icon'"
       :resource="invite.guild"
     />
-    <p
-      class="invite-card-description"
-      v-if="invite.guild.description"
-      v-text="invite.guild.description"
-    />
+    <div
+      class="invite-card-content"
+    >
+      <h3
+        class="invite-card-title"
+        :title="`Guild id: ${invite.guild.id}`"
+        v-text="invite.guild.name"
+      />
+      <div
+        class="invite-card-under-title"
+      >
+        <div
+          class="invite-card-user-count"
+        >
+          <fa :icon="['fas', 'users']" />
+          {{invite.approximate_member_count}}
+        </div>
+        <div
+          class="invite-card-presence-count"
+        >
+          <fa class="online-icon" :icon="['fas', 'circle']" />
+          {{invite.approximate_presence_count}}
+        </div>
+        <p
+          class="invite-card-channel"
+          :title="`Channel id: ${invite.channel.id}`"
+          v-text="`> #${invite.channel.name}`"
+        />
+      </div>
+    </div>
   </div>
+  <p
+    class="invite-card-description"
+    v-if="invite.guild.description"
+    v-text="invite.guild.description"
+  />
 </a>
 </template>
 
@@ -73,60 +80,60 @@ export default {
 <style lang="scss">
 .invite-card {
   position: relative;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  color: #FFF;
+  color: #000;
   background-blend-mode: difference;
+  padding: 30px 10px 10px;
 
-  .invite-card-presence {
-    margin-top: 8px;
-    font-size: 16px;
-
-    .online-icon {
-      color: #7F7;
-      margin-left: 5px;
-    }
+  .invite-card-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
   }
 
   .invite-card-image {
-    width: 96px;
-    height: auto;
+    max-height: 60px;
+    margin-right: 20px;
   }
 
   .invite-card-content {
     width: 100%;
-    padding: 30px 10px 10px;
 
-    .invite-card-content-text {
-      header {
-        display: flex;
-        justify-content: flex-start;
-        align-items: center;
+    .invite-card-title {
+      margin: 0;
+    }
 
-        h3, p {
-          margin: 0;
-        }
+    .invite-card-channel {
+      margin-left: 20px;
+      color: #444;
+      font-size: 14px;
+    }
 
-        .invite-card-content-name {
+    .invite-card-under-title {
+      display: flex;
+      flex-align: flex-start;
+      align-items: center;
+      margin-top: 3px;
+      font-size: 16px;
 
-        }
+      > *:nth-child(n+2) {
+        margin-left: 10px;
+        margin-bottom: 0;
+        margin-top: 0;
+      }
 
-        .invite-card-content-channel {
-          margin-left: 20px;
-          color: #CCC;
-        }
+      .online-icon {
+        color: #7F7;
+      }
+
+      .invite-card-user-count,
+      .invite-card-presence-count {
+        white-space: nowrap;
       }
     }
+  }
 
-    .invite-card-description {
-      margin-top: 10px;
-    }
-
-    .invite-card-image {
-      float: left;
-      margin: 10px;
-    }
+  .invite-card-description {
+    margin-top: 10px;
   }
 }
 </style>

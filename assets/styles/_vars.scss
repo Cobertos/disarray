@@ -14,7 +14,7 @@ $coda: 'Coda', monospace;
 $family-primary: $coda;
 $family-secondary: $coda; // We use as title font
 
-$scheme-main: #000; // Sets body background
+$scheme-main: #FFF; // Sets body background
 $scheme-main-bis: lighten($scheme-main, 2.5%);
 $scheme-main-ter: lighten($scheme-main, 5%);
 
@@ -26,7 +26,7 @@ $primary: #F0F; // Accent color
 
 $background: $scheme-main-ter; //Background of code blocks and other general stuff
 
-$text: #FFF;
+$text: #000;
 $text-light: hsl(0, 0%, 75%); // Also styles $input-disabled-color
 $text-strong: $text; // Also styles $input-color by default
 $link: #22A2BB;
@@ -39,6 +39,6 @@ $body-line-height: 1.1666;
 //Forms overrides
 // $input-color: $text-strong;
 // $input-background-color: $scheme-main;
-$input-placeholder-color: #FFF;
+$input-placeholder-color: #000;
 
 @import "@/node_modules/bulma/sass/utilities/initial-variables";
