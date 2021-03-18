@@ -6,9 +6,9 @@
   "private": true,
   "scripts": {
     "dev": "nuxt",
-    "build": "nuxt build",
+    "build": "nuxt generate --fail-on-page-error",
     "start": "nuxt start",
-    "generate": "nuxt generate",
+    "build-ssr": "nuxt build",
     "lint": "eslint --ext .js,.vue .",
     "test": "ava test/*.js test/components/*.js"
   },
