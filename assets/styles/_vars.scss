@@ -1,5 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Coda&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Coda&family=Do+Hyeon&display=swap');
 $coda: 'Coda', monospace;
+$do-hyeon: 'Do Hyeon', sans-serif;
 
 // == Bulma overrides ==
 // https://bulma.io/documentation/customize/variables/
@@ -14,7 +15,7 @@ $coda: 'Coda', monospace;
 $family-primary: $coda;
 $family-secondary: $coda; // We use as title font
 
-$scheme-main: #FFF; // Sets body background
+$scheme-main: #EEE; // Sets body background
 $scheme-main-bis: lighten($scheme-main, 2.5%);
 $scheme-main-ter: lighten($scheme-main, 5%);
 

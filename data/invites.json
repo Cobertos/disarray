@@ -1,0 +1,6538 @@
+[{
+  "code": "wmnX67c",
+  "guild": {
+    "id": "601723619386589184",
+    "name": "immortal Warriors",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "ca7f39fa8a525c6b58f3bff8767eddc2",
+    "features": [],
+    "verification_level": 1,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "616625961831497739",
+    "name": "all-chat",
+    "type": 0
+  },
+  "inviter": {
+    "id": "259511185332764672",
+    "username": "logic",
+    "avatar": "2d9e57aecedd2d945fcf56da1fdc742c",
+    "discriminator": "0772",
+    "public_flags": 0
+  },
+  "approximate_member_count": 49,
+  "approximate_presence_count": 7
+}, {
+  "code": "010B25KKhFcVlmj0R",
+  "guild": {
+    "id": "179539608923537408",
+    "name": "Boomzap Games",
+    "splash": "1510b6015ccb5a15efb83dfc813ded51",
+    "banner": null,
+    "description": "A discord server for Boomzap's strategy games!",
+    "icon": "59224c36c5c119d938517f922ee748dc",
+    "features": ["VANITY_URL", "COMMUNITY", "NEWS", "PREVIEW_ENABLED", "VERIFIED", "INVITE_SPLASH", "ENABLED_DISCOVERABLE_BEFORE", "DISCOVERABLE", "FEATURABLE"],
+    "verification_level": 3,
+    "vanity_url_code": "boomzap"
+  },
+  "channel": {
+    "id": "179539608923537408",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "179538525975216128",
+    "username": "Boomzap",
+    "avatar": "9a7365ec9a074188688e8da9b91f6509",
+    "discriminator": "2033",
+    "public_flags": 0
+  },
+  "approximate_member_count": 668,
+  "approximate_presence_count": 79
+}, {
+  "code": "010CHVdLdsN4460B1",
+  "guild": {
+    "id": "179597768027799552",
+    "name": "Spam Spam Spam Humbug",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "adb12fac9c8c189bc9c1f2f12b7bf21e",
+    "features": [],
+    "verification_level": 3,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "179597768027799552",
+    "name": "sssh-chat",
+    "type": 0
+  },
+  "inviter": {
+    "id": "179592079352135680",
+    "username": "Spam Spam Spam Humbug",
+    "avatar": "e995a808cbe5fe265b9c807637c9f881",
+    "discriminator": "4258",
+    "public_flags": 256
+  },
+  "approximate_member_count": 89,
+  "approximate_presence_count": 25
+}, {
+  "code": "010khc8PYXCLBdB2J",
+  "guild": {
+    "id": "181200851610763264",
+    "name": "KiwiSimRacing",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "e4daa4bf3407a91ac4da02133af36f90",
+    "features": [],
+    "verification_level": 3,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "181200851610763264",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "181269753833324544",
+    "username": "Riftcreator",
+    "avatar": "7ebcd1f2b9153bd7604e18bb6f20c848",
+    "discriminator": "8102",
+    "public_flags": 0
+  },
+  "approximate_member_count": 275,
+  "approximate_presence_count": 33
+}, {
+  "code": "011j1FhDfsh4AwOzw",
+  "guild": {
+    "id": "184009969639751689",
+    "name": "Tanelorn Art Collective",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "fc57f1ab0c55b11ff02f72a821234e68",
+    "features": ["ANIMATED_ICON", "INVITE_SPLASH"],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "184009969639751689",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "184032863937626112",
+    "username": "TheEFAF",
+    "avatar": "4af01d59d44a751e3636d0992706c82d",
+    "discriminator": "8496",
+    "public_flags": 0
+  },
+  "approximate_member_count": 69,
+  "approximate_presence_count": 43
+}, {
+  "code": "011ZmzbEaggtU7Zww",
+  "guild": {
+    "id": "183580103224197120",
+    "name": "Overwatch Finland",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "1bdbc6ec5587789dd3b27ca8f261e0d7",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "183580103224197120",
+    "name": "overwatch_yleinen",
+    "type": 0
+  },
+  "inviter": {
+    "id": "114353617808392195",
+    "username": "edzy",
+    "avatar": "4108fe83de955d60ce85402d7bd525e4",
+    "discriminator": "6170",
+    "public_flags": 0
+  },
+  "approximate_member_count": 200,
+  "approximate_presence_count": 9
+}, {
+  "code": "0133Oj6ONa2sIJXEs",
+  "guild": {
+    "id": "187846570341826560",
+    "name": "Recommendation Club - MAL",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "15035618deabfc38f7cf4db5b56cd1b7",
+    "features": ["ANIMATED_ICON", "INVITE_SPLASH"],
+    "verification_level": 2,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "187846570341826560",
+    "name": "home",
+    "type": 0
+  },
+  "inviter": {
+    "id": "186218098854985728",
+    "username": "Dahh",
+    "avatar": "fd461ba67dfd2fc234a81386a1762e56",
+    "discriminator": "2720",
+    "public_flags": 64
+  },
+  "approximate_member_count": 1257,
+  "approximate_presence_count": 282
+}, {
+  "code": "013iycF2To7Y3W6hC",
+  "guild": {
+    "id": "189783013192630282",
+    "name": "ShR Germany - Multigaming Community",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "56c0528aa43a2f3f4f570fe75653bec6",
+    "features": ["WELCOME_SCREEN_ENABLED", "COMMUNITY", "NEWS"],
+    "verification_level": 1,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": "Hier kannst Du mit anderen Spielern reden oder Dir auch von den Admins helfen lassen",
+      "welcome_channels": [{
+        "channel_id": "189783013192630282",
+        "description": "Hier kannst Du mit anderen Spielern reden ",
+        "emoji_id": null,
+        "emoji_name": "\ud83c\udfae"
+      }]
+    }
+  },
+  "channel": {
+    "id": "189783013192630282",
+    "name": "allgemein",
+    "type": 5
+  },
+  "inviter": {
+    "id": "161963314572820480",
+    "username": "[ShR]steven",
+    "avatar": "d4e2aa5e667b79c8ea88a14a080f931d",
+    "discriminator": "8118",
+    "public_flags": 0
+  },
+  "approximate_member_count": 19,
+  "approximate_presence_count": 1
+}, {
+  "code": "013opk2ALH9d4yvVq",
+  "guild": {
+    "id": "190055783680049153",
+    "name": "MSPs \u042f Us",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "1022e39df118b63b669bfe47b48f324a",
+    "features": ["WELCOME_SCREEN_ENABLED", "PARTNERED", "PREVIEW_ENABLED", "BANNER", "VANITY_URL", "DISCOVERABLE", "VIP_REGIONS", "ANIMATED_ICON", "ENABLED_DISCOVERABLE_BEFORE", "INVITE_SPLASH", "COMMUNITY", "NEWS"],
+    "verification_level": 2,
+    "vanity_url_code": "mspexchange",
+    "welcome_screen": {
+      "description": "A place for MSPs and IT Professionals to gather and share knowledge and blow off some steam! We are part of the /r/msp Reddit Community.",
+      "welcome_channels": [{
+        "channel_id": "373066625429012494",
+        "description": "Read and accept the terms of this server",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\ude03"
+      }]
+    }
+  },
+  "channel": {
+    "id": "190055783680049153",
+    "name": "msp_chat",
+    "type": 0
+  },
+  "inviter": {
+    "id": "182257162498605056",
+    "username": "Coriron",
+    "avatar": "c5a7c50a9a1b99e49b8c98c9323c7233",
+    "discriminator": "8733",
+    "public_flags": 66
+  },
+  "approximate_member_count": 2110,
+  "approximate_presence_count": 868
+}, {
+  "code": "014EEW9TajlBYvRg9",
+  "guild": {
+    "id": "191238714171588608",
+    "name": "3DCoat",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "4ec374d11184b11dde6c5198b2915634",
+    "features": ["COMMUNITY", "NEWS"],
+    "verification_level": 2,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "191238714171588608",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "164415287360225281",
+    "username": "RJ\ud835\udff2\ud835\udff0",
+    "avatar": "a_08718515ce0690198bd4c418c4bddd61",
+    "discriminator": "0001",
+    "public_flags": 640
+  },
+  "approximate_member_count": 563,
+  "approximate_presence_count": 130
+}, {
+  "code": "0bTpBGNQY1aZL6el",
+  "guild": {
+    "id": "108226999285190656",
+    "name": "HackTech Online",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "53fe9a0b30cbe18bc9b70d152c78683d",
+    "features": [],
+    "verification_level": 2,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "108226999285190656",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "105719303537459200",
+    "username": "Neo",
+    "avatar": "d7942b1617873de9eed36452b8618feb",
+    "discriminator": "8594",
+    "public_flags": 0
+  },
+  "approximate_member_count": 81,
+  "approximate_presence_count": 5
+}, {
+  "code": "0ceIMRAs1wk8IbBt",
+  "guild": {
+    "id": "111602158402568192",
+    "name": "Exile",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "db76746b5d1603c59b92b12cbb940b93",
+    "features": ["NEWS", "COMMUNITY", "WELCOME_SCREEN_ENABLED", "MEMBER_VERIFICATION_GATE_ENABLED", "PREVIEW_ENABLED"],
+    "verification_level": 2,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": "Community Discord for ExileMod. A place to get help on your server, find other players, find servers or get ExileMod support!",
+      "welcome_channels": [{
+        "channel_id": "296391191807787009",
+        "description": "Visit the Rules Channel",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udc40"
+      }, {
+        "channel_id": "111602158402568192",
+        "description": "General ExileMod questions here!",
+        "emoji_id": null,
+        "emoji_name": null
+      }, {
+        "channel_id": "316216175853830145",
+        "description": "Group up with other players here",
+        "emoji_id": null,
+        "emoji_name": null
+      }, {
+        "channel_id": "111845073074806784",
+        "description": "Get support for your ExileMod Server",
+        "emoji_id": null,
+        "emoji_name": null
+      }]
+    }
+  },
+  "channel": {
+    "id": "111602158402568192",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "108538534280847360",
+    "username": "SpiRe",
+    "avatar": "0164835106146650e3062bf4eff14fb8",
+    "discriminator": "1809",
+    "public_flags": 0
+  },
+  "approximate_member_count": 11998,
+  "approximate_presence_count": 1813
+}, {
+  "code": "0cTGvllxEPc5lFce",
+  "guild": {
+    "id": "111088783620898816",
+    "name": "GameHavoc",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "7c0e645c8927d941e90bafd4d79cadc8",
+    "features": [],
+    "verification_level": 1,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "111088783620898816",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "110172734545223680",
+    "username": "ferret",
+    "avatar": "a47b4ba59400543025e4d57ee4166ab2",
+    "discriminator": "1970",
+    "public_flags": 0
+  },
+  "approximate_member_count": 310,
+  "approximate_presence_count": 76
+}, {
+  "code": "0d5KXFqmjo4UU4U3",
+  "guild": {
+    "id": "112861256695771136",
+    "name": "/r/malehairadvice",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "984827ee17357bb00806a9082dbe3132",
+    "features": [],
+    "verification_level": 3,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "112861256695771136",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "102784177799188480",
+    "username": "Rhythmatic",
+    "avatar": "13d546c7304c788a2a6d84de3f35e206",
+    "discriminator": "2894",
+    "public_flags": 0
+  },
+  "approximate_member_count": 347,
+  "approximate_presence_count": 54
+}, {
+  "code": "0dZGiUZAKgqse2me",
+  "guild": {
+    "id": "114255571355566084",
+    "name": "PXCNet",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "f5f19fb830957becde3a39125a0d5366",
+    "features": ["ANIMATED_ICON", "INVITE_SPLASH"],
+    "verification_level": 2,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "114255571355566084",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "105511922903830528",
+    "username": "ProfX",
+    "avatar": "e0459df2324e1d8036ff4d23f99f6651",
+    "discriminator": "1527",
+    "public_flags": 576
+  },
+  "approximate_member_count": 123,
+  "approximate_presence_count": 69
+}, {
+  "code": "0ecYvGc05iHZUCv8",
+  "guild": {
+    "id": "117296477541236742",
+    "name": "fab.industries",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "4bda84eb101df42755d1ebb2de136f7b",
+    "features": [],
+    "verification_level": 1,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "117296477541236742",
+    "name": "\ud83d\ude01-bants",
+    "type": 0
+  },
+  "inviter": {
+    "id": "103621474597740544",
+    "username": "fabsh",
+    "avatar": "a2bcc2d585c41ba34a5a0aaa50bcf133",
+    "discriminator": "2193",
+    "public_flags": 0
+  },
+  "approximate_member_count": 167,
+  "approximate_presence_count": 20
+}, {
+  "code": "0ecYvGc05iHZUCv8",
+  "guild": {
+    "id": "117296477541236742",
+    "name": "fab.industries",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "4bda84eb101df42755d1ebb2de136f7b",
+    "features": [],
+    "verification_level": 1,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "117296477541236742",
+    "name": "\ud83d\ude01-bants",
+    "type": 0
+  },
+  "inviter": {
+    "id": "103621474597740544",
+    "username": "fabsh",
+    "avatar": "a2bcc2d585c41ba34a5a0aaa50bcf133",
+    "discriminator": "2193",
+    "public_flags": 0
+  },
+  "approximate_member_count": 167,
+  "approximate_presence_count": 20
+}, {
+  "code": "0fcURLDpPLovl7V0",
+  "guild": {
+    "id": "120180622235795457",
+    "name": "Planet Valeya",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "e309c526abd8c6137222e68e74756821",
+    "features": [],
+    "verification_level": 1,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "122048271609757696",
+    "name": "welcome",
+    "type": 0
+  },
+  "inviter": {
+    "id": "111688902737141760",
+    "username": "Valeya",
+    "avatar": "d44b93c925153701aef6fa00499bd05e",
+    "discriminator": "4093",
+    "public_flags": 128
+  },
+  "approximate_member_count": 5,
+  "approximate_presence_count": 0
+}, {
+  "code": "0fO5zUYPUHzdztvt",
+  "guild": {
+    "id": "119510237819568131",
+    "name": "Techacraft",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "735aa120460686a4b83f6e60518e1b13",
+    "features": [],
+    "verification_level": 1,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "119510237819568131",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "119510072865980419",
+    "username": "ssfdre38",
+    "avatar": "e3fb3f4758368613646fb8f2ab6f81c6",
+    "discriminator": "2693",
+    "public_flags": 0
+  },
+  "approximate_member_count": 9,
+  "approximate_presence_count": 5
+}, {
+  "code": "0gtnFrsSwOjDGZz0",
+  "guild": {
+    "id": "123874004640464896",
+    "name": "PlanetSide Universe",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "ffcbf017739f4fcdc4d74f4e78c19a1a",
+    "features": ["COMMUNITY", "NEWS"],
+    "verification_level": 3,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "123874004640464896",
+    "name": "ps-universe",
+    "type": 0
+  },
+  "inviter": {
+    "id": "101407158041587712",
+    "username": "Hamma",
+    "avatar": "5f3720558c8c709b8805dfe56753f522",
+    "discriminator": "1925",
+    "public_flags": 0
+  },
+  "approximate_member_count": 928,
+  "approximate_presence_count": 106
+}, {
+  "code": "0h85tq5Z30IGwHUP",
+  "guild": {
+    "id": "124540028876619776",
+    "name": "StreamerSquare",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "e7c2b108d6c91aeca18ec0c4f0df375f",
+    "features": ["VANITY_URL", "NEWS", "VIP_REGIONS", "COMMUNITY", "WELCOME_SCREEN_ENABLED", "INVITE_SPLASH"],
+    "verification_level": 1,
+    "vanity_url_code": "streamersquare",
+    "welcome_screen": {
+      "description": "Your one stop shop for resources, networking, collabs, help & all things streaming!",
+      "welcome_channels": [{
+        "channel_id": "124673307738898433",
+        "description": "Welcome & learn what goes where!",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udc4b"
+      }, {
+        "channel_id": "807851847175635004",
+        "description": "Check out our rules for the community.",
+        "emoji_id": null,
+        "emoji_name": "\u261d\ufe0f"
+      }, {
+        "channel_id": "124694446422884355",
+        "description": "Hear the latest in StreamerSquare news!",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udcf0"
+      }, {
+        "channel_id": "641017234776653847",
+        "description": "Assign yourself some roles here.",
+        "emoji_id": null,
+        "emoji_name": "\u270d\ufe0f"
+      }, {
+        "channel_id": "124673574177865730",
+        "description": "Help us learn a little bit about you!",
+        "emoji_id": null,
+        "emoji_name": "\ud83e\udd70"
+      }]
+    }
+  },
+  "channel": {
+    "id": "124673307738898433",
+    "name": "welcome",
+    "type": 0
+  },
+  "inviter": {
+    "id": "84636149716353024",
+    "username": "Lowco",
+    "avatar": "a_257b75d8a4c31d37695da5f485a83f48",
+    "discriminator": "2525",
+    "public_flags": 2
+  },
+  "approximate_member_count": 1261,
+  "approximate_presence_count": 456
+}, {
+  "code": "0i6DuEImt0l5owfQ",
+  "guild": {
+    "id": "127340409411207169",
+    "name": "ZizzyDizzyMC+",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": null,
+    "features": [],
+    "verification_level": 2,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "127340409411207169",
+    "name": "general_all_talk",
+    "type": 0
+  },
+  "inviter": {
+    "id": "95618300632895488",
+    "username": "ZizzyDizzyMC",
+    "avatar": "3c327cce90b113d7f54a5f797ed9d286",
+    "discriminator": "1404",
+    "public_flags": 768
+  },
+  "approximate_member_count": 904,
+  "approximate_presence_count": 368
+}, {
+  "code": "0jo51aWck9mJ7z04",
+  "guild": {
+    "id": "132270451995967488",
+    "name": "Jason's Lair",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "33747eb87f502a297316dc214498fa57",
+    "features": [],
+    "verification_level": 2,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "181131709654237194",
+    "name": "welcome",
+    "type": 0
+  },
+  "inviter": {
+    "id": "126008053794471936",
+    "username": "Jason McRay",
+    "avatar": "0dc37f18e3d423be07f423a91a03be55",
+    "discriminator": "2613",
+    "public_flags": 0
+  },
+  "approximate_member_count": 85,
+  "approximate_presence_count": 38
+}, {
+  "code": "0jp95hmNR7nzSKJF",
+  "guild": {
+    "id": "132320079344959488",
+    "name": "Celica Discord",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "9d3263c759d1b7069c3fc0beeca5f8e5",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "132320079344959488",
+    "name": "generaltalk-offtopic",
+    "type": 0
+  },
+  "inviter": {
+    "id": "89595510217777152",
+    "username": "NowItsAngeTime\ud83d\udc49 \ud83d\udc4c",
+    "avatar": "3cdcd0674030a12a640760d604c1caf8",
+    "discriminator": "5392",
+    "public_flags": 512
+  },
+  "approximate_member_count": 531,
+  "approximate_presence_count": 260
+}, {
+  "code": "0k6DmW5RNojqnyiC",
+  "guild": {
+    "id": "133115339880792064",
+    "name": "Perisno",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "f14372f4c8ed7bd659e345459503bbdc",
+    "features": [],
+    "verification_level": 3,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "133115339880792064",
+    "name": "discussion",
+    "type": 0
+  },
+  "inviter": {
+    "id": "119911673363562499",
+    "username": "Michadr",
+    "avatar": "649d9306ef30d8bea37241f36199908d",
+    "discriminator": "2517",
+    "public_flags": 0
+  },
+  "approximate_member_count": 1726,
+  "approximate_presence_count": 399
+}, {
+  "code": "0lSrqkKoVVl8nGHW",
+  "guild": {
+    "id": "137057551056502784",
+    "name": "Crypt of the Necrobot",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "db49823374f6b206a27fe90f372d693b",
+    "features": [],
+    "verification_level": 2,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "137057551056502784",
+    "name": "necrobot_main",
+    "type": 0
+  },
+  "inviter": {
+    "id": "83612082250977280",
+    "username": "CANCEL",
+    "avatar": "7110f02fbc91f153b0ba10f431874c5d",
+    "discriminator": "8123",
+    "public_flags": 0
+  },
+  "approximate_member_count": 781,
+  "approximate_presence_count": 279
+}, {
+  "code": "0lSrqkKoVVl8nGHW",
+  "guild": {
+    "id": "137057551056502784",
+    "name": "Crypt of the Necrobot",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "db49823374f6b206a27fe90f372d693b",
+    "features": [],
+    "verification_level": 2,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "137057551056502784",
+    "name": "necrobot_main",
+    "type": 0
+  },
+  "inviter": {
+    "id": "83612082250977280",
+    "username": "CANCEL",
+    "avatar": "7110f02fbc91f153b0ba10f431874c5d",
+    "discriminator": "8123",
+    "public_flags": 0
+  },
+  "approximate_member_count": 781,
+  "approximate_presence_count": 279
+}, {
+  "code": "0lx4QhQvwelCZbEX",
+  "guild": {
+    "id": "138464183946575874",
+    "name": "Skript Chat",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "e4a34989cd6d152d6bd3b018e5b0b03d",
+    "features": ["COMMUNITY", "NEWS"],
+    "verification_level": 3,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "138666264196415488",
+    "name": "welcome",
+    "type": 0
+  },
+  "inviter": {
+    "id": "138441986314207232",
+    "username": "tim740",
+    "avatar": "05b8386ecad7888baa30fa4a83b52a7e",
+    "discriminator": "1139",
+    "public_flags": 128
+  },
+  "approximate_member_count": 1244,
+  "approximate_presence_count": 302
+}, {
+  "code": "0m61FPOaAIYzzCNb",
+  "guild": {
+    "id": "138880948589559808",
+    "name": "Dream \ud83c\udfae",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "c1383fc9a83bead36c35df1e98c15984",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "138880949034287104",
+    "name": "\u2b50 Home",
+    "type": 2
+  },
+  "inviter": {
+    "id": "138880331825676288",
+    "username": "CaesarRex \u26a1",
+    "avatar": "84fe55ddaa0a8ddbd5aa24ec9e91b218",
+    "discriminator": "1187",
+    "public_flags": 0
+  },
+  "approximate_member_count": 239,
+  "approximate_presence_count": 20
+}, {
+  "code": "0mARCtSLwDKPFC7X",
+  "guild": {
+    "id": "139086739728891904",
+    "name": "Trinity Force Network",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "eeb0b76202bae2ee2f3da159e929e088",
+    "features": ["ANIMATED_ICON", "INVITE_SPLASH"],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "139086739728891904",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "129804475207516160",
+    "username": "Santana",
+    "avatar": "00ff3c4d704b8cd12fa89c0258a6b16b",
+    "discriminator": "9770",
+    "public_flags": 0
+  },
+  "approximate_member_count": 2067,
+  "approximate_presence_count": 954
+}, {
+  "code": "0mARCtSLwDKPFC7X",
+  "guild": {
+    "id": "139086739728891904",
+    "name": "Trinity Force Network",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "eeb0b76202bae2ee2f3da159e929e088",
+    "features": ["INVITE_SPLASH", "ANIMATED_ICON"],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "139086739728891904",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "129804475207516160",
+    "username": "Santana",
+    "avatar": "00ff3c4d704b8cd12fa89c0258a6b16b",
+    "discriminator": "9770",
+    "public_flags": 0
+  },
+  "approximate_member_count": 2067,
+  "approximate_presence_count": 954
+}, {
+  "code": "0mdj2FWiVBI5ry8j",
+  "guild": {
+    "id": "140450742329671680",
+    "name": "JustChunks",
+    "splash": "0d4cf77ae20a665a64b039a7743d6ede",
+    "banner": null,
+    "description": null,
+    "icon": "7670e9cc247278744c49dc0601ddff39",
+    "features": ["WELCOME_SCREEN_ENABLED", "INVITE_SPLASH", "NEWS", "COMMUNITY", "ANIMATED_ICON"],
+    "verification_level": 2,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": "JustChunks ist ein Minecraft-Netzwerk der Superlative! Entdecke Minecraft von einer anderen Seite und erlebe spektakul\u00e4re Serverkonzepte!",
+      "welcome_channels": [{
+        "channel_id": "739111448361304115",
+        "description": "Erfahre mehr \u00fcber unser Projekt!",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udd90\ufe0f"
+      }, {
+        "channel_id": "721374934286336011",
+        "description": "Schau dir unsere aktuellen Neuigkeiten an!",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udce8"
+      }, {
+        "channel_id": "140450742329671680",
+        "description": "Chatte mit anderen \u00fcber unser Netzwerk!",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udcac"
+      }, {
+        "channel_id": "274003258404634624",
+        "description": "Tausche dich zu Ingame-Inhalten aus!",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udd25"
+      }, {
+        "channel_id": "274003291203960842",
+        "description": "Rede \u00fcber deine Hobbies und Interessen!",
+        "emoji_id": null,
+        "emoji_name": "\u2615"
+      }]
+    }
+  },
+  "channel": {
+    "id": "140450742329671680",
+    "name": "allgemein",
+    "type": 0
+  },
+  "inviter": {
+    "id": "140448624961257472",
+    "username": "Scrayos",
+    "avatar": "1abc805216bbdc5566df48f02d73929a",
+    "discriminator": "0001",
+    "public_flags": 640
+  },
+  "approximate_member_count": 104,
+  "approximate_presence_count": 7
+}, {
+  "code": "0nwmJditBZRmLlKG",
+  "guild": {
+    "id": "144225601203601409",
+    "name": "The Fridge :3",
+    "splash": "32b6d2e2c033aa099c3c1251b0e973af",
+    "banner": null,
+    "description": null,
+    "icon": "a_1135852e4593d31c56ecac65d1611456",
+    "features": ["PREVIEW_ENABLED", "VIP_REGIONS", "MEMBER_VERIFICATION_GATE_ENABLED", "INVITE_SPLASH", "WELCOME_SCREEN_ENABLED", "BANNER", "NEWS", "ANIMATED_ICON", "COMMUNITY", "VANITY_URL"],
+    "verification_level": 4,
+    "vanity_url_code": "cheese",
+    "welcome_screen": {
+      "description": "This server is for the twitch streamer and speedrunner cheese. Find him at https://www.twitch.tv/cheese",
+      "welcome_channels": [{
+        "channel_id": "641123554548645890",
+        "description": "Verify yourself here by typing .iam Babes",
+        "emoji_id": null,
+        "emoji_name": null
+      }]
+    }
+  },
+  "channel": {
+    "id": "144225601203601409",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "83069682034151424",
+    "username": "cheese",
+    "avatar": "5021744e8a73d919de95823cd9b87217",
+    "discriminator": "6378",
+    "public_flags": 0
+  },
+  "approximate_member_count": 2782,
+  "approximate_presence_count": 884
+}, {
+  "code": "0nYTV31qsVDUL6FC",
+  "guild": {
+    "id": "143093720554799106",
+    "name": "KaefGAMES",
+    "splash": "e5edfcf60bd466866307baa28dca1467",
+    "banner": null,
+    "description": null,
+    "icon": "143fd852638299d71f7a916a469bdb83",
+    "features": ["NEWS", "INVITE_SPLASH", "MEMBER_VERIFICATION_GATE_ENABLED", "WELCOME_SCREEN_ENABLED", "COMMUNITY", "ANIMATED_ICON", "PREVIEW_ENABLED"],
+    "verification_level": 3,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": "Wir bieten eine freundliche Community die sich f\u00fcr Videospiele interessiert und eigene Gameserver f\u00fcr so manches Spiel. :)",
+      "welcome_channels": [{
+        "channel_id": "143093720554799106",
+        "description": "Wissenswertes",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udcf0"
+      }, {
+        "channel_id": "713861927339687976",
+        "description": "Neu hier? Erz\u00e4hl uns was \u00fcber dich!",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udd90\ufe0f"
+      }, {
+        "channel_id": "686671444326875178",
+        "description": "W\u00e4hle was du sehen willst...",
+        "emoji_id": null,
+        "emoji_name": "\ud83e\uddfb"
+      }, {
+        "channel_id": "143094659776774144",
+        "description": "Rede mit uns... \u00fcber irgendwas",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udcac"
+      }, {
+        "channel_id": "686691342575075338",
+        "description": "Du hast Fragen oder Probleme? Hier rein!",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udca1"
+      }]
+    }
+  },
+  "channel": {
+    "id": "143093720554799106",
+    "name": "\ud83d\udcf0news",
+    "type": 5
+  },
+  "inviter": {
+    "id": "132673330338594816",
+    "username": "Wolfispielt",
+    "avatar": "e87757f4ed23acb55b0419782a35be45",
+    "discriminator": "1617",
+    "public_flags": 256
+  },
+  "approximate_member_count": 304,
+  "approximate_presence_count": 27
+}, {
+  "code": "0o4cLxqcc2KjhN4k",
+  "guild": {
+    "id": "144590699818385408",
+    "name": "ESL Overwatch",
+    "splash": null,
+    "banner": "0725a4c21004e45721a385548d1947e1",
+    "description": "ESL Play Overwatch Discord server",
+    "icon": "8364bd61bbeb601641082eb51dff4a5d",
+    "features": [],
+    "verification_level": 1,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "144600177288806400",
+    "name": "welcome",
+    "type": 0
+  },
+  "inviter": {
+    "id": "140861380831084545",
+    "username": "Raner",
+    "avatar": "87149df821dd845548be00a4ceed5a36",
+    "discriminator": "0222",
+    "public_flags": 64
+  },
+  "approximate_member_count": 11411,
+  "approximate_presence_count": 1871
+}, {
+  "code": "0p2MaSihBcgrDbXH",
+  "guild": {
+    "id": "147373223103692800",
+    "name": "Khaldor",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "d7ac0db3cb1171f4827b2d634f43e31e",
+    "features": ["NEWS", "COMMUNITY"],
+    "verification_level": 1,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "147373223103692800",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "110441784563249152",
+    "username": "Khaldor",
+    "avatar": "fbea87ce1827231816179ecd24b26405",
+    "discriminator": "3870",
+    "public_flags": 0
+  },
+  "approximate_member_count": 1139,
+  "approximate_presence_count": 180
+}, {
+  "code": "0pXADIg1nH42HjPn",
+  "guild": {
+    "id": "148807684374659073",
+    "name": "ESL Hearthstone",
+    "splash": null,
+    "banner": "0725a4c21004e45721a385548d1947e1",
+    "description": "ESL Play Hearthstone Discord server",
+    "icon": "df7bc6ea176fe576a0bd325031d3e7e7",
+    "features": [],
+    "verification_level": 1,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "182488911346401280",
+    "name": "es-support",
+    "type": 0
+  },
+  "inviter": {
+    "id": "104984301707202560",
+    "username": "PixelDust",
+    "avatar": "9b5a3d8752fe0226ed96d0543ef7fb1f",
+    "discriminator": "3385",
+    "public_flags": 640
+  },
+  "approximate_member_count": 5072,
+  "approximate_presence_count": 184
+}, {
+  "code": "0Qag4vIkjr9iqGsh",
+  "guild": {
+    "id": "76783539764342784",
+    "name": "Pearlmc",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "51e2a97446e2b0d6760e42ba260af99a",
+    "features": [],
+    "verification_level": 2,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "139518670362771456",
+    "name": "minecraft",
+    "type": 0
+  },
+  "inviter": {
+    "id": "76782912212570112",
+    "username": "shailagray",
+    "avatar": "80b3c1932c70d9745a92851cbea90622",
+    "discriminator": "8470",
+    "public_flags": 0
+  },
+  "approximate_member_count": 63,
+  "approximate_presence_count": 14
+}, {
+  "code": "0QeKZgrc96hoeuBy",
+  "guild": {
+    "id": "76953677801201664",
+    "name": "Einsof",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "63570617d28b79a6dfdd75743a763b94",
+    "features": [],
+    "verification_level": 1,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "76953677801201664",
+    "name": "lobby",
+    "type": 0
+  },
+  "inviter": {
+    "id": "76953221351870464",
+    "username": "Einzo",
+    "avatar": "78e451e7137a2c78b013d4e45c88972e",
+    "discriminator": "5386",
+    "public_flags": 0
+  },
+  "approximate_member_count": 1107,
+  "approximate_presence_count": 103
+}, {
+  "code": "0R8vzWSjOknvKvOP",
+  "guild": {
+    "id": "78378967412768768",
+    "name": "Project SEAPonyCon",
+    "splash": "ec1530c5f823addefa7bca01743f977f",
+    "banner": null,
+    "description": null,
+    "icon": "6e90d00d7e6cc186bd33a3a04e42118d",
+    "features": ["ANIMATED_ICON", "MEMBER_VERIFICATION_GATE_ENABLED", "COMMUNITY", "WELCOME_SCREEN_ENABLED", "PREVIEW_ENABLED", "INVITE_SPLASH", "NEWS"],
+    "verification_level": 3,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": "A place for friendship shouldn't be for just one nation. Welcome to Southeast Asia's premier brony community!",
+      "welcome_channels": [{
+        "channel_id": "199591914993876992",
+        "description": "Catch up on Project SEAPonyCon's news!",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udce2"
+      }, {
+        "channel_id": "324883362089009152",
+        "description": "Get yourself a Country Role!",
+        "emoji_id": null,
+        "emoji_name": "\ud83c\udfc1"
+      }, {
+        "channel_id": "78378967412768768",
+        "description": "Make some new friends today!",
+        "emoji_id": null,
+        "emoji_name": "\u2764\ufe0f"
+      }]
+    }
+  },
+  "channel": {
+    "id": "78378967412768768",
+    "name": "lobby",
+    "type": 0
+  },
+  "inviter": {
+    "id": "78178732241588224",
+    "username": "St. Pinkie",
+    "avatar": "a_e7e55eac0301ad7d4b1550bfce211759",
+    "discriminator": "2409",
+    "public_flags": 128
+  },
+  "approximate_member_count": 1006,
+  "approximate_presence_count": 291
+}, {
+  "code": "0rXxFfzUp16HL97l",
+  "guild": {
+    "id": "154619544596381697",
+    "name": "GeeklyInc",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "cda967550842c74032f51d9bc7e93514",
+    "features": ["INVITE_SPLASH", "ANIMATED_ICON"],
+    "verification_level": 2,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "154619544596381697",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "154619345123672065",
+    "username": "TheMikeBachmann",
+    "avatar": "8f5b2d996d01d0fda6ee4ad9dcd9bdf5",
+    "discriminator": "9438",
+    "public_flags": 0
+  },
+  "approximate_member_count": 1543,
+  "approximate_presence_count": 486
+}, {
+  "code": "0s6BodaMCuYi0Q1U",
+  "guild": {
+    "id": "156213958909362177",
+    "name": "Anime Summit",
+    "splash": "87705ed2166e9cf0f7474231d01147f4",
+    "banner": "721d007a3972e45ee588a0b40fa6bf49",
+    "description": null,
+    "icon": "a517eecb2fe14d84c4cf88ec9c6e70f8",
+    "features": ["INVITE_SPLASH", "ANIMATED_ICON", "BANNER"],
+    "verification_level": 3,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "156213958909362177",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "156213772090867712",
+    "username": "kwoka",
+    "avatar": "efd6ccead8fa1bac23914e512c8261ae",
+    "discriminator": "3011",
+    "public_flags": 0
+  },
+  "approximate_member_count": 391,
+  "approximate_presence_count": 101
+}, {
+  "code": "0Scfe0bjjACAuRJ0",
+  "guild": {
+    "id": "82651383144120320",
+    "name": "ozfortress",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "6f98f0e1610b25bba14dca9215a894bb",
+    "features": ["WELCOME_SCREEN_ENABLED", "NEWS", "COMMUNITY"],
+    "verification_level": 2,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": "Your go-to hub for AU/NZ Team Fotress 2 discussion, the ozfortress Discord is a server hosted by the administrators of ozfortress.com.",
+      "welcome_channels": [{
+        "channel_id": "320771298076655628",
+        "description": "This channel is a guide to ozfortress!",
+        "emoji_id": null,
+        "emoji_name": null
+      }, {
+        "channel_id": "273241821029859328",
+        "description": "The latest ozfortress news!",
+        "emoji_id": null,
+        "emoji_name": null
+      }, {
+        "channel_id": "82651383144120320",
+        "description": "All your TF2 related discussion goes here!",
+        "emoji_id": null,
+        "emoji_name": null
+      }, {
+        "channel_id": "274871084950618123",
+        "description": "Book TF2 servers for your team to play on!",
+        "emoji_id": null,
+        "emoji_name": null
+      }]
+    }
+  },
+  "channel": {
+    "id": "82651383144120320",
+    "name": "tf-discussion",
+    "type": 0
+  },
+  "inviter": {
+    "id": "82607060549636096",
+    "username": "zenith",
+    "avatar": "956a790bb8448e46b11c8916ea4efb5c",
+    "discriminator": "1993",
+    "public_flags": 768
+  },
+  "approximate_member_count": 2391,
+  "approximate_presence_count": 541
+}, {
+  "code": "0sfmstba3ZDgxWi0",
+  "guild": {
+    "id": "157871851006197760",
+    "name": "Nexuiz",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "f565bd7d6e2c170f197e8e9c1f01be61",
+    "features": [],
+    "verification_level": 2,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "157878795032854528",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "113130461299015680",
+    "username": "Tiggs",
+    "avatar": "c43a149b26d05b6dd04d0957ee41e483",
+    "discriminator": "0175",
+    "public_flags": 0
+  },
+  "approximate_member_count": 242,
+  "approximate_presence_count": 22
+}, {
+  "code": "0STItLstjFHO23Wo",
+  "guild": {
+    "id": "82215137078943744",
+    "name": "Scrubtopia",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "7d54177bdc16310542616be7024a8fa9",
+    "features": [],
+    "verification_level": 1,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "130143857563271168",
+    "name": "landing-channel",
+    "type": 0
+  },
+  "inviter": {
+    "id": "81844441643483136",
+    "username": "Presidante",
+    "avatar": "7798b5cb29431f71f53d5bae4962dec7",
+    "discriminator": "6223",
+    "public_flags": 0
+  },
+  "approximate_member_count": 63,
+  "approximate_presence_count": 22
+}, {
+  "code": "0tA4eAfo2cw2hVRa",
+  "guild": {
+    "id": "159282376940191744",
+    "name": "Yousician Guitar / Ukelele / Piano",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "8f211ec3ae28257287067fb40352f91e",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "159282376940191744",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "159069783600398336",
+    "username": "Lexakozz",
+    "avatar": "96871aea2c07e61149580bba9a69ea13",
+    "discriminator": "3885",
+    "public_flags": 0
+  },
+  "approximate_member_count": 20,
+  "approximate_presence_count": 1
+}, {
+  "code": "0TKQwZWu7JEPeAgW",
+  "guild": {
+    "id": "84689542480674816",
+    "name": "Natural Selection 2 (Official)",
+    "splash": "feb087a6c0071451663ee2cd064bffef",
+    "banner": null,
+    "description": "The official Natural Selection 2 Discord server. Join to chat with other players and the developers.",
+    "icon": "a_0a077413038853a5576b7335dd648f80",
+    "features": ["VERIFIED", "INVITE_SPLASH", "WELCOME_SCREEN_ENABLED", "VANITY_URL", "ANIMATED_ICON", "FEATURABLE", "PREVIEW_ENABLED", "COMMUNITY", "DISCOVERABLE", "NEWS"],
+    "verification_level": 1,
+    "vanity_url_code": "ns2",
+    "welcome_screen": {
+      "description": "Welcome to the official NS2 Server! Ask questions, learn about the game and keep up with News and Events!",
+      "welcome_channels": [{
+        "channel_id": "124106303235817473",
+        "description": "Check the latest News & Events",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udce2"
+      }, {
+        "channel_id": "728342799895887993",
+        "description": "Get help with an issue",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udda5\ufe0f"
+      }, {
+        "channel_id": "124028014525808642",
+        "description": "Ask any questions you have here!",
+        "emoji_id": null,
+        "emoji_name": "\u2754"
+      }, {
+        "channel_id": "689194645376335943",
+        "description": "Make a suggestion for the game",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udca1"
+      }]
+    }
+  },
+  "channel": {
+    "id": "84689542480674816",
+    "name": "welcome",
+    "type": 0
+  },
+  "inviter": {
+    "id": "84705405652987904",
+    "username": "Obraxis",
+    "avatar": "a_a8f0826e268b9ad40e9d7e7216f6b449",
+    "discriminator": "1701",
+    "public_flags": 514
+  },
+  "approximate_member_count": 5866,
+  "approximate_presence_count": 1418
+}, {
+  "code": "0tqLARJUjiaXcVQX",
+  "guild": {
+    "id": "161250843163754496",
+    "name": "Mobile Frame 0: University",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "f05309018752f1356f7e13fff88d81d2",
+    "features": [],
+    "verification_level": 2,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "161250843163754496",
+    "name": "\ud83e\udd16mf0_rapid_attack",
+    "type": 0
+  },
+  "inviter": {
+    "id": "161245952257032193",
+    "username": "Shades_Corvid",
+    "avatar": "9dcf1ab3069c3b1d682ed3e06622ec82",
+    "discriminator": "0695",
+    "public_flags": 512
+  },
+  "approximate_member_count": 484,
+  "approximate_presence_count": 184
+}, {
+  "code": "0tS8cUNh9f6WOE6C",
+  "guild": {
+    "id": "160123671178903552",
+    "name": "dore\u00b2cuo",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "ea64308e19ff933ccb32b639f89a5b26",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "160123671178903552",
+    "name": "trackmania",
+    "type": 0
+  },
+  "inviter": {
+    "id": "95699690263150592",
+    "username": "hec_ker",
+    "avatar": "5f455c4dc2802aae64c0726c58308661",
+    "discriminator": "1024",
+    "public_flags": 0
+  },
+  "approximate_member_count": 127,
+  "approximate_presence_count": 18
+}, {
+  "code": "0tXZE0U3mHw9QfSg",
+  "guild": {
+    "id": "160376520119025664",
+    "name": "ColHor",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "4c9f84c37dce5cf84ecff069e35352e9",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "160376520119025665",
+    "name": "Vocal accueil",
+    "type": 2
+  },
+  "inviter": {
+    "id": "159752010227384321",
+    "username": "94 L\u00e9o",
+    "avatar": "34738d0d01ed06f8062fedb2b1664133",
+    "discriminator": "2541",
+    "public_flags": 0
+  },
+  "approximate_member_count": 39,
+  "approximate_presence_count": 7
+}, {
+  "code": "0ty614SZ2QQ0O9P6",
+  "guild": {
+    "id": "161612044238323712",
+    "name": "Dragon Age",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "1a2b5ee6e925aa23c890313e6b5705d8",
+    "features": [],
+    "verification_level": 2,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "161612044238323712",
+    "name": "thedas_talks-about-clothes",
+    "type": 0
+  },
+  "inviter": {
+    "id": "116961790356750343",
+    "username": "Tyr",
+    "avatar": "8b7740f60b076b2c07728ad6a438d681",
+    "discriminator": "7420",
+    "public_flags": 0
+  },
+  "approximate_member_count": 12,
+  "approximate_presence_count": 3
+}, {
+  "code": "0tZc1wn8wESNqIa6",
+  "guild": {
+    "id": "160471773077438465",
+    "name": "The Sims & Friends",
+    "splash": "027c4bc96ce02792cd006086f93258d8",
+    "banner": null,
+    "description": null,
+    "icon": "c1f4cd8c95018b62af29280f570e3a15",
+    "features": ["ANIMATED_ICON", "NEWS", "COMMUNITY", "PREVIEW_ENABLED", "INVITE_SPLASH", "MEMBER_VERIFICATION_GATE_ENABLED", "WELCOME_SCREEN_ENABLED"],
+    "verification_level": 1,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": "Friendly Simmers unite to chat and play together!",
+      "welcome_channels": [{
+        "channel_id": "627286471837089812",
+        "description": "Select your roles and get verified!",
+        "emoji_id": null,
+        "emoji_name": null
+      }, {
+        "channel_id": "160471773077438465",
+        "description": "Chat about nearly anything!",
+        "emoji_id": null,
+        "emoji_name": null
+      }, {
+        "channel_id": "164393571535814656",
+        "description": "Share your Sims screenshots!",
+        "emoji_id": null,
+        "emoji_name": null
+      }, {
+        "channel_id": "264446584454905856",
+        "description": "Find the latest deals and giveaways!",
+        "emoji_id": null,
+        "emoji_name": null
+      }, {
+        "channel_id": "496491899096530944",
+        "description": "See all the other channels!",
+        "emoji_id": null,
+        "emoji_name": null
+      }]
+    }
+  },
+  "channel": {
+    "id": "160571622191792128",
+    "name": "welcome-faq",
+    "type": 0
+  },
+  "inviter": {
+    "id": "159859608125440000",
+    "username": "Kit",
+    "avatar": "487cfccfeca97af8a7f223de11414bda",
+    "discriminator": "3361",
+    "public_flags": 64
+  },
+  "approximate_member_count": 5871,
+  "approximate_presence_count": 1093
+}, {
+  "code": "0u1iWUoakEoVHF7I",
+  "guild": {
+    "id": "161780687899197440",
+    "name": "Wiimmfi League",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "a3b625163bd2c8bb6684335faa61139a",
+    "features": [],
+    "verification_level": 3,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "161780687899197440",
+    "name": "wl-discussion",
+    "type": 0
+  },
+  "inviter": {
+    "id": "82771731055378432",
+    "username": "~Maidvelia\ud83c\udf94~",
+    "avatar": "2784141d55bf2bcaca447b7ac828a3e5",
+    "discriminator": "0697",
+    "public_flags": 768
+  },
+  "approximate_member_count": 413,
+  "approximate_presence_count": 132
+}, {
+  "code": "0uAWkNE5uy0qqEPT",
+  "guild": {
+    "id": "162190996912865280",
+    "name": "The Beret Army",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "2b1892eb113308aa6fc42db0760df057",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "162190996912865280",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "100686459027091456",
+    "username": "Adrigreat",
+    "avatar": "10740b9ab9a8a0fd13b83dc3741d2727",
+    "discriminator": "3845",
+    "public_flags": 512
+  },
+  "approximate_member_count": 783,
+  "approximate_presence_count": 330
+}, {
+  "code": "0uCJM7v10Kj90iP0",
+  "guild": {
+    "id": "162274083432693770",
+    "name": "SB Xlink Kai",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "d285a02f41e725ff6a38944db3d94070",
+    "features": [],
+    "verification_level": 3,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "162274083432693770",
+    "name": "marketplace",
+    "type": 0
+  },
+  "inviter": {
+    "id": "152747268284350465",
+    "username": "TheBestMasta",
+    "avatar": "f8f557d05561e62834fb6129c71a02ab",
+    "discriminator": "5268",
+    "public_flags": 0
+  },
+  "approximate_member_count": 510,
+  "approximate_presence_count": 156
+}, {
+  "code": "0UOJj4j19ZQx2LnU",
+  "guild": {
+    "id": "87757923794563072",
+    "name": "TouchArcade",
+    "splash": "95f2ad46eec737f936ca9d092af99660",
+    "banner": null,
+    "description": null,
+    "icon": "f48db2a4386648a918be77e02896ed93",
+    "features": ["VANITY_URL", "VIP_REGIONS", "INVITE_SPLASH"],
+    "verification_level": 2,
+    "vanity_url_code": "toucharcade"
+  },
+  "channel": {
+    "id": "87757923794563072",
+    "name": "rules-and-lobby",
+    "type": 0
+  },
+  "inviter": {
+    "id": "87757576116117504",
+    "username": "Eli",
+    "avatar": "a_b9327f1dabc5c97349c3c93250172e0f",
+    "discriminator": "1337",
+    "public_flags": 512
+  },
+  "approximate_member_count": 7955,
+  "approximate_presence_count": 476
+}, {
+  "code": "0uZWqutz826jWjJI",
+  "guild": {
+    "id": "163355395526492160",
+    "name": "Addic Community",
+    "splash": "b0bc14e59f2b545160dd4c7da586a60c",
+    "banner": null,
+    "description": null,
+    "icon": "14829a6738f8568714a39ce1d9a7817b",
+    "features": ["INVITE_SPLASH", "ANIMATED_ICON"],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "163355395526492160",
+    "name": "ffa",
+    "type": 0
+  },
+  "inviter": {
+    "id": "128682654571823104",
+    "username": "Kalan",
+    "avatar": "4ce801ec8a1d4953b8319d8ece8ddeb2",
+    "discriminator": "9340",
+    "public_flags": 64
+  },
+  "approximate_member_count": 96,
+  "approximate_presence_count": 7
+}, {
+  "code": "0V8QYaVCUdNHq2fu",
+  "guild": {
+    "id": "89905402531049472",
+    "name": "flagrun",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "a7fdb63285e25ad736f0e07126216236",
+    "features": ["INVITE_SPLASH", "NEWS", "COMMUNITY", "ANIMATED_ICON"],
+    "verification_level": 1,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "89905402531049472",
+    "name": "public",
+    "type": 0
+  },
+  "inviter": {
+    "id": "89904834911682560",
+    "username": "Liothen",
+    "avatar": "17ca8af2e98af4fcfec30bd64e7b546b",
+    "discriminator": "6275",
+    "public_flags": 768
+  },
+  "approximate_member_count": 15,
+  "approximate_presence_count": 8
+}, {
+  "code": "0vaaZjsB0buewU7d",
+  "guild": {
+    "id": "166292276832763905",
+    "name": "Dischan",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "0c6d6e205aa01b6a91792ebe50d24408",
+    "features": [],
+    "verification_level": 3,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "166292276832763905",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "135540163894968321",
+    "username": "Dani",
+    "avatar": "4e9a457d56e2aea91f96fac52f43ce62",
+    "discriminator": "1602",
+    "public_flags": 0
+  },
+  "approximate_member_count": 307,
+  "approximate_presence_count": 144
+}, {
+  "code": "0vqBir5WqHvZBlxc",
+  "guild": {
+    "id": "167018772316684289",
+    "name": "/r/allthingsprotoss",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "5303e4bb78e59a2497955f39c72f3868",
+    "features": ["ANIMATED_ICON", "INVITE_SPLASH"],
+    "verification_level": 3,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "167018772316684289",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "121380145931091968",
+    "username": "Gemini_19",
+    "avatar": "dcef02156e432ede588fbcc125811b7e",
+    "discriminator": "9470",
+    "public_flags": 0
+  },
+  "approximate_member_count": 1677,
+  "approximate_presence_count": 544
+}, {
+  "code": "0w5lidAPYTAxcEmB",
+  "guild": {
+    "id": "167744403455082496",
+    "name": "MAMAMOO",
+    "splash": "3cfc677efe2344cc4940f155c4de8a9d",
+    "banner": "55da79efbdb8bee2a54957483fb55ab6",
+    "description": null,
+    "icon": "a_8a541409121b888bcd42c7821c0319de",
+    "features": ["ANIMATED_ICON", "NEWS", "COMMUNITY", "WELCOME_SCREEN_ENABLED", "PREVIEW_ENABLED", "MEMBER_VERIFICATION_GATE_ENABLED", "VANITY_URL", "INVITE_SPLASH", "BANNER"],
+    "verification_level": 3,
+    "vanity_url_code": "mamamoo",
+    "welcome_screen": {
+      "description": "A server dedicated to MAMAMOO, including daily updates, fan resources, and a friendly community.",
+      "welcome_channels": [{
+        "channel_id": "182825183223087105",
+        "description": "Rules and resources for MAMAMOO Discord",
+        "emoji_id": "477257398684483606",
+        "emoji_name": "ablobmoobong"
+      }, {
+        "channel_id": "167744403455082496",
+        "description": "Introduce yourself and chat about MAMAMOO",
+        "emoji_id": "585645551186345994",
+        "emoji_name": "solpeace"
+      }, {
+        "channel_id": "752036086942793730",
+        "description": "Updates on MAMAMOO activites",
+        "emoji_id": "430047364112449537",
+        "emoji_name": "radbyul"
+      }, {
+        "channel_id": "415027550775934976",
+        "description": "Buy, trade, sell, or brag about your merch",
+        "emoji_id": "624810235412086784",
+        "emoji_name": "wheeomg"
+      }, {
+        "channel_id": "459420408337137678",
+        "description": "Share your art or other fan-sourced stuff",
+        "emoji_id": "585645549173342298",
+        "emoji_name": "hwashout"
+      }]
+    }
+  },
+  "channel": {
+    "id": "167744403455082496",
+    "name": "moomoo-chat",
+    "type": 0
+  },
+  "inviter": {
+    "id": "138855295135907840",
+    "username": "archaemaxx",
+    "avatar": "fe3cd2b0b3475a599fec23f081556ea3",
+    "discriminator": "6684",
+    "public_flags": 0
+  },
+  "approximate_member_count": 7402,
+  "approximate_presence_count": 1798
+}, {
+  "code": "0WdijqGL2Nxx73gs",
+  "guild": {
+    "id": "94250327951286272",
+    "name": "Six Gaming",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "a56fb877b65bdbc91df344e7aa263988",
+    "features": [],
+    "verification_level": 1,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "94250327951286272",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "84481289050152960",
+    "username": "roncli",
+    "avatar": "0d8a315c446bf96bbd0a766a6f4978b0",
+    "discriminator": "1409",
+    "public_flags": 0
+  },
+  "approximate_member_count": 119,
+  "approximate_presence_count": 34
+}, {
+  "code": "0WdijqGL2Nxx73gs",
+  "guild": {
+    "id": "94250327951286272",
+    "name": "Six Gaming",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "a56fb877b65bdbc91df344e7aa263988",
+    "features": [],
+    "verification_level": 1,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "94250327951286272",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "84481289050152960",
+    "username": "roncli",
+    "avatar": "0d8a315c446bf96bbd0a766a6f4978b0",
+    "discriminator": "1409",
+    "public_flags": 0
+  },
+  "approximate_member_count": 119,
+  "approximate_presence_count": 34
+}, {
+  "code": "0WqE6NaD5yJoe2Xf",
+  "guild": {
+    "id": "94832760677470208",
+    "name": "CUP",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "2257ee430e5c69e49b18724aafe77846",
+    "features": [],
+    "verification_level": 3,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "94833592668000256",
+    "name": "public",
+    "type": 0
+  },
+  "inviter": {
+    "id": "81706704605032448",
+    "username": "tupolov",
+    "avatar": "5c230216461159a3275b324316a769ed",
+    "discriminator": "9076",
+    "public_flags": 0
+  },
+  "approximate_member_count": 2237,
+  "approximate_presence_count": 578
+}, {
+  "code": "0XDrF1hj3awXHNlC",
+  "guild": {
+    "id": "95933335011880960",
+    "name": "TTT 24-Hour Chatroom",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "8a59be41007f5818ee60ad8834a7c901",
+    "features": [],
+    "verification_level": 2,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "95933335011880960",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "95932777991507968",
+    "username": "JulesRPG",
+    "avatar": "49fe65d939b3af2ab5ad17f426e7f395",
+    "discriminator": "9702",
+    "public_flags": 0
+  },
+  "approximate_member_count": 146,
+  "approximate_presence_count": 38
+}, {
+  "code": "0xob6sYjB2aO9nnk",
+  "guild": {
+    "id": "172719721097986048",
+    "name": "TF2Data",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "cfb12ce299f75acd934b6b41a35fd52c",
+    "features": [],
+    "verification_level": 2,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "173236658920095745",
+    "name": "rules",
+    "type": 0
+  },
+  "inviter": {
+    "id": "172717108864483328",
+    "username": "Chdata",
+    "avatar": "7db4fd2284677789911a58ef5c84624f",
+    "discriminator": "1948",
+    "public_flags": 0
+  },
+  "approximate_member_count": 452,
+  "approximate_presence_count": 158
+}, {
+  "code": "0xqDdefLOvc6kB5n",
+  "guild": {
+    "id": "172795235578019841",
+    "name": "The Honor Empire",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "3471b93b91f6a68a24bf8454b53f5a47",
+    "features": [],
+    "verification_level": 3,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "172796474004865025",
+    "name": "welcome-announcements",
+    "type": 0
+  },
+  "inviter": {
+    "id": "172794885273812993",
+    "username": "Balandar",
+    "avatar": "91959c3e26981257079f05648bda8c1d",
+    "discriminator": "7723",
+    "public_flags": 0
+  },
+  "approximate_member_count": 84,
+  "approximate_presence_count": 20
+}, {
+  "code": "0xufVCiiKSXOcApF",
+  "guild": {
+    "id": "173002457151045632",
+    "name": "Overwatch JP Team vs Team",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "f398164a6310f49fde0ee05cd2ebe3b7",
+    "features": ["NEWS", "WELCOME_SCREEN_ENABLED", "COMMUNITY"],
+    "verification_level": 1,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": "PC\u7248\u30aa\u30fc\u30d0\u30fc\u30a6\u30a9\u30c3\u30c1\u306e\u30af\u30e9\u30f3\u6d3b\u52d5\u7528Discord\u30b5\u30fc\u30d0\u30fc\u3067\u3059\uff01",
+      "welcome_channels": [{
+        "channel_id": "178718599442071552",
+        "description": "\u30b5\u30fc\u30d0\u30fc\u30eb\u30fc\u30eb\u3092\u78ba\u8a8d\u3057\u3088\u3046\uff01",
+        "emoji_id": null,
+        "emoji_name": null
+      }]
+    }
+  },
+  "channel": {
+    "id": "173002457151045632",
+    "name": "\u96d1\u8ac7",
+    "type": 0
+  },
+  "inviter": {
+    "id": "109963714756612096",
+    "username": "ShoboSuke",
+    "avatar": "49dcf29af59fffacd097e8f2a9c72310",
+    "discriminator": "3096",
+    "public_flags": 258
+  },
+  "approximate_member_count": 1903,
+  "approximate_presence_count": 340
+}, {
+  "code": "0XwsHe8maCdvEPt7",
+  "guild": {
+    "id": "98029892737712128",
+    "name": "Broadcast 4 Reps",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "9a2658f60cf1f990823e3ffcbcd0ec0c",
+    "features": ["INVITE_SPLASH", "VIP_REGIONS", "VANITY_URL"],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "165486315733778433",
+    "name": "rules",
+    "type": 0
+  },
+  "inviter": {
+    "id": "91997983821795328",
+    "username": "Coffee Rocks",
+    "avatar": "4ff67a5563c342f22f39741261dc6cf4",
+    "discriminator": "5409",
+    "public_flags": 0
+  },
+  "approximate_member_count": 87,
+  "approximate_presence_count": 12
+}, {
+  "code": "0xWtCGBbaRbp04VA",
+  "guild": {
+    "id": "171894997497544704",
+    "name": "BBCF2 Kagura Mutsuki Discord",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "51775533daeaf4ce25ede48b22163dc5",
+    "features": [],
+    "verification_level": 1,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "171894997497544704",
+    "name": "gameplay-discussion",
+    "type": 0
+  },
+  "inviter": {
+    "id": "96424415507546112",
+    "username": "Ban",
+    "avatar": "757a576712ce0e651ffe49607f191530",
+    "discriminator": "1482",
+    "public_flags": 0
+  },
+  "approximate_member_count": 753,
+  "approximate_presence_count": 361
+}, {
+  "code": "0xWtCGBbaRbp04VA",
+  "guild": {
+    "id": "171894997497544704",
+    "name": "BBCF2 Kagura Mutsuki Discord",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "51775533daeaf4ce25ede48b22163dc5",
+    "features": [],
+    "verification_level": 1,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "171894997497544704",
+    "name": "gameplay-discussion",
+    "type": 0
+  },
+  "inviter": {
+    "id": "96424415507546112",
+    "username": "Ban",
+    "avatar": "757a576712ce0e651ffe49607f191530",
+    "discriminator": "1482",
+    "public_flags": 0
+  },
+  "approximate_member_count": 753,
+  "approximate_presence_count": 361
+}, {
+  "code": "0xX68vwDg3kxbOMj",
+  "guild": {
+    "id": "171904722452611072",
+    "name": "JosY MovieS",
+    "splash": "e70d47611199c0c54f18e9ed85d2c241",
+    "banner": null,
+    "description": null,
+    "icon": "a_a11f64a6c5b29057f0f56c402f0d056c",
+    "features": ["ANIMATED_ICON", "INVITE_SPLASH"],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "171906759659618304",
+    "name": "talk",
+    "type": 0
+  },
+  "inviter": {
+    "id": "162563610558595072",
+    "username": "JosYMovieS",
+    "avatar": "4056bf9f252494a7a34d73c6fa30697f",
+    "discriminator": "6734",
+    "public_flags": 0
+  },
+  "approximate_member_count": 727,
+  "approximate_presence_count": 73
+}, {
+  "code": "0yOP2T3rPRj3YLVA",
+  "guild": {
+    "id": "174387273415000065",
+    "name": "Org Play Online",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "01288d1057f8d6aecc8bc5aaf6d7c3e7",
+    "features": ["NEWS", "INVITE_SPLASH", "COMMUNITY", "ANIMATED_ICON"],
+    "verification_level": 2,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "175027560365686784",
+    "name": "welcome_pfs",
+    "type": 0
+  },
+  "inviter": {
+    "id": "148970835598639104",
+    "username": "ironhelixx",
+    "avatar": "279807ea3bbfa72de2655321ca8b67ca",
+    "discriminator": "2054",
+    "public_flags": 512
+  },
+  "approximate_member_count": 5774,
+  "approximate_presence_count": 2005
+}, {
+  "code": "0yOP2T3rPRj3YLVA",
+  "guild": {
+    "id": "174387273415000065",
+    "name": "Org Play Online",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "01288d1057f8d6aecc8bc5aaf6d7c3e7",
+    "features": ["NEWS", "INVITE_SPLASH", "COMMUNITY", "ANIMATED_ICON"],
+    "verification_level": 2,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "175027560365686784",
+    "name": "welcome_pfs",
+    "type": 0
+  },
+  "inviter": {
+    "id": "148970835598639104",
+    "username": "ironhelixx",
+    "avatar": "279807ea3bbfa72de2655321ca8b67ca",
+    "discriminator": "2054",
+    "public_flags": 512
+  },
+  "approximate_member_count": 5774,
+  "approximate_presence_count": 2005
+}, {
+  "code": "0ZcbPKXt5bZiQhB5",
+  "guild": {
+    "id": "102860784329052160",
+    "name": "Reactiflux",
+    "splash": "9f7f306d80d910f33e5fe361675558c7",
+    "banner": "950b3bc4d8e7515ab0d6f3f4a15079d5",
+    "description": "Come chat about and get help with React & JavaScript!",
+    "icon": "a_4fbc177539c73d884393602c62be8a38",
+    "features": ["BANNER", "INVITE_SPLASH", "MEMBER_VERIFICATION_GATE_ENABLED", "ENABLED_DISCOVERABLE_BEFORE", "NEWS", "DISCOVERABLE", "WELCOME_SCREEN_ENABLED", "ANIMATED_ICON", "COMMUNITY", "VANITY_URL", "PREVIEW_ENABLED"],
+    "verification_level": 1,
+    "vanity_url_code": "reactiflux",
+    "welcome_screen": {
+      "description": "We\u2019re a chat community of 120,000+ React, React Native, Redux, Jest, Relay and GraphQL developers.",
+      "welcome_channels": [{
+        "channel_id": "377580704722190347",
+        "description": "Read our information, resources, and rules",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udcd6"
+      }, {
+        "channel_id": "306196179538935818",
+        "description": "Introduce yourself",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udc4b"
+      }, {
+        "channel_id": "103696749012467712",
+        "description": "Ask for help with React",
+        "emoji_id": null,
+        "emoji_name": "\u269b\ufe0f"
+      }, {
+        "channel_id": "469170673533583361",
+        "description": "Ask for help with React Native",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udcf1"
+      }, {
+        "channel_id": "565213527673929729",
+        "description": "Ask for help with JavaScript",
+        "emoji_id": null,
+        "emoji_name": "\u2615"
+      }]
+    }
+  },
+  "channel": {
+    "id": "102860784329052160",
+    "name": "general-react",
+    "type": 0
+  },
+  "inviter": {
+    "id": "103013328955146240",
+    "username": "benigeri",
+    "avatar": "8ee82b3e79fe390c8813eec2ac1bf709",
+    "discriminator": "6028",
+    "public_flags": 0
+  },
+  "approximate_member_count": 144673,
+  "approximate_presence_count": 8917
+}, {
+  "code": "0zyJyvF612CiUUWj",
+  "guild": {
+    "id": "178947606397976577",
+    "name": "Panacea & Bakatenshi",
+    "splash": "99be1cea0ae649a6792fcaeb1d37417c",
+    "banner": null,
+    "description": null,
+    "icon": "a_1fb9e545ffa54d88a958815c81dd135d",
+    "features": ["INVITE_SPLASH", "ANIMATED_ICON"],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "178947606397976577",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "164222721448738817",
+    "username": "..\ud835\udd6f\ud835\udd8e\ud835\udd98\ud835\udd88\ud835\udd94\ud835\udd93\ud835\udd98\ud835\udd88\ud835\udd8e\ud835\udd94\ud835\udd9a\ud835\udd98",
+    "avatar": "cf554eb85a6c5f4344d5bad41f2703e8",
+    "discriminator": "9202",
+    "public_flags": 64
+  },
+  "approximate_member_count": 117,
+  "approximate_presence_count": 55
+}, {
+  "code": "0zyJyvF612CiUUWj",
+  "guild": {
+    "id": "178947606397976577",
+    "name": "Panacea & Bakatenshi",
+    "splash": "99be1cea0ae649a6792fcaeb1d37417c",
+    "banner": null,
+    "description": null,
+    "icon": "a_1fb9e545ffa54d88a958815c81dd135d",
+    "features": ["INVITE_SPLASH", "ANIMATED_ICON"],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "178947606397976577",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "164222721448738817",
+    "username": "..\ud835\udd6f\ud835\udd8e\ud835\udd98\ud835\udd88\ud835\udd94\ud835\udd93\ud835\udd98\ud835\udd88\ud835\udd8e\ud835\udd94\ud835\udd9a\ud835\udd98",
+    "avatar": "cf554eb85a6c5f4344d5bad41f2703e8",
+    "discriminator": "9202",
+    "public_flags": 64
+  },
+  "approximate_member_count": 117,
+  "approximate_presence_count": 55
+}, {
+  "code": "0zyJyvF612CiUUWj",
+  "guild": {
+    "id": "178947606397976577",
+    "name": "Panacea & Bakatenshi",
+    "splash": "99be1cea0ae649a6792fcaeb1d37417c",
+    "banner": null,
+    "description": null,
+    "icon": "a_1fb9e545ffa54d88a958815c81dd135d",
+    "features": ["ANIMATED_ICON", "INVITE_SPLASH"],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "178947606397976577",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "164222721448738817",
+    "username": "..\ud835\udd6f\ud835\udd8e\ud835\udd98\ud835\udd88\ud835\udd94\ud835\udd93\ud835\udd98\ud835\udd88\ud835\udd8e\ud835\udd94\ud835\udd9a\ud835\udd98",
+    "avatar": "cf554eb85a6c5f4344d5bad41f2703e8",
+    "discriminator": "9202",
+    "public_flags": 64
+  },
+  "approximate_member_count": 117,
+  "approximate_presence_count": 55
+}, {
+  "code": "22AqDw53fP",
+  "guild": {
+    "id": "793109060676878376",
+    "name": "Duel Revolution",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "8fe199a1e8101900e1ef299c23a8f40a",
+    "features": ["COMMUNITY", "NEWS"],
+    "verification_level": 1,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "793857535165464607",
+    "name": "\ud83d\udce2announcements",
+    "type": 5
+  },
+  "inviter": {
+    "id": "512915902207885319",
+    "username": "DimaUndso",
+    "avatar": "ed0b0055e43a0edd0a62e1260e8d0da5",
+    "discriminator": "6580",
+    "public_flags": 0
+  },
+  "approximate_member_count": 104,
+  "approximate_presence_count": 18
+}, {
+  "code": "22gmej6",
+  "guild": {
+    "id": "665274235027062795",
+    "name": "Montsinger",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "d72a6033ec080c5cf31beb5a88f0e783",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "665274235027062798",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "565547645024862209",
+    "username": "Rossman360",
+    "avatar": "9fbb57469d249fb08757f1a007235f0b",
+    "discriminator": "0306",
+    "public_flags": 0
+  },
+  "approximate_member_count": 198,
+  "approximate_presence_count": 69
+}, {
+  "code": "22NjeUfXPv",
+  "guild": {
+    "id": "779265935743778837",
+    "name": "FictionBoard",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "24a8912cda356291d82080a8ed1f93b1",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "779265935743778840",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "707598995211681894",
+    "username": "innergnome",
+    "avatar": "7081c3ca04fe09d5e853e174c9fe61e1",
+    "discriminator": "3920",
+    "public_flags": 0
+  },
+  "approximate_member_count": 7,
+  "approximate_presence_count": 3
+}, {
+  "code": "22wrzHQ",
+  "guild": {
+    "id": "378681404193767434",
+    "name": "Me and friends",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "2d26ed78ca2d5ac38987ebddb2d4888d",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "378681404629843970",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "349243461754421261",
+    "username": "gelo50",
+    "avatar": null,
+    "discriminator": "6778",
+    "public_flags": 0
+  },
+  "approximate_member_count": 5,
+  "approximate_presence_count": 0
+}, {
+  "code": "22XWCGutDk",
+  "guild": {
+    "id": "779652558750744587",
+    "name": "BestAimers Gaming Network",
+    "splash": "d772f6efeef5940f31bd0704ef82ebc7",
+    "banner": null,
+    "description": null,
+    "icon": "e0efe42c4f3f37383f7bfb0f5b8afef5",
+    "features": ["ANIMATED_ICON", "INVITE_SPLASH"],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "807623365405835265",
+    "name": "otomatik-rol",
+    "type": 0
+  },
+  "inviter": {
+    "id": "273254352192274442",
+    "username": "proqress",
+    "avatar": "268a46de1b772a4931d7548e0ef1cc06",
+    "discriminator": "8721",
+    "public_flags": 256
+  },
+  "approximate_member_count": 128,
+  "approximate_presence_count": 7
+}, {
+  "code": "232cXxP",
+  "guild": {
+    "id": "701224747580784700",
+    "name": "Faced RolePlay",
+    "splash": null,
+    "banner": "0d7a204909a2d98a2e28d997e1f7d025",
+    "description": null,
+    "icon": "af31de40d033f77bbc25fe721f43033a",
+    "features": [],
+    "verification_level": 1,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "701307332713513031",
+    "name": "\ud83d\udd25bem-vindo\ud83d\udd25",
+    "type": 0
+  },
+  "inviter": {
+    "id": "322774328204722177",
+    "username": "\u00c0dri",
+    "avatar": "5ca15c207bf3b94606233d4e58577a28",
+    "discriminator": "2558",
+    "public_flags": 0
+  },
+  "approximate_member_count": 43,
+  "approximate_presence_count": 14
+}, {
+  "code": "239EP7G",
+  "guild": {
+    "id": "488540747361026058",
+    "name": "DNCORD",
+    "splash": "d64484b6172b35cac197bed5cc8a5954",
+    "banner": null,
+    "description": null,
+    "icon": "88bfd743c9597bbb90c6be67166714bc",
+    "features": ["WELCOME_SCREEN_ENABLED", "INVITE_SPLASH", "NEWS", "PREVIEW_ENABLED", "MEMBER_VERIFICATION_GATE_ENABLED", "COMMUNITY", "ANIMATED_ICON"],
+    "verification_level": 1,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": "Get help with setting up confusing DNS records, get your domain names appraised, buy and sell domains, and learn about marketing and SEO.",
+      "welcome_channels": [{
+        "channel_id": "489175401558441985",
+        "description": "Tell us a little about you!",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udc4b\ud83c\udffb"
+      }, {
+        "channel_id": "635561826586722309",
+        "description": "Buy and sell domain names",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udcb8"
+      }, {
+        "channel_id": "489410496861306881",
+        "description": "Get domain appraisals from other members",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udc81\ud83c\udffb"
+      }]
+    }
+  },
+  "channel": {
+    "id": "488541229345144832",
+    "name": "info-and-rules",
+    "type": 0
+  },
+  "inviter": {
+    "id": "356143246889713679",
+    "username": "Croc",
+    "avatar": "2a698bc27d814bccda837d51543a991f",
+    "discriminator": "1111",
+    "public_flags": 768
+  },
+  "approximate_member_count": 659,
+  "approximate_presence_count": 117
+}, {
+  "code": "239p6pk",
+  "guild": {
+    "id": "731188144149364766",
+    "name": "Enfo's TS:MT",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "40d85153be7dbb081a53fd92cf3da49f",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "731190757628575874",
+    "name": "server-info",
+    "type": 0
+  },
+  "inviter": {
+    "id": "388075778929197061",
+    "username": "proce3d",
+    "avatar": null,
+    "discriminator": "0418",
+    "public_flags": 0
+  },
+  "approximate_member_count": 73,
+  "approximate_presence_count": 24
+}, {
+  "code": "239p6pk",
+  "guild": {
+    "id": "731188144149364766",
+    "name": "Enfo's TS:MT",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "40d85153be7dbb081a53fd92cf3da49f",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "731190757628575874",
+    "name": "server-info",
+    "type": 0
+  },
+  "inviter": {
+    "id": "388075778929197061",
+    "username": "proce3d",
+    "avatar": null,
+    "discriminator": "0418",
+    "public_flags": 0
+  },
+  "approximate_member_count": 73,
+  "approximate_presence_count": 24
+}, {
+  "code": "23a2zwj",
+  "guild": {
+    "id": "235865632149733377",
+    "name": "AMV France",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "a_e1d9548bbbd669205ead304633e3cbb4",
+    "features": ["NEWS", "INVITE_SPLASH", "COMMUNITY", "WELCOME_SCREEN_ENABLED", "ANIMATED_ICON"],
+    "verification_level": 4,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": "Serveur communautaire fran\u00e7ais sur les AMV (Anime Music Videos) !",
+      "welcome_channels": [{
+        "channel_id": "676820882311610428",
+        "description": "Lis le r\u00e8glement pour acc\u00e9der au serveur !",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udcd8"
+      }, {
+        "channel_id": "676839373693648927",
+        "description": "Fonctionnement du serveur ",
+        "emoji_id": null,
+        "emoji_name": "\u2699\ufe0f"
+      }, {
+        "channel_id": "240447135496142848",
+        "description": "Actualit\u00e9 d'AMV France",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udcf0"
+      }, {
+        "channel_id": "676835599172239380",
+        "description": "Concours d'AMV en ce moment",
+        "emoji_id": null,
+        "emoji_name": "\u2b50"
+      }]
+    }
+  },
+  "channel": {
+    "id": "238640672926597121",
+    "name": "g\u00e9n\u00e9ral-staff",
+    "type": 0
+  },
+  "inviter": {
+    "id": "164885864441184257",
+    "username": "MagicDarkLight",
+    "avatar": "d8c4e31e5e0d167baa86c726600c9f6c",
+    "discriminator": "5510",
+    "public_flags": 0
+  },
+  "approximate_member_count": 651,
+  "approximate_presence_count": 79
+}, {
+  "code": "23c2srG",
+  "guild": {
+    "id": "719917996369248281",
+    "name": "Toolchest Support",
+    "splash": "c277212ee39f63798d5c7912c13d9ac9",
+    "banner": null,
+    "description": null,
+    "icon": "a_8f82fb8998a8866f0e9a376224f07b94",
+    "features": ["WELCOME_SCREEN_ENABLED", "NEWS", "INVITE_SPLASH", "COMMUNITY", "ANIMATED_ICON"],
+    "verification_level": 2,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": "Official Support from Toolchestbot",
+      "welcome_channels": [{
+        "channel_id": "719918404643061821",
+        "description": "Regeln und verifizieren ",
+        "emoji_id": null,
+        "emoji_name": "\u2705"
+      }]
+    }
+  },
+  "channel": {
+    "id": "759755860569882645",
+    "name": "wartungsarbeiten",
+    "type": 0
+  },
+  "inviter": {
+    "id": "508311556409393162",
+    "username": "revoX",
+    "avatar": "a_1b65e55fd042e8f015e3ad4731310721",
+    "discriminator": "8935",
+    "public_flags": 256
+  },
+  "approximate_member_count": 72,
+  "approximate_presence_count": 15
+}, {
+  "code": "23gCRX5",
+  "guild": {
+    "id": "262231806399610881",
+    "name": "ent",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "fe639b658530d59bc9fab3cb2ba99197",
+    "features": [],
+    "verification_level": 3,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "262231806399610881",
+    "name": "ent-lobby",
+    "type": 0
+  },
+  "inviter": {
+    "id": "203456153601048577",
+    "username": "aRt)Y",
+    "avatar": "83a120bf0fcf03521086eea80d669e84",
+    "discriminator": "7312",
+    "public_flags": 0
+  },
+  "approximate_member_count": 10304,
+  "approximate_presence_count": 889
+}, {
+  "code": "23JvnUA",
+  "guild": {
+    "id": "433094330694107137",
+    "name": "Cam\u0131land\u00a6\u00d7\u025e\ud83c\udf52",
+    "splash": "73e922671e1b12cf55f705232c3d6a93",
+    "banner": "cbefcdb38bcfdf5506acfdb68f8ce7a8",
+    "description": null,
+    "icon": "a_130f8ed5f663c96df4f80e5090da2013",
+    "features": ["ENABLED_DISCOVERABLE_BEFORE", "NEWS", "ANIMATED_ICON", "MEMBER_VERIFICATION_GATE_ENABLED", "WELCOME_SCREEN_ENABLED", "BANNER", "INVITE_SPLASH", "COMMUNITY", "PREVIEW_ENABLED"],
+    "verification_level": 4,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": "Bienvenid@s a Camiland un servidor donde te vas a sentir muy comodo gracias a su  hermosa comunidad!",
+      "welcome_channels": [{
+        "channel_id": "433102215520059402",
+        "description": "Conoces nuevas personas y amigos!",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udc51"
+      }, {
+        "channel_id": "674816481678065683",
+        "description": "Postualate para staff y ayudanos a crecer!",
+        "emoji_id": "769422972452208651",
+        "emoji_name": "UrarakaTaBien"
+      }, {
+        "channel_id": "575488116001865728",
+        "description": "Mira las emisiones de la seccion de cine!",
+        "emoji_id": null,
+        "emoji_name": "\ud83c\udfa5"
+      }, {
+        "channel_id": "433102387230539777",
+        "description": "Comparte con nosotros tus memes!",
+        "emoji_id": "657826150202081548",
+        "emoji_name": "lol"
+      }, {
+        "channel_id": "438020420848058368",
+        "description": "Comparte tu talento!",
+        "emoji_id": null,
+        "emoji_name": "\ud83c\udf89"
+      }]
+    }
+  },
+  "channel": {
+    "id": "433102215520059402",
+    "name": "\u300c\u2744\u300dgeneral",
+    "type": 0
+  },
+  "inviter": {
+    "id": "295354042501300224",
+    "username": "Cami.",
+    "avatar": "b7e30b6e1f7b4b5a79a96eab59f9af04",
+    "discriminator": "3120",
+    "public_flags": 576
+  },
+  "approximate_member_count": 8784,
+  "approximate_presence_count": 2066
+}, {
+  "code": "23Ka4dj43A",
+  "guild": {
+    "id": "670475889225760778",
+    "name": "\u7121\u984c",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "0f5b2208fc1a30e0bc676b69d2404264",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "670475889225760781",
+    "name": "\u96d1\u8ac7",
+    "type": 0
+  },
+  "inviter": {
+    "id": "606030817965113355",
+    "username": "\u3057\u308b\u3092",
+    "avatar": "c464c0b761b851d70afcd0f1abc1b310",
+    "discriminator": "8162",
+    "public_flags": 0
+  },
+  "approximate_member_count": 31,
+  "approximate_presence_count": 4
+}, {
+  "code": "23qC647",
+  "guild": {
+    "id": "590534915984982027",
+    "name": "Mango Tango League",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "3fff5f873c336a18f59110b275329c91",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "623433539731324929",
+    "name": "\u0430\u043d\u043e\u043d\u0441\u044b",
+    "type": 0
+  },
+  "inviter": {
+    "id": "511493672299266050",
+    "username": "Maincast | Romazoed",
+    "avatar": "7530a57f1b08424c4560862725f159d5",
+    "discriminator": "7323",
+    "public_flags": 256
+  },
+  "approximate_member_count": 551,
+  "approximate_presence_count": 39
+}, {
+  "code": "23Sk4pRqxu",
+  "guild": {
+    "id": "738511341148700782",
+    "name": "Idol Band Caps",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "c49b4a91ad2d97ebe00accdb68e1a680",
+    "features": [],
+    "verification_level": 1,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "738514979359031356",
+    "name": "gmk-devoted",
+    "type": 0
+  },
+  "inviter": {
+    "id": "244931915335991307",
+    "username": "ItszBrian",
+    "avatar": "5c4ecca872152b61bfa872ccb5c32330",
+    "discriminator": "9956",
+    "public_flags": 256
+  },
+  "approximate_member_count": 277,
+  "approximate_presence_count": 157
+}, {
+  "code": "23xU2hYrSJ",
+  "guild": {
+    "id": "762003889742413824",
+    "name": "Noodl",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "0f04f4fb6d7bdb8a6cc38d18fec19078",
+    "features": ["NEWS", "WELCOME_SCREEN_ENABLED", "COMMUNITY"],
+    "verification_level": 1,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": "Get support, share your ideas about the direction of Noodl, get access to experimental features and upcoming releases.",
+      "welcome_channels": [{
+        "channel_id": "762003889742413831",
+        "description": "Share what you love or hate about Noodl",
+        "emoji_id": null,
+        "emoji_name": "\u270d\ufe0f"
+      }, {
+        "channel_id": "770766755412836392",
+        "description": "Learn all about Noodl",
+        "emoji_id": null,
+        "emoji_name": "\ud83e\uddd1\u200d\ud83c\udfeb"
+      }, {
+        "channel_id": "775418738194776105",
+        "description": "See the new stuff before it ships",
+        "emoji_id": null,
+        "emoji_name": "\ud83e\udd7c"
+      }]
+    }
+  },
+  "channel": {
+    "id": "762003889742413826",
+    "name": "welcome-and-rules",
+    "type": 0
+  },
+  "inviter": {
+    "id": "269878714374815754",
+    "username": "joolsus",
+    "avatar": "89135ccba46418b1e8ab9f3692f6d9e1",
+    "discriminator": "6746",
+    "public_flags": 0
+  },
+  "approximate_member_count": 206,
+  "approximate_presence_count": 15
+}, {
+  "code": "23Zk9eN",
+  "guild": {
+    "id": "270749060770562048",
+    "name": "secretadmirer",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "0bc968674c34cb614bb3e05cbbaf5f86",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "364096644108648448",
+    "name": "admirers",
+    "type": 0
+  },
+  "inviter": {
+    "id": "270404034542829579",
+    "username": "More",
+    "avatar": null,
+    "discriminator": "0530",
+    "public_flags": 0
+  },
+  "approximate_member_count": 1,
+  "approximate_presence_count": 0
+}, {
+  "code": "242rp6kCEX",
+  "guild": {
+    "id": "794015594567041054",
+    "name": "L.O.R.E",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "8f9d966f6cb2ac200c4f82e49292e64b",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "796664270481653820",
+    "name": "shadow-work",
+    "type": 0
+  },
+  "inviter": {
+    "id": "549834196537966612",
+    "username": "LastWizard",
+    "avatar": "539b8057e7da79b672b3b64c2b2fa7e5",
+    "discriminator": "0323",
+    "public_flags": 0
+  },
+  "approximate_member_count": 20,
+  "approximate_presence_count": 3
+}, {
+  "code": "24f6aWF",
+  "guild": {
+    "id": "283902380402278412",
+    "name": "Sheepbot",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "2feb811cb2720943dbb28dc2a02c56c0",
+    "features": ["WELCOME_SCREEN_ENABLED", "COMMUNITY", "PREVIEW_ENABLED", "MEMBER_VERIFICATION_GATE_ENABLED", "NEWS"],
+    "verification_level": 1,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": "Welcome to the official sheepbot discord server!!",
+      "welcome_channels": [{
+        "channel_id": "739016882224627734",
+        "description": "chat with us!",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udc4d"
+      }, {
+        "channel_id": "283903432027537408",
+        "description": "look up recent annoncements",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udcf0"
+      }, {
+        "channel_id": "695942317491748944",
+        "description": "Need some help ?",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udcdd"
+      }]
+    }
+  },
+  "channel": {
+    "id": "695946654288969749",
+    "name": "rules",
+    "type": 0
+  },
+  "inviter": {
+    "id": "177394669766836224",
+    "username": "cl\u00e9ment",
+    "avatar": "8a3f12e454ea315945e86f0880458f98",
+    "discriminator": "8356",
+    "public_flags": 131200
+  },
+  "approximate_member_count": 2762,
+  "approximate_presence_count": 350
+}, {
+  "code": "24raXHy",
+  "guild": {
+    "id": "321521105447813120",
+    "name": "Sal\u00f3n del T\u00e9",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "f92242ef16e9ac1ae4c02ce8912fdff7",
+    "features": [],
+    "verification_level": 1,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "321521105447813120",
+    "name": "chat-general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "321520812098191362",
+    "username": "ArchelLive",
+    "avatar": "beb2f8c39a54d50b9768943ab6178295",
+    "discriminator": "3955",
+    "public_flags": 64
+  },
+  "approximate_member_count": 96,
+  "approximate_presence_count": 30
+}, {
+  "code": "254dwWE",
+  "guild": {
+    "id": "721900157213474887",
+    "name": "HcRaid",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "5d99855aa709f24b8b68c86e8222d64f",
+    "features": ["COMMUNITY", "NEWS"],
+    "verification_level": 1,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "721900158052204559",
+    "name": "\ud83d\udcacgeneral",
+    "type": 0
+  },
+  "inviter": {
+    "id": "180892352150241280",
+    "username": "Levix",
+    "avatar": "0d7aab6bde7e20e39ac85e6d3ecf886f",
+    "discriminator": "9577",
+    "public_flags": 256
+  },
+  "approximate_member_count": 463,
+  "approximate_presence_count": 115
+}, {
+  "code": "254dwWE",
+  "guild": {
+    "id": "721900157213474887",
+    "name": "HcRaid",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "5d99855aa709f24b8b68c86e8222d64f",
+    "features": ["NEWS", "COMMUNITY"],
+    "verification_level": 1,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "721900158052204559",
+    "name": "\ud83d\udcacgeneral",
+    "type": 0
+  },
+  "inviter": {
+    "id": "180892352150241280",
+    "username": "Levix",
+    "avatar": "0d7aab6bde7e20e39ac85e6d3ecf886f",
+    "discriminator": "9577",
+    "public_flags": 256
+  },
+  "approximate_member_count": 463,
+  "approximate_presence_count": 115
+}, {
+  "code": "259y27nREm",
+  "guild": {
+    "id": "786188404575436811",
+    "name": "3R GAMES",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "cbea6805c3089dd7b879c5a46d4ca64f",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "786188405146648587",
+    "name": "welcomes",
+    "type": 0
+  },
+  "inviter": {
+    "id": "766245853747740714",
+    "username": "quantumdoll",
+    "avatar": "f7bf496ffadcb11c73780a7aa54125d6",
+    "discriminator": "4973",
+    "public_flags": 0
+  },
+  "approximate_member_count": 3,
+  "approximate_presence_count": 1
+}, {
+  "code": "25bbCcCmPP",
+  "guild": {
+    "id": "757271032913592351",
+    "name": "Gridcraft (MineFable)",
+    "splash": "3be5e106d12b0a00eb61f5835e88198e",
+    "banner": "3be5e106d12b0a00eb61f5835e88198e",
+    "description": null,
+    "icon": "a6a78f28006095eed83938328b37b3bd",
+    "features": ["NEWS", "BANNER", "ANIMATED_ICON", "COMMUNITY", "INVITE_SPLASH"],
+    "verification_level": 3,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "767172985806258196",
+    "name": "\ud83d\udce3\ufe31announcements",
+    "type": 5
+  },
+  "inviter": {
+    "id": "209119275733090305",
+    "username": "Phewo",
+    "avatar": "a_91c3f647a7211183a6d82aafb4832ab8",
+    "discriminator": "2513",
+    "public_flags": 640
+  },
+  "approximate_member_count": 3358,
+  "approximate_presence_count": 607
+}, {
+  "code": "25BMbfv",
+  "guild": {
+    "id": "339419974814662666",
+    "name": "pdxsucks",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "3bdb8fa4e9873993edd0785a03ac6088",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "339419974814662666",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "298081716478935040",
+    "username": "SwedeTrap",
+    "avatar": "13c4cf9c79327737fde1c410df8e8ee7",
+    "discriminator": "0666",
+    "public_flags": 0
+  },
+  "approximate_member_count": 4,
+  "approximate_presence_count": 0
+}, {
+  "code": "25rKXWJqYN",
+  "guild": {
+    "id": "779052123744239656",
+    "name": "Shadow E-Sports",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "f3f2846f43866bc4301b45933eea59c3",
+    "features": ["INVITE_SPLASH", "ANIMATED_ICON"],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "779097335283712041",
+    "name": "allgemeiner-chat\ud83d\udcac",
+    "type": 0
+  },
+  "inviter": {
+    "id": "626091901379936269",
+    "username": "Spaxtacular",
+    "avatar": "bef63bbd783dea03fe3ff0940c57798b",
+    "discriminator": "4073",
+    "public_flags": 0
+  },
+  "approximate_member_count": 36,
+  "approximate_presence_count": 5
+}, {
+  "code": "25TX2zC",
+  "guild": {
+    "id": "666237818804109350",
+    "name": "MageClaw Studios",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "39ee1303a3c70c2fa13acc150a6700b5",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "666237818804109353",
+    "name": "news",
+    "type": 0
+  },
+  "inviter": {
+    "id": "666237068304842783",
+    "username": "MageClaw Studios",
+    "avatar": "39ee1303a3c70c2fa13acc150a6700b5",
+    "discriminator": "2119",
+    "public_flags": 0
+  },
+  "approximate_member_count": 11,
+  "approximate_presence_count": 4
+}, {
+  "code": "262yJhc",
+  "guild": {
+    "id": "697349510409617408",
+    "name": "Actyx Developer",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "e93a2521051bb16014e677cab62752a6",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "697349510950813791",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "556791153048027137",
+    "username": "oli_ax",
+    "avatar": null,
+    "discriminator": "9416",
+    "public_flags": 0
+  },
+  "approximate_member_count": 49,
+  "approximate_presence_count": 0
+}, {
+  "code": "26bgsfw",
+  "guild": {
+    "id": "707880180592410664",
+    "name": "Capricorn Tabletop",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "43715fc66225806e347ff04c204a0943",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "707880181225881622",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "263552104545648644",
+    "username": "zayzayem",
+    "avatar": "5bf4f06d75026f8b85b94bbb8c5d9c35",
+    "discriminator": "9295",
+    "public_flags": 0
+  },
+  "approximate_member_count": 31,
+  "approximate_presence_count": 11
+}, {
+  "code": "26FXkXE",
+  "guild": {
+    "id": "751275105518092373",
+    "name": "xRO | Gear 4th \ud83d\udc99",
+    "splash": "296a4b34b90025d64d3c8acec357801b",
+    "banner": "41578ecb6b627be4facc08aa1b610f30",
+    "description": null,
+    "icon": "a_904ad1a61d4e7f686300592a9cb74b52",
+    "features": ["COMMUNITY", "INVITE_SPLASH", "ANIMATED_ICON", "NEWS", "WELCOME_SCREEN_ENABLED"],
+    "verification_level": 3,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": "~Happy to see you again \u2665",
+      "welcome_channels": [{
+        "channel_id": "751340171642929212",
+        "description": "New to the Server?",
+        "emoji_id": null,
+        "emoji_name": null
+      }, {
+        "channel_id": "802930806996729856",
+        "description": "Remember to read da Rules ~",
+        "emoji_id": null,
+        "emoji_name": null
+      }, {
+        "channel_id": "802006784411828265",
+        "description": "Always save the Date to play WoE!",
+        "emoji_id": null,
+        "emoji_name": null
+      }, {
+        "channel_id": "751347630361280572",
+        "description": "Welcome '-'",
+        "emoji_id": null,
+        "emoji_name": null
+      }]
+    }
+  },
+  "channel": {
+    "id": "751340305545953351",
+    "name": "\u2705changelog",
+    "type": 0
+  },
+  "inviter": {
+    "id": "148874714423492609",
+    "username": "Natural \ud83d\udc7d",
+    "avatar": "99292fc402996febc2bf5c8e3d79523a",
+    "discriminator": "6315",
+    "public_flags": 128
+  },
+  "approximate_member_count": 1388,
+  "approximate_presence_count": 447
+}, {
+  "code": "26MMzk9dcB",
+  "guild": {
+    "id": "806278073313656843",
+    "name": "NYU Game Center Events",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "59f2addb51bf1d878b85fc106b54ac18",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "806280423755481119",
+    "name": "rules",
+    "type": 0
+  },
+  "inviter": {
+    "id": "718132044084936745",
+    "username": "gwynnaft",
+    "avatar": "379aa09fcf1cdab3efc04ad018ace578",
+    "discriminator": "2002",
+    "public_flags": 0
+  },
+  "approximate_member_count": 275,
+  "approximate_presence_count": 134
+}, {
+  "code": "26MMzk9dcB",
+  "guild": {
+    "id": "806278073313656843",
+    "name": "NYU Game Center Events",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "59f2addb51bf1d878b85fc106b54ac18",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "806280423755481119",
+    "name": "rules",
+    "type": 0
+  },
+  "inviter": {
+    "id": "718132044084936745",
+    "username": "gwynnaft",
+    "avatar": "379aa09fcf1cdab3efc04ad018ace578",
+    "discriminator": "2002",
+    "public_flags": 0
+  },
+  "approximate_member_count": 275,
+  "approximate_presence_count": 134
+}, {
+  "code": "26nRvPhdSU",
+  "guild": {
+    "id": "772964238376960030",
+    "name": "TRIV 56",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "0221d9bd34ee9d37f271fb02a8f67d15",
+    "features": [],
+    "verification_level": 1,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "797540237105430549",
+    "name": "volunteer-for-phone-answering",
+    "type": 0
+  },
+  "inviter": {
+    "id": "171344431637594112",
+    "username": "grapes",
+    "avatar": "b4647aeadf3d6febb591bd4f5eac6597",
+    "discriminator": "7669",
+    "public_flags": 0
+  },
+  "approximate_member_count": 452,
+  "approximate_presence_count": 101
+}, {
+  "code": "26qxC5A",
+  "guild": {
+    "id": "537700971032346634",
+    "name": "Gods of Hentai",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "e521239f4224d131a313cc3735e2d542",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "538748940477267969",
+    "name": "official-announcements",
+    "type": 0
+  },
+  "inviter": {
+    "id": "161550963235225600",
+    "username": "Support",
+    "avatar": "c06d86410ad248691c14441dfc8639f0",
+    "discriminator": "6444",
+    "public_flags": 0
+  },
+  "approximate_member_count": 1558,
+  "approximate_presence_count": 38
+}, {
+  "code": "27KKEZ4",
+  "guild": {
+    "id": "758592158650335242",
+    "name": "Heidelberger Volksbank",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "27546fb37fcb35d76fc1df74a78a21da",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "758592158650335245",
+    "name": "\ud83d\udc99welcome",
+    "type": 0
+  },
+  "inviter": {
+    "id": "415998615732092929",
+    "username": "[ADMIN] Nici",
+    "avatar": "9b627bcd4b1193272eccdb496747d3bf",
+    "discriminator": "4906",
+    "public_flags": 0
+  },
+  "approximate_member_count": 35,
+  "approximate_presence_count": 0
+}, {
+  "code": "27SUrTk",
+  "guild": {
+    "id": "467768687546335243",
+    "name": "Ponyvania",
+    "splash": "7192909e7aee1d4c8c7e3718520e2a50",
+    "banner": "56a7f9936816955422837e3ced50a3f3",
+    "description": null,
+    "icon": "a_63af1152065541fae70187780ae9de6d",
+    "features": ["ANIMATED_ICON", "COMMUNITY", "NEWS", "BANNER", "INVITE_SPLASH"],
+    "verification_level": 2,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "467768688028942338",
+    "name": "general-chat",
+    "type": 0
+  },
+  "inviter": {
+    "id": "289155595586502667",
+    "username": "Viscount Patagium",
+    "avatar": "481ab8d5b93e0bd0c02b8db023e5ba19",
+    "discriminator": "1729",
+    "public_flags": 256
+  },
+  "approximate_member_count": 1352,
+  "approximate_presence_count": 479
+}, {
+  "code": "28gEWaB",
+  "guild": {
+    "id": "726227590443958303",
+    "name": "OrbitRust",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "4242fd7662ac5bf7e979d6e889044ef8",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "726228008272134144",
+    "name": "main-chat",
+    "type": 0
+  },
+  "inviter": {
+    "id": "138447677141549056",
+    "username": "NTKgaming36",
+    "avatar": "b8e5a55c6cce9cc3916a80fe00cc3053",
+    "discriminator": "9584",
+    "public_flags": 0
+  },
+  "approximate_member_count": 24,
+  "approximate_presence_count": 9
+}, {
+  "code": "28Sqdnt",
+  "guild": {
+    "id": "564158168536580112",
+    "name": "Sclash",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "d415d672c130883fbb7ed70f66450cca",
+    "features": ["WELCOME_SCREEN_ENABLED", "COMMUNITY", "NEWS"],
+    "verification_level": 1,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": "The community server of Sclash, the 2D samurai fighting game full of tension where one hit means death!",
+      "welcome_channels": [{
+        "channel_id": "706820849721933904",
+        "description": "Accept the samurai rules to join us!",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udc4b\ud83c\udffb"
+      }]
+    }
+  },
+  "channel": {
+    "id": "564184024785092611",
+    "name": "\ud83d\udd17liens-et-infos-internes",
+    "type": 0
+  },
+  "inviter": {
+    "id": "322430499010248706",
+    "username": "Bravemania / Victor",
+    "avatar": "21ffebb381f3eff4b7f7f867b14ac4a0",
+    "discriminator": "1888",
+    "public_flags": 0
+  },
+  "approximate_member_count": 55,
+  "approximate_presence_count": 6
+}, {
+  "code": "29DY5Dt",
+  "guild": {
+    "id": "435048987511226368",
+    "name": "RealEventCoin",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "8a2a127fb7be8d125f56780f6309e121",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "435049119304646685",
+    "name": "\u306f\u3058\u3081\u306b",
+    "type": 0
+  },
+  "inviter": {
+    "id": "384365066759438338",
+    "username": "pokemoso",
+    "avatar": "10a63c8b7484b3a27e365cedd6529624",
+    "discriminator": "9278",
+    "public_flags": 0
+  },
+  "approximate_member_count": 4197,
+  "approximate_presence_count": 53
+}, {
+  "code": "29GMK6d",
+  "guild": {
+    "id": "231406465221525505",
+    "name": "YaLLa Esports",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "e7d981e7ee5c11c30441199c4cc17458",
+    "features": [],
+    "verification_level": 2,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "514485797404147713",
+    "name": "read-me",
+    "type": 0
+  },
+  "inviter": {
+    "id": "177748872100184065",
+    "username": "Youssef",
+    "avatar": "2eb3d47a076623eb244135fc9e530066",
+    "discriminator": "6996",
+    "public_flags": 0
+  },
+  "approximate_member_count": 1917,
+  "approximate_presence_count": 196
+}, {
+  "code": "2A4YGRw",
+  "guild": {
+    "id": "610071573675900939",
+    "name": "FPS.TPS.\u96d1\u8ac7\u306e\u4f1a",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "9aac9108172874568948b305c3ed4654",
+    "features": [],
+    "verification_level": 1,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "610071573675900941",
+    "name": "\u8a8d\u8a3c",
+    "type": 0
+  },
+  "inviter": {
+    "id": "480634131861078017",
+    "username": "DiscopartyBot",
+    "avatar": null,
+    "discriminator": "7650",
+    "public_flags": 0,
+    "bot": true
+  },
+  "approximate_member_count": 35,
+  "approximate_presence_count": 6
+}, {
+  "code": "2a6KbEe",
+  "guild": {
+    "id": "600798285493436447",
+    "name": "Safe Haven",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "4fee75397906e67420fb54f4eaf3e982",
+    "features": [],
+    "verification_level": 2,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "617452790469492788",
+    "name": "welcome",
+    "type": 0
+  },
+  "inviter": {
+    "id": "398883361453768706",
+    "username": "Lancelot",
+    "avatar": "1f614e9b080a440121052fe9d383f0eb",
+    "discriminator": "5931",
+    "public_flags": 64
+  },
+  "approximate_member_count": 792,
+  "approximate_presence_count": 139
+}, {
+  "code": "2ABstpB",
+  "guild": {
+    "id": "236959672538628096",
+    "name": "Dungeon World",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "162c52039acfa6d4e9fccc7f250946aa",
+    "features": ["INVITE_SPLASH", "NEWS", "ANIMATED_ICON", "COMMUNITY", "WELCOME_SCREEN_ENABLED"],
+    "verification_level": 1,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": null,
+      "welcome_channels": [{
+        "channel_id": "237623008934625281",
+        "description": "Read the rules! Please do this first.",
+        "emoji_id": null,
+        "emoji_name": "\u2764\ufe0f"
+      }, {
+        "channel_id": "236959672538628096",
+        "description": "Say hi! Talk about DW stuff!",
+        "emoji_id": null,
+        "emoji_name": null
+      }, {
+        "channel_id": "236960609218854914",
+        "description": "Get help with GMing.",
+        "emoji_id": null,
+        "emoji_name": null
+      }, {
+        "channel_id": "409524268741951488",
+        "description": "Hack DW. Hack pbta. Hack all the things.",
+        "emoji_id": null,
+        "emoji_name": null
+      }, {
+        "channel_id": "236960644795072521",
+        "description": "Find other peeps to play with.",
+        "emoji_id": null,
+        "emoji_name": null
+      }]
+    }
+  },
+  "channel": {
+    "id": "237623008934625281",
+    "name": "announcements",
+    "type": 0
+  },
+  "inviter": {
+    "id": "91622043040124928",
+    "username": "Apollonaut",
+    "avatar": "a_5ddfc28e3785146380502fc92d1e3a16",
+    "discriminator": "9012",
+    "public_flags": 0
+  },
+  "approximate_member_count": 2452,
+  "approximate_presence_count": 705
+}, {
+  "code": "2avPSyv",
+  "guild": {
+    "id": "286700121217957888",
+    "name": "Infantry Online",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "7eaf1c43481a0a614c9e4a182fa2ac07",
+    "features": ["WELCOME_SCREEN_ENABLED", "COMMUNITY", "NEWS"],
+    "verification_level": 2,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": "Welcome to the FreeInfantry.com and Infantry Online Discord Server. That's right - Infantry is very much alive and running!",
+      "welcome_channels": [{
+        "channel_id": "286700121217957888",
+        "description": "Chat here all things Infantry Online.",
+        "emoji_id": null,
+        "emoji_name": null
+      }]
+    }
+  },
+  "channel": {
+    "id": "286700121217957888",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "219714549480292352",
+    "username": "Champ",
+    "avatar": "a_87c7e0861a13da0053fd228775be536d",
+    "discriminator": "0161",
+    "public_flags": 0
+  },
+  "approximate_member_count": 2117,
+  "approximate_presence_count": 510
+}, {
+  "code": "2AZ7Ugj",
+  "guild": {
+    "id": "743547674770538498",
+    "name": "No Man's Sky - Suomi",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "cddf4d2bd23568f8631e6bcca37f504f",
+    "features": ["NEWS", "COMMUNITY", "WELCOME_SCREEN_ENABLED"],
+    "verification_level": 1,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": "Suomalainen alustasta riippumaton No Man's Sky -yhteis\u00f6. Tervetuloa joukkoomme, Matkaaja!",
+      "welcome_channels": [{
+        "channel_id": "743558947100688547",
+        "description": "Lukaise yhteis\u00f6n pelis\u00e4\u00e4nn\u00f6t l\u00e4pi",
+        "emoji_id": null,
+        "emoji_name": "\u2705"
+      }, {
+        "channel_id": "743752897095008296",
+        "description": "Pysy perill\u00e4 yhteis\u00f6n tapahtumista!",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udc68\u200d\ud83d\ude80"
+      }]
+    }
+  },
+  "channel": {
+    "id": "743752897095008296",
+    "name": "tiedotteet",
+    "type": 5
+  },
+  "inviter": {
+    "id": "544829473405534209",
+    "username": "Peliseuraa.fi",
+    "avatar": "3a94ffc85ec5657e516e6b1cad3ed4fe",
+    "discriminator": "7926",
+    "public_flags": 0
+  },
+  "approximate_member_count": 28,
+  "approximate_presence_count": 13
+}, {
+  "code": "2B2uhw6",
+  "guild": {
+    "id": "159066660962041856",
+    "name": "PlaystationBuddies",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "7fea27000ca361133d896de35b195954",
+    "features": [],
+    "verification_level": 3,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "159066660962041856",
+    "name": "generalchat",
+    "type": 0
+  },
+  "inviter": {
+    "id": "188978673821417472",
+    "username": "GregoryRasputin",
+    "avatar": "fa4ec0b026d71fdde00c30b420ed11b8",
+    "discriminator": "5270",
+    "public_flags": 0
+  },
+  "approximate_member_count": 1793,
+  "approximate_presence_count": 182
+}, {
+  "code": "2bbEpTkPDG",
+  "guild": {
+    "id": "808675230113071155",
+    "name": "Mae's Place",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "40a636848e4e47f0d8949ee5262e541f",
+    "features": ["COMMUNITY", "NEWS", "WELCOME_SCREEN_ENABLED"],
+    "verification_level": 2,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": "Talk about Audune Games, an independent game studio based in The Netherlands, and creating immersive narrative adventure games.",
+      "welcome_channels": [{
+        "channel_id": "808675449923960852",
+        "description": "Check out the latest announcements!",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udce3"
+      }, {
+        "channel_id": "808679750234800168",
+        "description": "Talk about our games!",
+        "emoji_id": null,
+        "emoji_name": "\ud83c\udfae"
+      }, {
+        "channel_id": "808679381429780500",
+        "description": "Stuck? Reach out here for support!",
+        "emoji_id": null,
+        "emoji_name": "\ud83e\udd14"
+      }, {
+        "channel_id": "808675230808539149",
+        "description": "What's on your mind today?",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udcac"
+      }]
+    }
+  },
+  "channel": {
+    "id": "808677367228792853",
+    "name": "welcome",
+    "type": 0
+  },
+  "inviter": {
+    "id": "138755549352165376",
+    "username": "FaeInTheRain",
+    "avatar": "89a7a80baca38aabf1d9322809fe5f32",
+    "discriminator": "8918",
+    "public_flags": 0
+  },
+  "approximate_member_count": 10,
+  "approximate_presence_count": 3
+}, {
+  "code": "2BdsfV8",
+  "guild": {
+    "id": "676398870934061061",
+    "name": "esports.com",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "ba5315e98a1c1d883d1ec2cd133a7df0",
+    "features": [],
+    "verification_level": 2,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "676403776948535297",
+    "name": "\ud83d\uddde-twitterfeed",
+    "type": 0
+  },
+  "inviter": {
+    "id": "290920174679228426",
+    "username": "haukevg",
+    "avatar": "d1b1a2bdfcea7f784e5e28cadd84920d",
+    "discriminator": "6374",
+    "public_flags": 0
+  },
+  "approximate_member_count": 1297,
+  "approximate_presence_count": 66
+}, {
+  "code": "2BGS4bb",
+  "guild": {
+    "id": "697513645810384947",
+    "name": "Flatout 2",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "4a7846c434255e450c9b0445faadc782",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "697513645810384950",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "94524684875333632",
+    "username": "Fena",
+    "avatar": "2cfc375f1a9db584173b00716c5719d6",
+    "discriminator": "0948",
+    "public_flags": 0
+  },
+  "approximate_member_count": 38,
+  "approximate_presence_count": 0
+}, {
+  "code": "2bH4V7d",
+  "guild": {
+    "id": "680406088889532426",
+    "name": "\u30b3\u30df\u30e5\u30cb\u30c6\u30a3\u30fcWw",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "4ccf9f4f17fc222afc7a8cb9652f07b4",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "732922092785238016",
+    "name": "\u6700\u521d\u306b\u3084\u308b\u3053\u3068\uff01",
+    "type": 0
+  },
+  "inviter": {
+    "id": "411439341211222018",
+    "username": "2595",
+    "avatar": "cc72dbaf93d89302c381a9741e38b8d8",
+    "discriminator": "2595",
+    "public_flags": 0
+  },
+  "approximate_member_count": 39,
+  "approximate_presence_count": 14
+}, {
+  "code": "2BH6YdBqSn",
+  "guild": {
+    "id": "804450851255091242",
+    "name": "Netlabel.org  - Radioshow",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "7b0f34b335642d0a3c9e693ab7302daa",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "804450851255091246",
+    "name": "now-on-air",
+    "type": 0
+  },
+  "inviter": {
+    "id": "802640736394149959",
+    "username": "Netlabel.org",
+    "avatar": "bec172237de814a35de822eadc97275b",
+    "discriminator": "4208",
+    "public_flags": 0
+  },
+  "approximate_member_count": 1,
+  "approximate_presence_count": 0
+}, {
+  "code": "2BSdr2g",
+  "guild": {
+    "id": "613394789882134529",
+    "name": "StakeWise",
+    "splash": "14d06e2f50da570b7336821a909fe632",
+    "banner": null,
+    "description": null,
+    "icon": "4f7ce12523c74d6d29ba848528e3252e",
+    "features": ["INVITE_SPLASH", "NEWS", "ANIMATED_ICON", "COMMUNITY"],
+    "verification_level": 1,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "613394789882134533",
+    "name": "\ud83d\udcac-general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "543760088993890334",
+    "username": "tsudmi | stakewise.io",
+    "avatar": "419d7569a1a589ed1df7f0751ea725f0",
+    "discriminator": "0515",
+    "public_flags": 0
+  },
+  "approximate_member_count": 1077,
+  "approximate_presence_count": 171
+}, {
+  "code": "2btAntp",
+  "guild": {
+    "id": "718288016132800547",
+    "name": "Pre-ablo Mod",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "91ad76744bd6ca34866dfa3e13179cc0",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "718288016132800550",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "289212495514697738",
+    "username": "moralbacteria",
+    "avatar": "762adb112a3dc2822375755b1094d38c",
+    "discriminator": "1147",
+    "public_flags": 0
+  },
+  "approximate_member_count": 21,
+  "approximate_presence_count": 5
+}, {
+  "code": "2Bwa4NxTNH",
+  "guild": {
+    "id": "785620306504318987",
+    "name": "HAYAMA",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "dea9b686060b15ed32567c6345c21149",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "786251056190849074",
+    "name": "hayama",
+    "type": 0
+  },
+  "inviter": {
+    "id": "275679631737094145",
+    "username": "Shury",
+    "avatar": "10569f6da55b234068e59bf5d85ecfe8",
+    "discriminator": "1127",
+    "public_flags": 0
+  },
+  "approximate_member_count": 145,
+  "approximate_presence_count": 19
+}, {
+  "code": "2bZKZjB",
+  "guild": {
+    "id": "550394875976089600",
+    "name": "The Shield Of Wrestling",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "b5176b0e6d5f43f3ea81cc2fe8b06a2a",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "550412596424212487",
+    "name": "articoli",
+    "type": 0
+  },
+  "inviter": {
+    "id": "263456527774515201",
+    "username": "GenoCide",
+    "avatar": "07bce83e02dcc774eda88a289309da20",
+    "discriminator": "9692",
+    "public_flags": 0
+  },
+  "approximate_member_count": 92,
+  "approximate_presence_count": 6
+}, {
+  "code": "2caGq6U",
+  "guild": {
+    "id": "196836000687718400",
+    "name": "Rocket Punch",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "b74bdbfe4ac2401044f1ecae0b86313e",
+    "features": [],
+    "verification_level": 3,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "196836000687718400",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "186250273864286208",
+    "username": "DarthTurner",
+    "avatar": "93cc8e1cfdfbacca8df372e4539e4ed2",
+    "discriminator": "4148",
+    "public_flags": 0
+  },
+  "approximate_member_count": 74,
+  "approximate_presence_count": 37
+}, {
+  "code": "2CCuhCt",
+  "guild": {
+    "id": "652657865290416130",
+    "name": "BSD World",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "03199b99e7976318d469af7935ec0b8e",
+    "features": ["WELCOME_SCREEN_ENABLED"],
+    "verification_level": 2,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": "This is a group for anyone interested in FreeBSD, OpenBSD, NetBSD, DragonFlyBSD, BSD.. etc. For all people, nerds what like talk about BSD.",
+      "welcome_channels": [{
+        "channel_id": "652657865928212491",
+        "description": "This is a group for anyone interested in F",
+        "emoji_id": null,
+        "emoji_name": null
+      }]
+    }
+  },
+  "channel": {
+    "id": "720533455800107019",
+    "name": "bsd-talk",
+    "type": 0
+  },
+  "inviter": {
+    "id": "528668384615727114",
+    "username": "maxfx",
+    "avatar": "6ae6b66cdaac0f28fab22a7c29ce9401",
+    "discriminator": "6182",
+    "public_flags": 64
+  },
+  "approximate_member_count": 201,
+  "approximate_presence_count": 31
+}, {
+  "code": "2Cqfud94us",
+  "guild": {
+    "id": "779354362883080242",
+    "name": "MEMBERS ONLY (PLUMBING)",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "caf53565392f7aa0ef0f69697b16c639",
+    "features": [],
+    "verification_level": 1,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "779354363575009331",
+    "name": "welcome",
+    "type": 0
+  },
+  "inviter": {
+    "id": "538745394759204877",
+    "username": "ADMIN",
+    "avatar": "15991cb44d453863c0462268f6d8596a",
+    "discriminator": "7561",
+    "public_flags": 0
+  },
+  "approximate_member_count": 55,
+  "approximate_presence_count": 9
+}, {
+  "code": "2CTQYwm",
+  "guild": {
+    "id": "507218020729618433",
+    "name": "Lineage2 Lietuva",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "62d4f606bed629bb83f631a2f473590e",
+    "features": [],
+    "verification_level": 2,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "705691069224058920",
+    "name": "\ud83c\udf80_diskusijos",
+    "type": 0
+  },
+  "inviter": {
+    "id": "731182410150051952",
+    "username": "Deleted User 656a02f7",
+    "avatar": null,
+    "discriminator": "7460",
+    "public_flags": 0
+  },
+  "approximate_member_count": 2023,
+  "approximate_presence_count": 154
+}, {
+  "code": "2cUbgg7r6T",
+  "guild": {
+    "id": "805241982255366208",
+    "name": "SLO Film Festival",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "12619ec5a1c141b9feb87c5d9ec1c81a",
+    "features": ["WELCOME_SCREEN_ENABLED", "NEWS", "COMMUNITY"],
+    "verification_level": 1,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": "Glad to see you made it to this year's Virtual SLO Film Fest! Feel free to chat away like we were back at the festival lounge! Enjoy!",
+      "welcome_channels": [{
+        "channel_id": "805242849292451881",
+        "description": "Start here!",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udea9"
+      }, {
+        "channel_id": "807141703789314090",
+        "description": "A little chit-chat about the films",
+        "emoji_id": null,
+        "emoji_name": "\ud83c\udfa5"
+      }, {
+        "channel_id": "805241986637889590",
+        "description": "Bond over your love of independent films",
+        "emoji_id": null,
+        "emoji_name": "\ud83c\udf7f"
+      }, {
+        "channel_id": "807144143871803394",
+        "description": "Talk to the filmmakers about their work",
+        "emoji_id": null,
+        "emoji_name": "\ud83c\udfac"
+      }]
+    }
+  },
+  "channel": {
+    "id": "805242849292451881",
+    "name": "welcome-to-the-fest",
+    "type": 0
+  },
+  "inviter": {
+    "id": "789585875197362216",
+    "username": "skyeslo",
+    "avatar": "bf06f8ebe22321d94cc729c49fa53bb8",
+    "discriminator": "6836",
+    "public_flags": 0
+  },
+  "approximate_member_count": 53,
+  "approximate_presence_count": 7
+}, {
+  "code": "2cWmr28rhn",
+  "guild": {
+    "id": "699399927867899914",
+    "name": "\u2b50\ud835\udd3b\u20ac\ud835\udd5a\ud835\udd5f \ud835\udd3d\ud835\udd5a\ud835\udd5f\ud835\udd52\ud835\udd5f\ud835\udd6b\ud835\udd52\ud835\udd5e\ud835\udd65 \u2b50",
+    "splash": "998c5bdf56268db8a4a7776d0dcc7c42",
+    "banner": "fb6d530d4b9f99befcf9f076a7e0e6fe",
+    "description": null,
+    "icon": "a_704c916272bcf31cc79478bf9f804eba",
+    "features": ["PREVIEW_ENABLED", "COMMUNITY", "WELCOME_SCREEN_ENABLED", "NEWS", "MEMBER_VERIFICATION_GATE_ENABLED", "ANIMATED_ICON", "INVITE_SPLASH"],
+    "verification_level": 2,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": "OFFIZIELLER Server vom deutschen CoD:Mobile Clan DFA_",
+      "welcome_channels": [{
+        "channel_id": "799209824931676180",
+        "description": "Hier stehen all unsere Regeln.",
+        "emoji_id": null,
+        "emoji_name": null
+      }]
+    }
+  },
+  "channel": {
+    "id": "785571989673869332",
+    "name": "\u00a2\u2113\u03b1\u03b7-\u03c9\u03b1\u044f\u0455-i\u03b7\u0192\u03c3\u0455\ud83e\udd84",
+    "type": 0
+  },
+  "inviter": {
+    "id": "289462629368594433",
+    "username": "[\u20ac] \ud835\udd7f\ud835\udd8d\ud835\udd8a\ud835\udd6f\ud835\udd94\ud835\udd88\ud835\udd99\ud835\udd94\ud835\udd97  - \ud835\udd78\ud835\udd86\ud835\udd97\ud835\udd90",
+    "avatar": "d7246b1f5a5c55b0673703c8b5d9ec4e",
+    "discriminator": "2742",
+    "public_flags": 128
+  },
+  "approximate_member_count": 96,
+  "approximate_presence_count": 6
+}, {
+  "code": "2cWmr28rhn",
+  "guild": {
+    "id": "699399927867899914",
+    "name": "\u2b50\ud835\udd3b\u20ac\ud835\udd5a\ud835\udd5f \ud835\udd3d\ud835\udd5a\ud835\udd5f\ud835\udd52\ud835\udd5f\ud835\udd6b\ud835\udd52\ud835\udd5e\ud835\udd65 \u2b50",
+    "splash": "998c5bdf56268db8a4a7776d0dcc7c42",
+    "banner": "fb6d530d4b9f99befcf9f076a7e0e6fe",
+    "description": null,
+    "icon": "a_704c916272bcf31cc79478bf9f804eba",
+    "features": ["MEMBER_VERIFICATION_GATE_ENABLED", "COMMUNITY", "WELCOME_SCREEN_ENABLED", "NEWS", "ANIMATED_ICON", "INVITE_SPLASH", "PREVIEW_ENABLED"],
+    "verification_level": 2,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": "OFFIZIELLER Server vom deutschen CoD:Mobile Clan DFA_",
+      "welcome_channels": [{
+        "channel_id": "799209824931676180",
+        "description": "Hier stehen all unsere Regeln.",
+        "emoji_id": null,
+        "emoji_name": null
+      }]
+    }
+  },
+  "channel": {
+    "id": "785571989673869332",
+    "name": "\u00a2\u2113\u03b1\u03b7-\u03c9\u03b1\u044f\u0455-i\u03b7\u0192\u03c3\u0455\ud83e\udd84",
+    "type": 0
+  },
+  "inviter": {
+    "id": "289462629368594433",
+    "username": "[\u20ac] \ud835\udd7f\ud835\udd8d\ud835\udd8a\ud835\udd6f\ud835\udd94\ud835\udd88\ud835\udd99\ud835\udd94\ud835\udd97  - \ud835\udd78\ud835\udd86\ud835\udd97\ud835\udd90",
+    "avatar": "d7246b1f5a5c55b0673703c8b5d9ec4e",
+    "discriminator": "2742",
+    "public_flags": 128
+  },
+  "approximate_member_count": 96,
+  "approximate_presence_count": 6
+}, {
+  "code": "2CWTcmq6Nt",
+  "guild": {
+    "id": "668523021480230923",
+    "name": "\ud83c\udfc6 Oslow Cup \ud83c\udfc6",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "e106ac849ece76f38a7eb898b5df8c88",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "783055323203108946",
+    "name": "\ud83d\udcad\u30fbtchat-g\u00e9n\u00e9ral",
+    "type": 0
+  },
+  "inviter": {
+    "id": "249982100328022016",
+    "username": "Juno",
+    "avatar": "5ae4869bf69e8b3a12bce9b5c1cb0c4c",
+    "discriminator": "7666",
+    "public_flags": 64
+  },
+  "approximate_member_count": 83,
+  "approximate_presence_count": 18
+}, {
+  "code": "2d23cV5",
+  "guild": {
+    "id": "235117036395560960",
+    "name": "Admiredplague",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "e04a806a6faa0a067ea1cc68ddd23c15",
+    "features": [],
+    "verification_level": 1,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "261672687116484618",
+    "name": "announcements",
+    "type": 0
+  },
+  "inviter": {
+    "id": "175259429866831872",
+    "username": "AdmiredPlague",
+    "avatar": "c121c00dca0fccc85caf54522595fd94",
+    "discriminator": "4528",
+    "public_flags": 512
+  },
+  "approximate_member_count": 134,
+  "approximate_presence_count": 52
+}, {
+  "code": "2d5Q9h3eyF",
+  "guild": {
+    "id": "790858455304896514",
+    "name": "WARZONE Servers (ARK)",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "02947a8bea4bdf70fcdd03899e627efa",
+    "features": ["INVITE_SPLASH", "ANIMATED_ICON"],
+    "verification_level": 3,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "790858456336433181",
+    "name": "\ud83d\udd0c\u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435",
+    "type": 0
+  },
+  "inviter": {
+    "id": "790865186340208670",
+    "username": "\ud835\udd44\ud835\udd5a\ud835\udd3b",
+    "avatar": "58cd162c1dd2237e76bb230cabd5aad0",
+    "discriminator": "8269",
+    "public_flags": 256
+  },
+  "approximate_member_count": 868,
+  "approximate_presence_count": 110
+}, {
+  "code": "2Dc7TKF",
+  "guild": {
+    "id": "761782577672618034",
+    "name": "Drip Media Gaming",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "0adb5d27715e081634990bbd342369fa",
+    "features": ["MEMBER_VERIFICATION_GATE_ENABLED", "NEWS", "PREVIEW_ENABLED", "COMMUNITY", "WELCOME_SCREEN_ENABLED"],
+    "verification_level": 4,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": "Chat with us about all types of topics, join us for game nights, and have a good time!",
+      "welcome_channels": [{
+        "channel_id": "762794370868314144",
+        "description": "Read the rules!",
+        "emoji_id": null,
+        "emoji_name": null
+      }, {
+        "channel_id": "761782577672618037",
+        "description": "Talk about anything!",
+        "emoji_id": null,
+        "emoji_name": null
+      }, {
+        "channel_id": "769387441584341002",
+        "description": "Join us for game nights!",
+        "emoji_id": null,
+        "emoji_name": null
+      }, {
+        "channel_id": "763465929405235221",
+        "description": "Animal Crossing! ",
+        "emoji_id": null,
+        "emoji_name": null
+      }, {
+        "channel_id": "762794173446356992",
+        "description": "Say hello!",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\ude00"
+      }]
+    }
+  },
+  "channel": {
+    "id": "761782577672618037",
+    "name": "\ud83d\udce9general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "673005139996442666",
+    "username": "\ud83d\udca7 Media Gaming",
+    "avatar": "2c9e1d910d58bc8c086345c0dda221fc",
+    "discriminator": "0798",
+    "public_flags": 0
+  },
+  "approximate_member_count": 435,
+  "approximate_presence_count": 39
+}, {
+  "code": "2dFhAgP2vY",
+  "guild": {
+    "id": "797036761153798175",
+    "name": "Fast Travel Games",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "d97b8e9fbf06cf651878b1d362e8de83",
+    "features": ["NEWS", "PREVIEW_ENABLED", "COMMUNITY", "WELCOME_SCREEN_ENABLED", "MEMBER_VERIFICATION_GATE_ENABLED"],
+    "verification_level": 4,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": "The official Fast Travel Games Discord server!",
+      "welcome_channels": [{
+        "channel_id": "797042387125927966",
+        "description": "Get started here!",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udcf0"
+      }, {
+        "channel_id": "797050419024756737",
+        "description": "Read the rules before chatting!",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udcd4"
+      }, {
+        "channel_id": "798108363631230996",
+        "description": "Select your role for our games!",
+        "emoji_id": null,
+        "emoji_name": "\ud83c\udfae"
+      }, {
+        "channel_id": "797050991207514122",
+        "description": "Announcements about Fast Travel Games!",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udce2"
+      }, {
+        "channel_id": "797097210054574150",
+        "description": "Chat with other people!",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udde8\ufe0f"
+      }]
+    }
+  },
+  "channel": {
+    "id": "797042387125927966",
+    "name": "welcome",
+    "type": 0
+  },
+  "inviter": {
+    "id": "797035454532681738",
+    "username": "Franchesca",
+    "avatar": "61eabb531bcbd4ef4ac8a2e6c645565b",
+    "discriminator": "0001",
+    "public_flags": 0
+  },
+  "approximate_member_count": 184,
+  "approximate_presence_count": 41
+}, {
+  "code": "2DfvKb3",
+  "guild": {
+    "id": "675481218795438090",
+    "name": "Literally Raul's Blog",
+    "splash": "15098c94eda3301cc9eb05ad87dba814",
+    "banner": null,
+    "description": null,
+    "icon": "a_ecaab857c2e60bf53732630d6c715b83",
+    "features": ["PREVIEW_ENABLED", "MEMBER_VERIFICATION_GATE_ENABLED", "WELCOME_SCREEN_ENABLED", "ANIMATED_ICON", "INVITE_SPLASH", "NEWS", "COMMUNITY"],
+    "verification_level": 2,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": "This server is dedicated to programming, software and video-games, to other kinds of development, as well as life-related things.",
+      "welcome_channels": [{
+        "channel_id": "675684771225141264",
+        "description": "Check out the features this server has!",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udcce"
+      }, {
+        "channel_id": "675486771194101767",
+        "description": "Get in!",
+        "emoji_id": null,
+        "emoji_name": "\u2705"
+      }]
+    }
+  },
+  "channel": {
+    "id": "675684771225141264",
+    "name": "welcome",
+    "type": 0
+  },
+  "inviter": {
+    "id": "167289718386589696",
+    "username": "Raul-Sorin Sorban",
+    "avatar": "a_06cfb4c652d8ab10d989eb1492529b6a",
+    "discriminator": "0001",
+    "public_flags": 64
+  },
+  "approximate_member_count": 51,
+  "approximate_presence_count": 15
+}, {
+  "code": "2dHypca",
+  "guild": {
+    "id": "672078028406390785",
+    "name": "Polski Serwer S\u0142u\u017cb Mundurowych",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "f0cb7c177034457743dbfde6c5821fe6",
+    "features": [],
+    "verification_level": 3,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "702778934927818762",
+    "name": "\ud83e\uddfe\u2503powiadomienia",
+    "type": 0
+  },
+  "inviter": {
+    "id": "457524301290274827",
+    "username": "Dobrich",
+    "avatar": "b117b24dd7bfb498a91e89c2a7fdecee",
+    "discriminator": "5089",
+    "public_flags": 64
+  },
+  "approximate_member_count": 6,
+  "approximate_presence_count": 1
+}, {
+  "code": "2DjMqxf",
+  "guild": {
+    "id": "729710385569202275",
+    "name": "The Outcast Development Server",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "bb152a101cb3a1caa653055a5cf26d6b",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "729710386038833162",
+    "name": "\ud83d\udcac-general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "78881374513139712",
+    "username": "Max",
+    "avatar": "7be92894772db3c21402a25be213a20c",
+    "discriminator": "1405",
+    "public_flags": 256
+  },
+  "approximate_member_count": 7,
+  "approximate_presence_count": 3
+}, {
+  "code": "2Dm8RRbuTe",
+  "guild": {
+    "id": "565432408829198336",
+    "name": "Table Game Cafe Shuffle",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "1fbe9fceeb5c40eb387598606a57d84c",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "571271182700249098",
+    "name": "\ud83e\uddd9mtg\u7dcf\u5408",
+    "type": 0
+  },
+  "inviter": {
+    "id": "693294639171633173",
+    "username": "WotC",
+    "avatar": "0f688268fd2a35d20dc1ccddfbbdbe6e",
+    "discriminator": "0923",
+    "public_flags": 0
+  },
+  "approximate_member_count": 52,
+  "approximate_presence_count": 8
+}, {
+  "code": "2dN6B4WbDm",
+  "guild": {
+    "id": "799241306739572737",
+    "name": "CNAM MTX",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "f190189fc2d5fefbb375efbe0b34347a",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "799720516989485067",
+    "name": "id\u00e9es-propositions",
+    "type": 0
+  },
+  "inviter": {
+    "id": "797126989822558218",
+    "username": "Justin D.",
+    "avatar": "3c2bd1af31b83f2ba410170861c03a94",
+    "discriminator": "8797",
+    "public_flags": 0
+  },
+  "approximate_member_count": 85,
+  "approximate_presence_count": 2
+}, {
+  "code": "2DnydaJyBZ",
+  "guild": {
+    "id": "732688288871350383",
+    "name": "CS.LEGION.RO",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "a_37e9d265cfcbea7e7d19c25150eb2e8c",
+    "features": ["COMMUNITY", "ANIMATED_ICON", "WELCOME_SCREEN_ENABLED", "INVITE_SPLASH", "NEWS"],
+    "verification_level": 2,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": "Counter-Strike 1.6",
+      "welcome_channels": [{
+        "channel_id": "804485260708413470",
+        "description": "regulile serverului de discord si nu numai",
+        "emoji_id": null,
+        "emoji_name": null
+      }]
+    }
+  },
+  "channel": {
+    "id": "804430533329158145",
+    "name": "chat-international",
+    "type": 0
+  },
+  "inviter": {
+    "id": "425987779365699594",
+    "username": "dArkn3ss",
+    "avatar": "a_565abdbde76ebf8702c22d041444e41b",
+    "discriminator": "4713",
+    "public_flags": 128
+  },
+  "approximate_member_count": 63,
+  "approximate_presence_count": 6
+}, {
+  "code": "2DqDKeT",
+  "guild": {
+    "id": "412154886264979476",
+    "name": "gn-ahmad",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": null,
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "412154886264979478",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "399643098105511936",
+    "username": "gn-ahmad",
+    "avatar": "7bd0e5c0751db1586828fa0160e7b7f0",
+    "discriminator": "2343",
+    "public_flags": 0
+  },
+  "approximate_member_count": 5,
+  "approximate_presence_count": 0
+}, {
+  "code": "2DTWSVyeu7",
+  "guild": {
+    "id": "747406358613327934",
+    "name": "\u6df7\u6c8c\u306e\u6249",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "cbe7061d4ebd5d008417ce898b4d0281",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "747683388928032830",
+    "name": "\u653b\u7565\u76f8\u8ac7",
+    "type": 0
+  },
+  "inviter": {
+    "id": "536383421908516886",
+    "username": "\u8180\u80f1\u708e",
+    "avatar": "6b56b4e455d2e6996a04fe8ac8d34512",
+    "discriminator": "1290",
+    "public_flags": 0
+  },
+  "approximate_member_count": 480,
+  "approximate_presence_count": 31
+}, {
+  "code": "2dUFzZHFvW",
+  "guild": {
+    "id": "362219514013941770",
+    "name": "Wizard's Alley",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "47f0c4c0db0e50df7c07fe6bb2b0f46d",
+    "features": ["MEMBER_VERIFICATION_GATE_ENABLED", "PREVIEW_ENABLED", "WELCOME_SCREEN_ENABLED", "COMMUNITY", "NEWS"],
+    "verification_level": 1,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": "Suivez les derni\u00e8res mises \u00e0 jour du site, sugg\u00e9rez des fonctionnalit\u00e9s et discutez avec l'\u00e9quipe de Wizard's Alley !",
+      "welcome_channels": [{
+        "channel_id": "803887222704832533",
+        "description": "Discussions et suggestions autour du site",
+        "emoji_id": null,
+        "emoji_name": "\ud83e\uddd9"
+      }, {
+        "channel_id": "800431869560487956",
+        "description": "Vos retours d'exp\u00e9riences et suggestions",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udee0\ufe0f"
+      }, {
+        "channel_id": "800434769291640842",
+        "description": "L'\u00e9quipe vous aide si vous avez un soucis!",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\ude81"
+      }]
+    }
+  },
+  "channel": {
+    "id": "803917487757328404",
+    "name": "moderation",
+    "type": 0
+  },
+  "inviter": {
+    "id": "285349958796836866",
+    "username": "maxjrberry",
+    "avatar": "3ad6edc4e6e8810bad10deb4b05c45a2",
+    "discriminator": "5983",
+    "public_flags": 0
+  },
+  "approximate_member_count": 46,
+  "approximate_presence_count": 3
+}, {
+  "code": "2dugTC5",
+  "guild": {
+    "id": "699588681320628246",
+    "name": "\ud83e\udd5d SwitchRiders",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "af79706405e6e3f586bde4ad8af8bcd0",
+    "features": ["COMMUNITY", "WELCOME_SCREEN_ENABLED", "NEWS"],
+    "verification_level": 1,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": null,
+      "welcome_channels": [{
+        "channel_id": "699630383829876787",
+        "description": "Deviens membre des SwitchRiders ! ",
+        "emoji_id": null,
+        "emoji_name": "\ud83e\udd5d"
+      }]
+    }
+  },
+  "channel": {
+    "id": "699588682050568204",
+    "name": "\ud83d\udde3-accueil",
+    "type": 0
+  },
+  "inviter": {
+    "id": "323411499454431232",
+    "username": "Jonathan \"OAHN\" B.",
+    "avatar": "32b1b781ec704c7c65ba324cdf0cd582",
+    "discriminator": "9372",
+    "public_flags": 0
+  },
+  "approximate_member_count": 1068,
+  "approximate_presence_count": 75
+}, {
+  "code": "2DuuYzm",
+  "guild": {
+    "id": "594575505991139338",
+    "name": "The Long Run",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "3eff43237d1bbb4df1fbd3c09a9ccc2e",
+    "features": [],
+    "verification_level": 2,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "594598630002917397",
+    "name": "connect-to-servers",
+    "type": 0
+  },
+  "inviter": {
+    "id": "245972514293940224",
+    "username": "TyCooN",
+    "avatar": "4bc207d73488ebb2275dc99a6e593fdb",
+    "discriminator": "7193",
+    "public_flags": 0
+  },
+  "approximate_member_count": 77,
+  "approximate_presence_count": 21
+}, {
+  "code": "2DwbCsd8hE",
+  "guild": {
+    "id": "723327751758675969",
+    "name": "Sakebuddha's Samurai Movie Night",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "658ac17fa53b9e9fc2a5541ffb35d370",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "766353503852691546",
+    "name": "go-ahead-let-it-out",
+    "type": 0
+  },
+  "inviter": {
+    "id": "702495015074529371",
+    "username": "sakebuddha",
+    "avatar": "e53cb1819d6d8a5044f5e3c153acd99c",
+    "discriminator": "8986",
+    "public_flags": 0
+  },
+  "approximate_member_count": 20,
+  "approximate_presence_count": 6
+}, {
+  "code": "2Dyj8ct",
+  "guild": {
+    "id": "451543127690444830",
+    "name": "Minecraft  Worlds",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "331ee35da306534fe1f8acc41af8f618",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "493312215773085697",
+    "name": "tchat-sur-edonya",
+    "type": 0
+  },
+  "inviter": {
+    "id": "389482524658630676",
+    "username": "MattX",
+    "avatar": "268683339ee91703134245ec6d7ce974",
+    "discriminator": "9690",
+    "public_flags": 0
+  },
+  "approximate_member_count": 3,
+  "approximate_presence_count": 0
+}, {
+  "code": "2E4fUze",
+  "guild": {
+    "id": "404234648131207170",
+    "name": "DBS",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "9ee950b69d63558b2d0db7a053accaa9",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "613111989220409345",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "243909281135460352",
+    "username": "Haroun",
+    "avatar": "5dec64c1282d17a132498fc3c28d1a8b",
+    "discriminator": "4353",
+    "public_flags": 0
+  },
+  "approximate_member_count": 60,
+  "approximate_presence_count": 3
+}, {
+  "code": "2e6f92Q",
+  "guild": {
+    "id": "230203028982988800",
+    "name": "eUSA",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "43477340fca97db5a377ff3f2976a20f",
+    "features": [],
+    "verification_level": 2,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "338030222328725514",
+    "name": "welcome",
+    "type": 0
+  },
+  "inviter": {
+    "id": "524867889543512076",
+    "username": "hcmadman",
+    "avatar": "7e28e1923bfdeebe57c5059462ec37fe",
+    "discriminator": "2951",
+    "public_flags": 0
+  },
+  "approximate_member_count": 419,
+  "approximate_presence_count": 80
+}, {
+  "code": "2E758sS",
+  "guild": {
+    "id": "311966953004728330",
+    "name": "The Frog Highway",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "9e8d9994b4c07557de5129af76d2d442",
+    "features": ["COMMUNITY", "NEWS"],
+    "verification_level": 1,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "643673907601080320",
+    "name": "welcome",
+    "type": 0
+  },
+  "inviter": {
+    "id": "199286166812360704",
+    "username": "Kneesnap",
+    "avatar": "d571c324c359d2138b1866d93eb2f840",
+    "discriminator": "7540",
+    "public_flags": 64
+  },
+  "approximate_member_count": 421,
+  "approximate_presence_count": 196
+}, {
+  "code": "2E7xBKn",
+  "guild": {
+    "id": "367796894480465932",
+    "name": "PokePRO LEGACY",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "fedf4e33ea38d3b877395808532f84a8",
+    "features": [],
+    "verification_level": 1,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "367805398427893761",
+    "name": "chat-3",
+    "type": 0
+  },
+  "inviter": {
+    "id": "343699534012219395",
+    "username": "washx",
+    "avatar": "e4c4b6b8e6660bf17a5795a756d91ce2",
+    "discriminator": "7429",
+    "public_flags": 0
+  },
+  "approximate_member_count": 1810,
+  "approximate_presence_count": 96
+}, {
+  "code": "2ebe4Px",
+  "guild": {
+    "id": "276131751657734144",
+    "name": "MakeGamesMiami",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "e9bda0c10f63d3d39f6be73f31bd05b6",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "408675767334207498",
+    "name": "rules",
+    "type": 0
+  },
+  "inviter": {
+    "id": "260433797839978497",
+    "username": "Fu",
+    "avatar": "6d35232a1da4adb29c68fcf0562b0e35",
+    "discriminator": "8201",
+    "public_flags": 0
+  },
+  "approximate_member_count": 307,
+  "approximate_presence_count": 119
+}, {
+  "code": "2ehYwZs",
+  "guild": {
+    "id": "243124970232872972",
+    "name": "Mechanical Keyboards UK",
+    "splash": "2fcb9386b76d09c8e7b3ef4b979100a1",
+    "banner": "1d164aa132ad5d533b4a10960750bc4a",
+    "description": null,
+    "icon": "0d2cc944730ef4cf7cccd3f81ec095b7",
+    "features": ["INVITE_SPLASH", "ANIMATED_ICON"],
+    "verification_level": 2,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "275655646219730944",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "217695007270764544",
+    "username": "Papi SodaMan",
+    "avatar": "febbf9a341a4e37bea221914dae57c79",
+    "discriminator": "1835",
+    "public_flags": 0
+  },
+  "approximate_member_count": 1948,
+  "approximate_presence_count": 392
+}, {
+  "code": "2EKPY8W",
+  "guild": {
+    "id": "697861102062534707",
+    "name": "Prime Time Chicago Backgammon Club",
+    "splash": null,
+    "banner": "9db42e0be0b8132f13fc53b4426c5a3a",
+    "description": null,
+    "icon": "465a16f6e6f0c5850504d6af5cc6f2da",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "697910544094461992",
+    "name": "welcome",
+    "type": 0
+  },
+  "inviter": {
+    "id": "697177740129861713",
+    "username": "Steve K",
+    "avatar": "6fbab1364e515f767375245694f96231",
+    "discriminator": "0161",
+    "public_flags": 0
+  },
+  "approximate_member_count": 168,
+  "approximate_presence_count": 18
+}, {
+  "code": "2Ena4aR5Dh",
+  "guild": {
+    "id": "689885586345033894",
+    "name": "ArtProf",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "dc0e410b9a7fd083bc9f13180e9e0812",
+    "features": ["INVITE_SPLASH", "NEWS", "PREVIEW_ENABLED", "ANIMATED_ICON", "MEMBER_VERIFICATION_GATE_ENABLED", "COMMUNITY", "WELCOME_SCREEN_ENABLED"],
+    "verification_level": 2,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": "The community home for artprof.org, and the Art Prof Youtube channel! Make connections with other artists, join draw-alongs and more!",
+      "welcome_channels": [{
+        "channel_id": "689885586353422368",
+        "description": "Get introduced to the Art Prof Community!",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udde3\ufe0f"
+      }]
+    }
+  },
+  "channel": {
+    "id": "689885586353422368",
+    "name": "\ud83d\udc4bgeneral",
+    "type": 0
+  },
+  "inviter": {
+    "id": "295762764234752000",
+    "username": "alexdolly",
+    "avatar": "a_d20978492bc7dfde209c4dbf7d2d3e4b",
+    "discriminator": "0001",
+    "public_flags": 512
+  },
+  "approximate_member_count": 4443,
+  "approximate_presence_count": 589
+}, {
+  "code": "2ESJmvx",
+  "guild": {
+    "id": "529993698210086922",
+    "name": "RELANCEMENT... \ud83d\udc99",
+    "splash": "e31c7621b9273e569e5b65713bb37356",
+    "banner": "89a57b6b43e6958e7fd3636f1cc73d7d",
+    "description": null,
+    "icon": "19dc5f6f124b0d93cb90bddca38fb425",
+    "features": ["WELCOME_SCREEN_ENABLED", "COMMUNITY", "COMMERCE", "ANIMATED_ICON", "INVITE_SPLASH", "NEWS"],
+    "verification_level": 2,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": "Serveur communautaire officiel de Sky. Tchattez, aidez, faites-vous aider et amusez-vous.",
+      "welcome_channels": [{
+        "channel_id": "531051003697430539",
+        "description": "Lire le r\u00e8glement",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udcdc"
+      }, {
+        "channel_id": "541262588265365504",
+        "description": "Discuter avec la communaut\u00e9",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udde8\ufe0f"
+      }, {
+        "channel_id": "788867086759755796",
+        "description": "Support de Sky",
+        "emoji_id": null,
+        "emoji_name": "\u2753"
+      }, {
+        "channel_id": "529998413773799435",
+        "description": "Les derni\u00e8res annonces",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udce2"
+      }, {
+        "channel_id": "552901716836614145",
+        "description": "\u00catre notifi\u00e9 des actualit\u00e9s",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udd14"
+      }]
+    }
+  },
+  "channel": {
+    "id": "529997335036559360",
+    "name": "\ud83d\ude84\u2506gare",
+    "type": 0
+  },
+  "inviter": {
+    "id": "443570807826939919",
+    "username": "Kev1",
+    "avatar": "75c51bfa39562b96852a180d6f0cb4de",
+    "discriminator": "7995",
+    "public_flags": 256
+  },
+  "approximate_member_count": 3078,
+  "approximate_presence_count": 179
+}, {
+  "code": "2eVcsjK",
+  "guild": {
+    "id": "564236995363340306",
+    "name": "Vintage Streaming Community",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "e690ffb394357d7937f2f2a5bb38fdc7",
+    "features": ["COMMUNITY", "NEWS", "WELCOME_SCREEN_ENABLED"],
+    "verification_level": 2,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": "Home for Vintage Magic the Gathering Players! Predominantly based around digital Vintage on MTGO and the streaming community .",
+      "welcome_channels": [{
+        "channel_id": "566406030951710720",
+        "description": "Links and Info",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udc40"
+      }, {
+        "channel_id": "566390232371560458",
+        "description": "Chat about Vintage!",
+        "emoji_id": null,
+        "emoji_name": "\ud83e\udd14"
+      }, {
+        "channel_id": "677287749623087125",
+        "description": "Check out content!",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udcaf"
+      }, {
+        "channel_id": "705133799247315017",
+        "description": "B&R Chat Here",
+        "emoji_id": null,
+        "emoji_name": null
+      }]
+    }
+  },
+  "channel": {
+    "id": "566406030951710720",
+    "name": "announcements",
+    "type": 0
+  },
+  "inviter": {
+    "id": "198813880799985665",
+    "username": "IamActuallyLvL1",
+    "avatar": "9177d5d38de5dc033b7f09cea218ba8d",
+    "discriminator": "7975",
+    "public_flags": 0
+  },
+  "approximate_member_count": 1019,
+  "approximate_presence_count": 348
+}, {
+  "code": "2eVcsjK",
+  "guild": {
+    "id": "564236995363340306",
+    "name": "Vintage Streaming Community",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "e690ffb394357d7937f2f2a5bb38fdc7",
+    "features": ["WELCOME_SCREEN_ENABLED", "NEWS", "COMMUNITY"],
+    "verification_level": 2,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": "Home for Vintage Magic the Gathering Players! Predominantly based around digital Vintage on MTGO and the streaming community .",
+      "welcome_channels": [{
+        "channel_id": "566406030951710720",
+        "description": "Links and Info",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udc40"
+      }, {
+        "channel_id": "566390232371560458",
+        "description": "Chat about Vintage!",
+        "emoji_id": null,
+        "emoji_name": "\ud83e\udd14"
+      }, {
+        "channel_id": "677287749623087125",
+        "description": "Check out content!",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udcaf"
+      }, {
+        "channel_id": "705133799247315017",
+        "description": "B&R Chat Here",
+        "emoji_id": null,
+        "emoji_name": null
+      }]
+    }
+  },
+  "channel": {
+    "id": "566406030951710720",
+    "name": "announcements",
+    "type": 0
+  },
+  "inviter": {
+    "id": "198813880799985665",
+    "username": "IamActuallyLvL1",
+    "avatar": "9177d5d38de5dc033b7f09cea218ba8d",
+    "discriminator": "7975",
+    "public_flags": 0
+  },
+  "approximate_member_count": 1019,
+  "approximate_presence_count": 348
+}, {
+  "code": "2ew22AybF9",
+  "guild": {
+    "id": "774642924810010625",
+    "name": "Kim Kardashian: Hollywood",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "495e8c550169246109815b48187908e1",
+    "features": ["INVITE_SPLASH", "ANIMATED_ICON"],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "774642925396295683",
+    "name": "welcome",
+    "type": 0
+  },
+  "inviter": {
+    "id": "243083213407256576",
+    "username": "Jabberwooh",
+    "avatar": "d5fe40ac70cf5897c93da0e04ff56ccd",
+    "discriminator": "7172",
+    "public_flags": 0
+  },
+  "approximate_member_count": 501,
+  "approximate_presence_count": 33
+}, {
+  "code": "2EwAV9E",
+  "guild": {
+    "id": "659791036331327503",
+    "name": "Nerious Community",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "a_8d2041bb441792e6bf25dacbc7961983",
+    "features": ["ANIMATED_ICON", "WELCOME_SCREEN_ENABLED", "COMMUNITY", "INVITE_SPLASH", "NEWS"],
+    "verification_level": 2,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": "This is the community of the official grouplike entity \"Nerious\". Nerious is primarily a game development group but we also like to grow out",
+      "welcome_channels": [{
+        "channel_id": "672539741350264863",
+        "description": "Read or rules and get verified by reacting",
+        "emoji_id": null,
+        "emoji_name": "\ud83e\udd55"
+      }]
+    }
+  },
+  "channel": {
+    "id": "659791036880519206",
+    "name": "lounge",
+    "type": 0
+  },
+  "inviter": {
+    "id": "252837942664364033",
+    "username": "Iwo",
+    "avatar": "a_2ca94e8e33c42eae684a250a607ff005",
+    "discriminator": "2001",
+    "public_flags": 131328
+  },
+  "approximate_member_count": 1853,
+  "approximate_presence_count": 127
+}, {
+  "code": "2eyheW8",
+  "guild": {
+    "id": "346824783817736193",
+    "name": "TecnoCraft | Community",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "62399c763a98f6a584f8ed06fd7a9366",
+    "features": [],
+    "verification_level": 2,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "346824783817736194",
+    "name": "\u1d18\u1d1c\u0299\u0299\u029f\u026a\u1d04\u1d00",
+    "type": 0
+  },
+  "inviter": {
+    "id": "200920151422402561",
+    "username": "zPirroZ3007",
+    "avatar": "790d489683d0b989f687caacb4bbf111",
+    "discriminator": "7316",
+    "public_flags": 576
+  },
+  "approximate_member_count": 1620,
+  "approximate_presence_count": 73
+}, {
+  "code": "2eyheW8",
+  "guild": {
+    "id": "346824783817736193",
+    "name": "TecnoCraft | Community",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "62399c763a98f6a584f8ed06fd7a9366",
+    "features": [],
+    "verification_level": 2,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "346824783817736194",
+    "name": "\u1d18\u1d1c\u0299\u0299\u029f\u026a\u1d04\u1d00",
+    "type": 0
+  },
+  "inviter": {
+    "id": "200920151422402561",
+    "username": "zPirroZ3007",
+    "avatar": "790d489683d0b989f687caacb4bbf111",
+    "discriminator": "7316",
+    "public_flags": 576
+  },
+  "approximate_member_count": 1620,
+  "approximate_presence_count": 73
+}, {
+  "code": "2EyxY2c",
+  "guild": {
+    "id": "207546157348421633",
+    "name": "Guilty Gear RU",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "a_8a9163f1197df73ef589f0d81fc18c12",
+    "features": ["INVITE_SPLASH", "ANIMATED_ICON"],
+    "verification_level": 2,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "207546792039022595",
+    "name": "news",
+    "type": 0
+  },
+  "inviter": {
+    "id": "208695264939212800",
+    "username": "OverKilL.",
+    "avatar": "13b1dd3266c79428c20a1b77c894925e",
+    "discriminator": "9042",
+    "public_flags": 0
+  },
+  "approximate_member_count": 1298,
+  "approximate_presence_count": 143
+}, {
+  "code": "2f6KNfh",
+  "guild": {
+    "id": "592319791210168320",
+    "name": "FreshStart Hosting",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "44d272b9fa074e2b0bbdfbd08ab00a90",
+    "features": ["COMMUNITY", "WELCOME_SCREEN_ENABLED", "NEWS"],
+    "verification_level": 2,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": "Here you can obtain support for our products and chat with all the awesome members of our community!",
+      "welcome_channels": [{
+        "channel_id": "593185408095879213",
+        "description": "Visit our Website or Find Useful Links",
+        "emoji_id": null,
+        "emoji_name": "\ud83c\udf10"
+      }, {
+        "channel_id": "645390152578891825",
+        "description": "Ask the FreshTeam a Question",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udde8\ufe0f"
+      }, {
+        "channel_id": "624001985686929423",
+        "description": "Chat with the Community",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udc4b"
+      }]
+    }
+  },
+  "channel": {
+    "id": "624001985686929423",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "263327829259845633",
+    "username": "Ollie",
+    "avatar": "ba6dd05bb549af638162c2b968167045",
+    "discriminator": "3510",
+    "public_flags": 128
+  },
+  "approximate_member_count": 88,
+  "approximate_presence_count": 19
+}, {
+  "code": "2F7KdnAJxE",
+  "guild": {
+    "id": "718472173903151214",
+    "name": "Super Marketing World",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "20f8e46d4a366b9fc1d0bd8f5a723abd",
+    "features": [],
+    "verification_level": 1,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "723204904092696716",
+    "name": "\ud83d\udd0a-new-coin-announcement",
+    "type": 0
+  },
+  "inviter": {
+    "id": "404477930085941259",
+    "username": "CryptoVin",
+    "avatar": "8257a466cbfb8ebfae14c5e75112ca2a",
+    "discriminator": "0097",
+    "public_flags": 0
+  },
+  "approximate_member_count": 424,
+  "approximate_presence_count": 57
+}, {
+  "code": "2FB8wDG",
+  "guild": {
+    "id": "445203868624748555",
+    "name": "Switchblade Community",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "86ff43bc6e6f1be2d351c3d174d24446",
+    "features": ["MEMBER_VERIFICATION_GATE_ENABLED", "COMMUNITY", "PREVIEW_ENABLED", "NEWS", "WELCOME_SCREEN_ENABLED"],
+    "verification_level": 2,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": "Welcome to the Switchblade Community Server! PS: We don't support self-hosting. Thanks",
+      "welcome_channels": [{
+        "channel_id": "591274704703324162",
+        "description": "Read the rules",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\ude94"
+      }, {
+        "channel_id": "541038842883342346",
+        "description": "Read the Frequently Asked Questions",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\uded1"
+      }, {
+        "channel_id": "445675725060571146",
+        "description": "Still need help? Ask here!",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udee0\ufe0f"
+      }]
+    }
+  },
+  "channel": {
+    "id": "445631480186667038",
+    "name": "about-old",
+    "type": 0
+  },
+  "inviter": {
+    "id": "169213934094647298",
+    "username": "pedrofracassi",
+    "avatar": "b2b3bd2fca43714d38c3066fc60b4bbc",
+    "discriminator": "4623",
+    "public_flags": 131712
+  },
+  "approximate_member_count": 477,
+  "approximate_presence_count": 115
+}, {
+  "code": "2Fbtq5U",
+  "guild": {
+    "id": "507281317113626627",
+    "name": "Mission Control GG",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "dff48a07014b2737bb5c40cb53412aca",
+    "features": [],
+    "verification_level": 1,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "507281317113626633",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "507272030291492865",
+    "username": "BrandonWilliamSmith",
+    "avatar": "1145f75e9a3fd1f0c48174cccf60d314",
+    "discriminator": "9570",
+    "public_flags": 0
+  },
+  "approximate_member_count": 177,
+  "approximate_presence_count": 52
+}, {
+  "code": "2fpwfU9",
+  "guild": {
+    "id": "724771666437341306",
+    "name": "OWL",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "8d750dfbafcd8271333310e3f56eb59c",
+    "features": ["WELCOME_SCREEN_ENABLED", "NEWS", "COMMUNITY"],
+    "verification_level": 2,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": "This is the official Discord for OWL keycap designs. Follow my projects and chat with other keyboard enthusiasts.",
+      "welcome_channels": [{
+        "channel_id": "724782111692816424",
+        "description": "Read the rules and then explore the server",
+        "emoji_id": null,
+        "emoji_name": null
+      }, {
+        "channel_id": "724771667259424810",
+        "description": "Chat with other fellow keyboard enthusiast",
+        "emoji_id": null,
+        "emoji_name": null
+      }, {
+        "channel_id": "724777096232304731",
+        "description": "Share your passion for art and design",
+        "emoji_id": null,
+        "emoji_name": null
+      }, {
+        "channel_id": "740013131660787814",
+        "description": "Download my wallpapers and media",
+        "emoji_id": null,
+        "emoji_name": null
+      }]
+    }
+  },
+  "channel": {
+    "id": "724775355881357392",
+    "name": "welcome",
+    "type": 0
+  },
+  "inviter": {
+    "id": "138462386112823296",
+    "username": "Owl",
+    "avatar": "ce155dfde515b25a3ac6a6cd971826a0",
+    "discriminator": "0964",
+    "public_flags": 0
+  },
+  "approximate_member_count": 420,
+  "approximate_presence_count": 195
+}, {
+  "code": "2FqvS6TbRm",
+  "guild": {
+    "id": "786856148757643295",
+    "name": "HollaEx",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "68058dac7f6a304fb2e184a55a721767",
+    "features": ["MEMBER_VERIFICATION_GATE_ENABLED", "COMMUNITY", "NEWS", "PREVIEW_ENABLED", "WELCOME_SCREEN_ENABLED"],
+    "verification_level": 1,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": "HollaEx is an open-source crypto exchange designed for everyone to utilize and run your own exchange.",
+      "welcome_channels": [{
+        "channel_id": "786874706174541845",
+        "description": "For the first-time joining users.",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udcd8"
+      }, {
+        "channel_id": "787310467332177921",
+        "description": "Important announcements.",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udce2"
+      }, {
+        "channel_id": "786856149202108426",
+        "description": "Free place to start any conversation.",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udcac"
+      }, {
+        "channel_id": "786875474688081921",
+        "description": "Bug reports, Feedbacks, Ideas.",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udcdd"
+      }, {
+        "channel_id": "787321551544385546",
+        "description": "Deep tech talks.",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udcbb"
+      }]
+    }
+  },
+  "channel": {
+    "id": "786856149202108426",
+    "name": "\ud83d\udcacgeneral",
+    "type": 0
+  },
+  "inviter": {
+    "id": "787914741804302366",
+    "username": "chrono000",
+    "avatar": "ef634110790d5465653ad6d746790fb9",
+    "discriminator": "0219",
+    "public_flags": 0
+  },
+  "approximate_member_count": 68,
+  "approximate_presence_count": 13
+}, {
+  "code": "2FrQ6EB",
+  "guild": {
+    "id": "274657393936302080",
+    "name": "Kanium",
+    "splash": "d35c20b27328c20189df43d4146b5ae5",
+    "banner": "d35c20b27328c20189df43d4146b5ae5",
+    "description": null,
+    "icon": "a_1adc876c641ef8c51369a5ba311fa68c",
+    "features": ["INVITE_SPLASH", "BANNER", "ANIMATED_ICON"],
+    "verification_level": 2,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "355498373777719297",
+    "name": "steelbeasts",
+    "type": 0
+  },
+  "inviter": {
+    "id": "195609170299322368",
+    "username": "Major Duck",
+    "avatar": "e1e192c97c88a25951fd0bcdccf7db3c",
+    "discriminator": "0061",
+    "public_flags": 0
+  },
+  "approximate_member_count": 622,
+  "approximate_presence_count": 140
+}, {
+  "code": "2Frs3UhN97",
+  "guild": {
+    "id": "794692589303365632",
+    "name": "Help Joining the GUM",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "9cac6f082f6766c703b98f5e28dedfbe",
+    "features": [],
+    "verification_level": 1,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "794696846357430272",
+    "name": "wiki-help",
+    "type": 0
+  },
+  "inviter": {
+    "id": "598976010222043137",
+    "username": "Cristi",
+    "avatar": "d1fa874df4c883d81e68882eb9764025",
+    "discriminator": "7235",
+    "public_flags": 0
+  },
+  "approximate_member_count": 59,
+  "approximate_presence_count": 9
+}, {
+  "code": "2Fvragh",
+  "guild": {
+    "id": "525301584901439488",
+    "name": "ArgusWow",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "01220d5267294e84f1581633f90aad2f",
+    "features": [],
+    "verification_level": 2,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "525310219731992576",
+    "name": "\ud83d\udcddrules",
+    "type": 0
+  },
+  "inviter": {
+    "id": "203571276319686666",
+    "username": "Rubaka",
+    "avatar": null,
+    "discriminator": "0064",
+    "public_flags": 0
+  },
+  "approximate_member_count": 1896,
+  "approximate_presence_count": 132
+}, {
+  "code": "2Fvragh",
+  "guild": {
+    "id": "525301584901439488",
+    "name": "ArgusWow",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "01220d5267294e84f1581633f90aad2f",
+    "features": [],
+    "verification_level": 2,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "525310219731992576",
+    "name": "\ud83d\udcddrules",
+    "type": 0
+  },
+  "inviter": {
+    "id": "203571276319686666",
+    "username": "Rubaka",
+    "avatar": null,
+    "discriminator": "0064",
+    "public_flags": 0
+  },
+  "approximate_member_count": 1896,
+  "approximate_presence_count": 132
+}, {
+  "code": "2fXuFbB",
+  "guild": {
+    "id": "695664941247627274",
+    "name": "Backrooms Tech Support",
+    "splash": "1f9d5c92b9bd9b0d40e64f79fbbb4201",
+    "banner": null,
+    "description": null,
+    "icon": "a_214672ba3322df341b16bb1ef0ebcc6b",
+    "features": ["INVITE_SPLASH", "NEWS", "ANIMATED_ICON", "COMMUNITY", "WELCOME_SCREEN_ENABLED"],
+    "verification_level": 3,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": "The Official Backrooms Wiki Server",
+      "welcome_channels": [{
+        "channel_id": "695664941247627277",
+        "description": "Get some assistance from staff",
+        "emoji_id": null,
+        "emoji_name": null
+      }, {
+        "channel_id": "695666939426504706",
+        "description": "Officially join the server here",
+        "emoji_id": null,
+        "emoji_name": null
+      }, {
+        "channel_id": "719291797670723614",
+        "description": "Get some roles here",
+        "emoji_id": null,
+        "emoji_name": null
+      }]
+    }
+  },
+  "channel": {
+    "id": "695666939426504706",
+    "name": "join-the-server-and-rules",
+    "type": 0
+  },
+  "inviter": {
+    "id": "487912289425686529",
+    "username": "Warpez",
+    "avatar": "b0e51eecb76631639f16163e7f23a606",
+    "discriminator": "2449",
+    "public_flags": 64
+  },
+  "approximate_member_count": 822,
+  "approximate_presence_count": 263
+}, {
+  "code": "2fxw7gE",
+  "guild": {
+    "id": "578216894406983680",
+    "name": "ConstantSail",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "137212c6f55efb781aabb50b4078a5dc",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "578216894406983682",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "447252620445220875",
+    "username": "RobKohr",
+    "avatar": "98b2f860f8379004e340f6ffe45d3582",
+    "discriminator": "3979",
+    "public_flags": 0
+  },
+  "approximate_member_count": 1,
+  "approximate_presence_count": 0
+}, {
+  "code": "2fzCPSzNXj",
+  "guild": {
+    "id": "751131040029999259",
+    "name": "ZER\u00d8 DAYZ",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "76903283489df2e884d15752fd558f51",
+    "features": ["COMMUNITY", "WELCOME_SCREEN_ENABLED", "INVITE_SPLASH", "ANIMATED_ICON", "NEWS"],
+    "verification_level": 1,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": "Here you will find all the info you need to play on the ZERO DayZ servers for PC.",
+      "welcome_channels": [{
+        "channel_id": "751136210143019178",
+        "description": "Read up on basic server rules",
+        "emoji_id": null,
+        "emoji_name": "\u270b"
+      }]
+    }
+  },
+  "channel": {
+    "id": "772181107088818197",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "103951444205371392",
+    "username": "HappyBombs",
+    "avatar": "4715f650725be56f959a9ae1f32ef906",
+    "discriminator": "7036",
+    "public_flags": 256
+  },
+  "approximate_member_count": 997,
+  "approximate_presence_count": 291
+}, {
+  "code": "2g6CBzg",
+  "guild": {
+    "id": "706996551255588875",
+    "name": "CakeKraft Survival",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "6920336e9fa3a49ec49f637713d74666",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "706997603660988446",
+    "name": "\ud83d\udce2announcements\ud83d\udce2",
+    "type": 0
+  },
+  "inviter": {
+    "id": "409820940944408577",
+    "username": "SamKat",
+    "avatar": "1966ffe2a236dead3c3d0b552c7bd94b",
+    "discriminator": "0002",
+    "public_flags": 576
+  },
+  "approximate_member_count": 2,
+  "approximate_presence_count": 2
+}, {
+  "code": "2G9N2ScNyz",
+  "guild": {
+    "id": "733477156281384961",
+    "name": "\u6df7\u6c8c\u5206\u88c2\u8005\u4e2d\u56fd\u5206\u90e8",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "167652eb41e943e8d4372cfc4c416eda",
+    "features": [],
+    "verification_level": 1,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "733477156738564128",
+    "name": "\u7efc\u5408\u4e2d\u6587-chinese",
+    "type": 0
+  },
+  "inviter": {
+    "id": "702339753328246844",
+    "username": "CTaBear",
+    "avatar": "52e5fefd363955fde42d6f54d68cc957",
+    "discriminator": "6205",
+    "public_flags": 0
+  },
+  "approximate_member_count": 21,
+  "approximate_presence_count": 1
+}, {
+  "code": "2GbRVS5",
+  "guild": {
+    "id": "565034226504695809",
+    "name": "slapartists",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "5e658057f3edc0f479ebdc88c48de0a1",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "565034226504695815",
+    "name": "general-chat",
+    "type": 0
+  },
+  "inviter": {
+    "id": "138808097656406016",
+    "username": "slapartist",
+    "avatar": "29323de1f7405eecf7cd6ef6cdd09196",
+    "discriminator": "6589",
+    "public_flags": 0
+  },
+  "approximate_member_count": 103,
+  "approximate_presence_count": 38
+}, {
+  "code": "2ghT4AByGy",
+  "guild": {
+    "id": "811178565226856469",
+    "name": "\u0e0a\u0e21\u0e23\u0e21\u0e04\u0e19\u0e23\u0e31\u0e01\u0e42\u0e04\u0e19\u0e31\u0e19",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "dd5e31a7a9a90c27956adc5c9b0c87ea",
+    "features": ["NEWS", "PREVIEW_ENABLED", "COMMUNITY", "MEMBER_VERIFICATION_GATE_ENABLED", "WELCOME_SCREEN_ENABLED"],
+    "verification_level": 1,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": "\u0e08\u0e31\u0e01\u0e23\u0e27\u0e32\u0e25\u0e02\u0e2d\u0e07\u0e04\u0e19\u0e23\u0e31\u0e01\u0e42\u0e04\u0e19\u0e31\u0e19 \u0e04\u0e38\u0e22\u0e16\u0e32\u0e21\u0e44\u0e14\u0e49\u0e17\u0e38\u0e01\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07 - \u0e2a\u0e21\u0e32\u0e0a\u0e34\u0e01\u0e43\u0e2b\u0e21\u0e48\u0e2d\u0e22\u0e48\u0e32\u0e25\u0e37\u0e21\u0e41\u0e19\u0e30\u0e19\u0e33\u0e15\u0e31\u0e27\u0e01\u0e48\u0e2d\u0e19 \u0e40\u0e2a\u0e23\u0e47\u0e08\u0e41\u0e25\u0e49\u0e27\u0e08\u0e30\u0e44\u0e14\u0e49\u0e23\u0e31\u0e1a\u0e22\u0e28\u0e41\u0e25\u0e30\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e40\u0e02\u0e49\u0e32\u0e14\u0e39\u0e2b\u0e49\u0e2d\u0e07\u0e2d\u0e37\u0e48\u0e19\u0e46\u0e17\u0e35\u0e48\u0e0b\u0e48\u0e2d\u0e19\u0e2d\u0e22\u0e39\u0e48\u0e44\u0e14\u0e49",
+      "welcome_channels": [{
+        "channel_id": "811246011904950333",
+        "description": "\u0e21\u0e32\u0e43\u0e2b\u0e21\u0e48\u0e2d\u0e22\u0e48\u0e32\u0e25\u0e37\u0e21\u0e41\u0e19\u0e30\u0e19\u0e33\u0e15\u0e31\u0e27\u0e19\u0e30\u0e04\u0e23\u0e31\u0e1a",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\ude4b\u200d\u2642\ufe0f"
+      }, {
+        "channel_id": "811548263199014923",
+        "description": "\u0e15\u0e34\u0e14\u0e15\u0e32\u0e21\u0e1b\u0e23\u0e30\u0e01\u0e32\u0e28\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udce2"
+      }, {
+        "channel_id": "811556783692316712",
+        "description": "\u0e22\u0e31\u0e07\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e23\u0e31\u0e1a\u0e22\u0e28 \u0e15\u0e34\u0e14\u0e1b\u0e31\u0e0d\u0e2b\u0e32 \u0e15\u0e34\u0e14\u0e15\u0e48\u0e2d\u0e40\u0e1a\u0e37\u0e49\u0e2d\u0e07\u0e1a\u0e19\u0e40\u0e25\u0e22",
+        "emoji_id": null,
+        "emoji_name": "\ud83e\udd19"
+      }, {
+        "channel_id": "811182593529085962",
+        "description": "\u0e2d\u0e22\u0e48\u0e32\u0e25\u0e37\u0e21\u0e2a\u0e25\u0e30\u0e40\u0e27\u0e25\u0e32\u0e2d\u0e48\u0e32\u0e19\u0e01\u0e0e\u0e14\u0e49\u0e27\u0e22\u0e19\u0e30\u0e04\u0e23\u0e31\u0e1a",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udcf0"
+      }]
+    }
+  },
+  "channel": {
+    "id": "811178565844336672",
+    "name": "\u0e2a\u0e31\u0e1e\u0e40\u0e1e\u0e40\u0e2b\u0e23\u0e30",
+    "type": 0
+  },
+  "inviter": {
+    "id": "811177952082657361",
+    "username": "theconanclub",
+    "avatar": "02c6eac9dda18d98e8dab3e5b22f3a52",
+    "discriminator": "9856",
+    "public_flags": 0
+  },
+  "approximate_member_count": 354,
+  "approximate_presence_count": 37
+}, {
+  "code": "2GMBrJg",
+  "guild": {
+    "id": "357964536848056321",
+    "name": "ONE OF 500",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "15d5ec9c3a11330e71c0a5760524d26e",
+    "features": ["INVITE_SPLASH", "ANIMATED_ICON"],
+    "verification_level": 2,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "358259367067516929",
+    "name": "\ud83d\udde3introductions",
+    "type": 0
+  },
+  "inviter": {
+    "id": "399216419369254922",
+    "username": "Robin",
+    "avatar": "8b012af4e7e25e829f682c92cc0b6c37",
+    "discriminator": "3511",
+    "public_flags": 0
+  },
+  "approximate_member_count": 722,
+  "approximate_presence_count": 21
+}, {
+  "code": "2gPQBAjBTn",
+  "guild": {
+    "id": "745341862226952343",
+    "name": "Mythos of Agrea",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "1f5812323fa8943a268ce220748bb095",
+    "features": ["INVITE_SPLASH", "ANIMATED_ICON"],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "745341862226952346",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "509430136442191873",
+    "username": "D.C. Servers",
+    "avatar": "5f1fbb863ea2f4cd9f4710999cba0e43",
+    "discriminator": "3637",
+    "public_flags": 65536,
+    "bot": true
+  },
+  "approximate_member_count": 150,
+  "approximate_presence_count": 74
+}, {
+  "code": "2gxSqWu",
+  "guild": {
+    "id": "645137556777992203",
+    "name": "HKDev",
+    "splash": "dfd8b0e5ecb0218afc4aaaf541355bf8",
+    "banner": "55166d60c93936c8f4f2a22bd0746895",
+    "description": "\u300e HKDev \u300f  | Developer Space to Converse",
+    "icon": "f22f972c225a746ff3aab6186f0fbc56",
+    "features": ["VANITY_URL", "PREVIEW_ENABLED", "WELCOME_SCREEN_ENABLED", "INVITE_SPLASH", "DISCOVERABLE", "ENABLED_DISCOVERABLE_BEFORE", "VIP_REGIONS", "COMMERCE", "NEWS", "ANIMATED_ICON", "COMMUNITY", "PARTNERED", "BANNER"],
+    "verification_level": 2,
+    "vanity_url_code": "hkdev",
+    "welcome_screen": {
+      "description": "\ubbf8\ub798\ub85c \ub3c4\uc57d\ud558\ub294 \uac1c\ubc1c\uc790 \ucee4\ubba4\ub2c8\ud2f0, HK Dev",
+      "welcome_channels": [{
+        "channel_id": "678754965635858450",
+        "description": "\ub2f9\uc2e0\uc774 \uc0ac\ub78c\uc774\ub77c\ub294\uac78 \uc54c\ub824\uc8fc\uc138\uc694!",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udce2"
+      }, {
+        "channel_id": "746513651506348162",
+        "description": "\uaddc\uce59\uc740 \ubc18\ub4dc\uc2dc \uc900\uc218\ud574\uc57c \ud569\ub2c8\ub2e4!",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udcf0"
+      }]
+    }
+  },
+  "channel": {
+    "id": "678754965635858450",
+    "name": "\ud83d\udcd6\u2503\uc548\ub0b4\ud569\ub2c8\ub2e4",
+    "type": 5
+  },
+  "inviter": {
+    "id": "588988294961037322",
+    "username": "Deicide",
+    "avatar": "777647cc18f454e4497eaf72cbaa8766",
+    "discriminator": "7777",
+    "public_flags": 258
+  },
+  "approximate_member_count": 2668,
+  "approximate_presence_count": 724
+}, {
+  "code": "2gZqqp5",
+  "guild": {
+    "id": "674001664587464721",
+    "name": "Xarala Academy",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "e849c91129c593178e9c5f6d96a01507",
+    "features": ["COMMUNITY", "NEWS"],
+    "verification_level": 1,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "674001665199964196",
+    "name": "general",
+    "type": 0
+  },
+  "inviter": {
+    "id": "608428803974234142",
+    "username": "xarala221",
+    "avatar": "aba8546ef93bd525569f2636f4551bf2",
+    "discriminator": "7225",
+    "public_flags": 0
+  },
+  "approximate_member_count": 108,
+  "approximate_presence_count": 0
+}, {
+  "code": "2hAzydQRgw",
+  "guild": {
+    "id": "692331531456479332",
+    "name": "NORDIC+BALTIC BTE",
+    "splash": "cfca34ea9a3667aa52358f657217f0a8",
+    "banner": null,
+    "description": null,
+    "icon": "a_e770c1339ccb4c2ddbc217d74955761a",
+    "features": ["WELCOME_SCREEN_ENABLED", "ANIMATED_ICON", "MEMBER_VERIFICATION_GATE_ENABLED", "PREVIEW_ENABLED", "NEWS", "INVITE_SPLASH", "COMMUNITY"],
+    "verification_level": 2,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": "The Nordic & Baltic BTE official Discord server!",
+      "welcome_channels": [{
+        "channel_id": "692335667593740379",
+        "description": "Read our rules here!",
+        "emoji_id": null,
+        "emoji_name": "\u2696\ufe0f"
+      }, {
+        "channel_id": "692334508216811541",
+        "description": "Get started!",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udc4b"
+      }, {
+        "channel_id": "692335358133665892",
+        "description": "Need some help? ",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\uddff"
+      }, {
+        "channel_id": "692334550746923067",
+        "description": "Our announcments! ",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udce2"
+      }]
+    }
+  },
+  "channel": {
+    "id": "700231355723677786",
+    "name": "owner-chat",
+    "type": 0
+  },
+  "inviter": {
+    "id": "311661241406062592",
+    "username": "BruhFish_",
+    "avatar": "8bddeaeb087fe18623d65ad9040841d6",
+    "discriminator": "6942",
+    "public_flags": 256
+  },
+  "approximate_member_count": 1908,
+  "approximate_presence_count": 227
+}, {
+  "code": "2hdHA8GPEU",
+  "guild": {
+    "id": "644979577076318219",
+    "name": "UNDERDOGs BEST FRIEND",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "538e31cad9f74754e70bd2dc771805d3",
+    "features": [],
+    "verification_level": 2,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "778111455286263828",
+    "name": "need2dream",
+    "type": 0
+  },
+  "inviter": {
+    "id": "450226185767485450",
+    "username": "Deesotox",
+    "avatar": "2389d9afe2efbcb33ef1e1ccde24dc9c",
+    "discriminator": "1811",
+    "public_flags": 256
+  },
+  "approximate_member_count": 4,
+  "approximate_presence_count": 1
+}, {
+  "code": "2hJmYje",
+  "guild": {
+    "id": "589191346246516757",
+    "name": "Frikandelbroodje Community",
+    "splash": "0c5f09bbbdb57d1fec473dcb27145774",
+    "banner": "941694fbb4b5b5a67b5a6f8e0611494a",
+    "description": null,
+    "icon": "a_6240598fb35a9714667a16f4d8b41bd9",
+    "features": ["ANIMATED_ICON", "COMMUNITY", "MEMBER_VERIFICATION_GATE_ENABLED", "NEWS", "PREVIEW_ENABLED", "INVITE_SPLASH", "BANNER"],
+    "verification_level": 1,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "591550480505896980",
+    "name": "announcements",
+    "type": 0
+  },
+  "inviter": {
+    "id": "276408773113806848",
+    "username": "Oyplap",
+    "avatar": "eeefad92971b963f04826738f126f2ab",
+    "discriminator": "7717",
+    "public_flags": 0
+  },
+  "approximate_member_count": 796,
+  "approximate_presence_count": 74
+}, {
+  "code": "2hkE3yj7y6",
+  "guild": {
+    "id": "780482924294307882",
+    "name": "gg Community",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "43612c83456fa1ee3d320848db4f70d8",
+    "features": ["NEWS", "WELCOME_SCREEN_ENABLED", "PREVIEW_ENABLED", "COMMUNITY", "MEMBER_VERIFICATION_GATE_ENABLED"],
+    "verification_level": 2,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": "This is the community Discord server for the gg-scm.io project.",
+      "welcome_channels": [{
+        "channel_id": "780482924981125126",
+        "description": "Read the rules",
+        "emoji_id": null,
+        "emoji_name": "\u2757"
+      }, {
+        "channel_id": "780489030172934164",
+        "description": "Get help using gg",
+        "emoji_id": null,
+        "emoji_name": "\u2753"
+      }, {
+        "channel_id": "780482924981125127",
+        "description": "Stay up-to-date on the latest news!",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udcf0"
+      }, {
+        "channel_id": "780482924981125131",
+        "description": "Talk about gg",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udde8\ufe0f"
+      }]
+    }
+  },
+  "channel": {
+    "id": "780482924981125128",
+    "name": "welcome",
+    "type": 0
+  },
+  "inviter": {
+    "id": "356151723645206529",
+    "username": "zombiezen",
+    "avatar": "c0605b03111246137f0e9a9c6aa8a98f",
+    "discriminator": "5693",
+    "public_flags": 0
+  },
+  "approximate_member_count": 2,
+  "approximate_presence_count": 1
+}, {
+  "code": "2hpJzpT",
+  "guild": {
+    "id": "688740405558509592",
+    "name": "Beers & Board Games Club",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "cd7dd94fbb25244d5d5787a39c9e4f77",
+    "features": ["ANIMATED_ICON", "INVITE_SPLASH"],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "689080614871105567",
+    "name": "moderators",
+    "type": 0
+  },
+  "inviter": {
+    "id": "135135607008526336",
+    "username": "thrillmeup",
+    "avatar": "049b8ce71068b1d6e524e4a69a52cbe3",
+    "discriminator": "6835",
+    "public_flags": 0
+  },
+  "approximate_member_count": 182,
+  "approximate_presence_count": 58
+}, {
+  "code": "2htVyTk",
+  "guild": {
+    "id": "523012216815878154",
+    "name": "Fe Scans",
+    "splash": "2a3760923bb6760fbe469d7889185523",
+    "banner": null,
+    "description": null,
+    "icon": "a_b3b8511739b18313111f31eb63adbcd6",
+    "features": ["NEWS", "WELCOME_SCREEN_ENABLED", "ANIMATED_ICON", "COMMUNITY", "INVITE_SPLASH"],
+    "verification_level": 1,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": "Welcome To Fe Scans! Please read the rules and get verified to be able to see the rest of the channels.  Need help? Ping or Dm Oreki!",
+      "welcome_channels": [{
+        "channel_id": "700741237896118313",
+        "description": "Verification",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udcd6"
+      }, {
+        "channel_id": "700604510522835014",
+        "description": "Series you want to get pinged on ",
+        "emoji_id": null,
+        "emoji_name": "\ud83d\udce2"
+      }]
+    }
+  },
+  "channel": {
+    "id": "700741237896118313",
+    "name": "information",
+    "type": 0
+  },
+  "inviter": {
+    "id": "372648849451253772",
+    "username": "Oreki",
+    "avatar": "a_aaa4b696982533c799648916868b67bc",
+    "discriminator": "1926",
+    "public_flags": 768
+  },
+  "approximate_member_count": 1505,
+  "approximate_presence_count": 369
+}, {
+  "code": "2hxXZBS",
+  "guild": {
+    "id": "698182993449058344",
+    "name": "Speedium Usenet",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "a5cc201bf757c85a4b9eece01db990b5",
+    "features": [],
+    "verification_level": 0,
+    "vanity_url_code": null
+  },
+  "channel": {
+    "id": "698182994204164098",
+    "name": "join",
+    "type": 0
+  },
+  "inviter": {
+    "id": "323431493269454859",
+    "username": "Speedium - Hidde",
+    "avatar": "d76ce54b27d813517cb99622e771d298",
+    "discriminator": "0070",
+    "public_flags": 0
+  },
+  "approximate_member_count": 601,
+  "approximate_presence_count": 56
+}, {
+  "code": "2HYGFUm",
+  "guild": {
+    "id": "759135694026702859",
+    "name": "\u0411\u0438\u0441\u043a\u0432\u0438\u0442 Community",
+    "splash": null,
+    "banner": null,
+    "description": null,
+    "icon": "89943b3c018e46fe00a917afba92b154",
+    "features": ["COMMUNITY", "WELCOME_SCREEN_ENABLED", "NEWS"],
+    "verification_level": 2,
+    "vanity_url_code": null,
+    "welcome_screen": {
+      "description": "\u0414\u0430\u043d\u043d\u044b\u0439 \u0441\u0435\u0440\u0432\u0435\u0440 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u043c \u0441\u0435\u0440\u0432\u0435\u0440\u043e\u043c \u0442\u0435\u0445. \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0431\u043e\u0442\u0430 \u0411\u0438\u0441\u043a\u0432\u0438\u0442.",
+      "welcome_channels": [{
+        "channel_id": "795305641413574706",
+        "description": "\u041f\u0440\u043e\u0447\u0438\u0442\u0430\u0439\u0442\u0435 \u043f\u0440\u0430\u0432\u0438\u043b\u0430",
+        "emoji_id": null,
+        "emoji_name": null
+      }, {
+        "channel_id": "767006475838160896",
+        "description": "\u0420\u0430\u0437\u0434\u0435\u043b \u0442\u0435\u0445 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438",
+        "emoji_id": null,
+        "emoji_name": null
+      }, {
+        "channel_id": "759148900325785650",
+        "description": "\u041f\u043e\u0431\u043e\u043b\u0442\u0430\u0439\u0442\u0435 \u0441 \u0434\u0440\u0443\u0433\u0438\u043c\u0438 \u0443\u0447\u0430\u0441\u0442\u043d\u0438\u043a\u0430\u043c\u0438 :)",
+        "emoji_id": null,
+        "emoji_name": null
+      }, {
+        "channel_id": "759142541944815656",
+        "description": "\u041f\u043e\u0441\u043c\u043e\u0442\u0440\u0438\u0442\u0435 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0435 \u043e\u0431\u044a\u044f\u0432\u043b\u0435\u043d\u0438\u044f",
+        "emoji_id": null,
+        "emoji_name": null
+      }]
+    }
+  },
+  "channel": {
+    "id": "759148900325785650",
+    "name": "\u300e\ud83d\udcac\u300f\u043e\u0431\u0449\u0435\u043d\u0438\u0435",
+    "type": 0
+  },
+  "inviter": {
+    "id": "473499816572223489",
+    "username": "fazzetix",
+    "avatar": "6fcc7e00e7c8d8abe1fb55561b48de9f",
+    "discriminator": "7186",
+    "public_flags": 128
+  },
+  "approximate_member_count": 90,
+  "approximate_presence_count": 3
+}]

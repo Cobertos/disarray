@@ -1,5 +1,6 @@
 <template>
   <img
+    loading
     :src="discordCDNUrl"
   >
 </template>

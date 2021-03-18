@@ -17,6 +17,7 @@
       :resource="invite.inviter"
     />
   </div-->
+  <!-- TODO: Show date using snowflake -->
   <div
     class="invite-card-top"
   >
@@ -60,6 +61,10 @@
     class="invite-card-description"
     v-if="invite.guild.description"
     v-text="invite.guild.description"
+  />
+  <p
+    v-if="invite.matchStr"
+    v-html="invite.matchStr"
   />
 </a>
 </template>
@@ -134,6 +139,10 @@ export default {
 
   .invite-card-description {
     margin-top: 10px;
+  }
+
+  b {
+    color: #F0F;
   }
 }
 </style>
