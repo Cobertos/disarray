@@ -4,7 +4,12 @@
     <input
       type="text"
       v-model="textSearch">
-    <p>{{filteredInvites.length}} of {{invites.length}} results</p>
+    <div
+      class="invite-search-info"
+    >
+      <p>534 servers indexed</p>
+      <p>{{filteredInvites.length}} of {{invites.length}} results</p>
+    </div>
   </div>
 </template>
 
@@ -81,5 +86,11 @@ export default {
   p {
     text-align: right;
   }
+}
+.invite-search-info {
+  display: flex;
+  align-items: stretch;
+  justify-content: space-between;
+  margin-top: 10px;
 }
 </style>
