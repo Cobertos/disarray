@@ -47,7 +47,15 @@ export default {
 
       if (this.resourceType === 'guild/icon') {
         if (this.resource.icon === null) {
-          return `https://via.placeholder.com/96x96`;
+          // Generate a data-url for the missing guild icon (like the Discord web client does)
+          // Data URL is this svg (the example just shows BB
+          //  <svg width="128" height="128" xmlns="http://www.w3.org/2000/svg">
+          //   <rect height="128" width="128" y="0" x="0" fill="#595959"/>
+          //   <text text-anchor="start" font-family="sans-serif" font-size="60" y="78.5" x="23.5" fill="#ffffff">BB</text>
+          // </svg>
+          const guildInitials = this.resource.name.split(' ').slice(0,3).map(w => w[0]).join('') || 'NA';
+          const dataUrl = `data:image/svg+xml,%3Csvg width='128' height='128' xmlns='http://www.w3.org/2000/svg'%3E%3Crect height='128' width='128' y='0' x='0' fill='%23595959'/%3E%3Ctext text-anchor='middle' font-family='sans-serif' font-size='54' y='84' x='64' fill='%23ffffff'%3E${guildInitials}%3C/text%3E%3C/svg%3E`;
+          return dataUrl;
         }
 
         // Guild Icon  icons/guild_id/guild_icon.png **  PNG, JPEG, WebP, GIF

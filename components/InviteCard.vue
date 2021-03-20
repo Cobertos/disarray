@@ -84,6 +84,7 @@ export default {
 
 <style lang="scss">
 .invite-card {
+  display: block;
   position: relative;
   color: #000;
   background-blend-mode: difference;
