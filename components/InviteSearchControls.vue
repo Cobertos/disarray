@@ -4,12 +4,6 @@
     <input
       type="text"
       v-model="textSearch">
-    <div
-      class="invite-search-info"
-    >
-      <p>534 servers indexed</p>
-      <p>{{filteredInvites.length}} of {{invites.length}} results</p>
-    </div>
   </div>
 </template>
 
@@ -17,66 +11,30 @@
 import fuzzy from 'fuzzy';
 
 export default {
-  props: {
-    invites: Array
-  },
   data() {
     return {
-      textSearch: ''
+      textSearch: '',
+      pages: 0,
+      filteredInvites: []
     };
   },
   watch: {
     filteredInvites(value) {
       this.$emit('update:filtered', value);
+    },
+    async textSearch(value) {
+      this.pages = 0; // textSearch changing will reset the current page in the pagination
+      this.filteredInvites = await this.$api.search(value, this.pages);
     }
   },
-  computed: {
-    filteredInvites() {
-      if (!this.invites) {
-        return [];
-      }
-
-      // if (this.) {
-
-      // }
-      // let filtered = tldData;
-      // if(!this.showBrandTLDs) {
-      //   filtered = filtered
-      //     .filter(o => !o.isBrand);
-      // }
-      // if(this.showOnlyAvailable) {
-      //   filtered = filtered
-      //     .filter(o => o.isInGeneralAvailability || o.isInGeneralAvailability === undefined);
-      // }
-      // else {
-      //   filtered = filtered
-      //     .filter(o => !o.isInGeneralAvailability);
-      // }
-      // filtered = filtered
-      //   .filter(o => this.showType[o.type]);
-      // const filteredStrs = filtered
-      //   .map(o => o.tld);
-      const invites = this.invites.filter(i => !!i.guild);
-      if(this.textSearch !== '') {
-        // Run fuzzy filters on each text field we're curious about
-        //invites.guild.name, invites.channel.name, invites.description
-
-        // TODO: This is sorta hacky rn
-        return fuzzy.filter(this.textSearch, invites, {
-          pre: '<b>',
-          post: '</b>',
-          extract(i){ return i.guild.name + i.channel.name + i.guild.description }
-        })
-        .map((o) => {
-          const ret = o.original;
-          ret.matchStr = o.string;
-          return ret;
-        });
-      }
-      else {
-        return this.invites;
-      }
-    },
+  methods: {
+    async showMore() {
+      this.pages += 1;
+      this.filteredInvites = [
+        ...this.filteredInvites,
+        ...await this.$api.search(this.textSearch, this.pages)
+      ];
+    }
   }
 }
 </script>
@@ -86,11 +44,5 @@ export default {
   p {
     text-align: right;
   }
-}
-.invite-search-info {
-  display: flex;
-  align-items: stretch;
-  justify-content: space-between;
-  margin-top: 10px;
 }
 </style>

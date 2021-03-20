@@ -36,7 +36,9 @@ export default {
   ** Plugins to load before mounting the App
   */
   plugins: [
-    '@/plugins/vue-fontawesome.js'
+    '@/plugins/vue-general.js',
+    '@/plugins/vue-fontawesome.js',
+    '@/plugins/disarray-api.js'
   ],
   /*
   ** Nuxt.js dev-modules

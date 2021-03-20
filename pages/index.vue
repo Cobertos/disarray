@@ -2,8 +2,8 @@
   <div>
     <mover-bg
       class="mover-bg"
-      :class="{ bgHighlight: shouldHighlight, bgModulate: pulsed }"
     />
+      <!--:class="{ bgHighlight: shouldHighlight, bgModulate: pulsed }"-->
     <section class="dc-hero">
       <div class="dc-hero-left">
         <h2
@@ -27,38 +27,24 @@
         </p>
       </div>
     </section>
-    <section class="dc-search-controls">
-      <invite-search-controls
-        :invites="json"
-        @update:filtered="filteredInvites = $event"
-        @input.native="pulsed = !pulsed"
-      />
-    </section>
-    <section class="dc-results">
-      <invite-card
-        v-for="invite in filteredInvites"
-        :invite="invite"
-        @click.native="shouldHighlight = !shouldHighlight"
-      />
+    <!-- <section class="dc-sub-hero">
+      <h4 class="dc-sub-hero-title">Search over</h4>
+      <div class="dc-sub-hero-stats">
+        <p>{{dbStats.guilds.toLocaleString()}} guilds</p>
+        <p>{{dbStats.codes.toLocaleString()}} codes</p>
+      </div>
+    </section> -->
+    <section class="dc-search">
+      <invite-search />
     </section>
   </div>
 </template>
 
 <script>
-import json from '@/data/invites.json';
 import MoverBg from '@/components/MoverBg.vue';
-import InviteCard from '@/components/InviteCard.vue';
-import InviteSearchControls from '@/components/InviteSearchControls.vue';
+import InviteSearch from '@/components/InviteSearch.vue';
 export default {
-  components: { MoverBg, InviteCard, InviteSearchControls },
-  data(){
-    return {
-      json,
-      shouldHighlight: false,
-      filteredInvites: json,
-      pulsed: false
-    };
-  }
+  components: { MoverBg, InviteSearch },
 }
 </script>
 
@@ -80,16 +66,16 @@ export default {
   justify-content: space-around;
   align-items: center;
   flex-direction: column;
-  font-size: 50px;
+  font-size: 40px;
   text-align: center;
   min-height: 40vh;
 
-  margin: 0 10px 50px;
+  margin: 50px 10px 50px;
 
   @include desktop {
     flex-direction: row;
-    min-height: 55vh;
-    margin: 0 auto;
+    min-height: 35vh;
+    margin: 50px auto 0;
     padding: 0 50px;
     justify-content: space-between;
 
@@ -138,21 +124,61 @@ export default {
 
   .dc-hero-description {
     max-width: 400px;
-    margin: 0 auto;
+    margin: 20px auto 0;
     text-align: left;
+
+    @include desktop {
+      margin: 0 auto;
+    }
   }
 }
 
-.dc-search-controls {
-  max-width: 760px;
-  margin: 0 10px;
+// .dc-sub-hero {
+//   display: flex;
+//   justify-content: flex-start;
+//   align-items: center;
+//   flex-direction: column;
+//   text-align: center;
+//   margin-bottom: 20px;
 
-  @include desktop {
-    margin: 0 auto;
-  }
-}
+//   @include desktop {
+//     margin-bottom: 40px;
+//   }
 
-.dc-results {
+//   .dc-sub-hero-title {
+//     font-size: 30px;
+//     font-family: $do-hyeon;
+
+//     @include desktop {
+//       font-size: 40px;
+//     }
+//   }
+
+//   .dc-sub-hero-stats {
+//     display: flex;
+//     flex-direction: column;
+//     font-size: 20px;
+
+//     @include desktop {
+//       font-size: 30px;
+//       flex-direction: row;
+//     }
+
+//     > *:nth-child(n+2) {
+//       margin-left: 10px;
+
+//       @include desktop {
+//         margin-left: 80px;
+//       }
+//     }
+
+//     p {
+//       font-size: inherit;
+//     }
+//   }
+// }
+
+.dc-search {
   max-width: 760px;
   margin: 0 10px;
 

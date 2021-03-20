@@ -23,7 +23,7 @@ export default {
     ext: {
       type: String,
       validator(value){ return ['jpg', 'jpeg', 'png', 'webp', 'gif'].includes(value) },
-      default(){ return 'png' } //TODO: Eventhing supports png, but probably should use webp, only 2 dont support webp
+      default(){ return 'webp' } //TODO: Eventhing supports png, but probably should use webp, only 2 dont support webp
     }
   },
   computed: {
@@ -46,6 +46,10 @@ export default {
       // TODO: Support ?size=desired_size
 
       if (this.resourceType === 'guild/icon') {
+        if (this.resource.icon === null) {
+          return `https://via.placeholder.com/96x96`;
+        }
+
         // Guild Icon  icons/guild_id/guild_icon.png **  PNG, JPEG, WebP, GIF
         return `${baseUrl}icons/${this.resource.id}/${this.resource.icon}.${this.ext}`;
       }
