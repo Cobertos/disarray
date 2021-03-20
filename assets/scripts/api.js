@@ -1,6 +1,6 @@
 export class DisarrayAPI {
   constructor() {
-    this._baseUrl = 'discord-crawler-api.b4t.to/';
+    this._baseUrl = 'https://discord-crawler-api.b4t.to/';
   }
 
   async search(query, page=0) {
