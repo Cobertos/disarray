@@ -45,6 +45,7 @@
 </template>
 
 <script>
+import debounce from 'debounce';
 import InviteCard from '@/components/InviteCard.vue';
 export default {
   components: { InviteCard },
@@ -58,17 +59,10 @@ export default {
     };
   },
   watch: {
-    async textSearch(value) {
-      this.pages = undefined; // textSearch changing will reset the current page in the pagination
-      this.noMorePages = false;
-      this.filteredInvites = [];
-      if (value === '') {
-        // Don't search, it requires a query param or it aborts
-        this.noMorePages = true;
-        return;
-      }
-
-      this.fetchNextPage();
+    textSearch() {
+      // TODO: Maybe we need to await this and do a debounce-promise using whatever
+      // library was suggested in here? https://github.com/foxbenjaminfox/vue-async-computed/issues/8
+      this.$options.dNewTextSearch();
     }
   },
   asyncComputed: {
@@ -102,9 +96,25 @@ export default {
         this.noMorePages = true;
       }
     },
+    async newTextSearch() {
+      // Called when a new text search is started
+      this.pages = undefined; // textSearch changing will reset the current page in the pagination
+      this.noMorePages = false;
+      this.filteredInvites = [];
+      if (this.textSearch === '') {
+        // Don't search, it requires a query param or it aborts
+        this.noMorePages = true;
+        return;
+      }
+
+      this.fetchNextPage();
+    },
     async showMore() {
       this.fetchNextPage();
     }
+  },
+  created() {
+    this.$options.dNewTextSearch = debounce(this.newTextSearch.bind(this), 100);
   }
 }
 </script>
