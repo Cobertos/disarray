@@ -37,6 +37,13 @@
       <div
         class="invite-card-under-title"
       >
+        <p>
+          Created <vue-time
+            :datetime="timestampFromSnowflake(invite.guild.id)"
+            :format="'MMM YYYY'"
+          />
+        </p>
+        <p class="diamond">◆</p>
         <div
           class="invite-card-user-count"
         >
@@ -49,6 +56,7 @@
           <fa class="online-icon" :icon="['fas', 'circle']" />
           {{invite.approximate_presence_count}}
         </div>
+        <p class="diamond">◆</p>
         <p
           class="invite-card-channel"
           :title="`Channel id: ${invite.channel.id}`"
@@ -71,12 +79,21 @@
 
 <script>
 import DiscordImageResource from '@/components/discord/DiscordImageResource.vue';
+import VueTime from '@/components/util/VueTime.vue';
 export default {
-  components: { DiscordImageResource },
+  components: { DiscordImageResource, VueTime },
   props: {
     invite: {
       type: Object,
       required: true
+    }
+  },
+  methods: {
+    timestampFromSnowflake(id) {
+      // BigInt is only somewhat recently supported
+      // From the docs (get timestamp bits only, then add Discord epoch offset)
+      // https://discord.com/developers/docs/reference#snowflakes
+      return Number((BigInt(id) >> 22n)) + 1420070400000;
     }
   }
 }
@@ -121,10 +138,17 @@ export default {
       margin-top: 3px;
       font-size: 16px;
 
-      > *:nth-child(n+2) {
-        margin-left: 10px;
+      > * {
         margin-bottom: 0;
         margin-top: 0;
+      }
+
+      > *:nth-child(n+2) {
+        margin-left: 10px;
+      }
+
+      .diamond {
+        margin-top: -4px;
       }
 
       .online-icon {
