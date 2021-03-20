@@ -3,9 +3,16 @@
     <section class="dc-search-controls">
       <invite-search-controls
         ref="searchControls"
-        @update:filtered="filteredInvites = $event"
         @input.native="pulsed = !pulsed"
       />
+      <div class="control"
+        :class="{ 'is-loading': loading }">
+        <input
+          class="input"
+          type="text"
+          v-model.trim="textSearch"
+          placeholder="uwu, this is the search...">
+      </div>
     </section>
     <section
       class="dc-search-info"
@@ -19,7 +26,6 @@
       <invite-card
         v-for="invite in filteredInvites"
         :invite="invite"
-        @click.native="shouldHighlight = !shouldHighlight"
       />
     </section>
     <button
@@ -33,15 +39,29 @@
 
 <script>
 import InviteCard from '@/components/InviteCard.vue';
-import InviteSearchControls from '@/components/InviteSearchControls.vue';
 export default {
-  components: { InviteCard, InviteSearchControls },
+  components: { InviteCard },
   data(){
     return {
-      shouldHighlight: false,
+      textSearch: '',
+      pages: 0,
       filteredInvites: [],
       pulsed: false
     };
+  },
+  watch: {
+    async textSearch(value) {
+      this.pages = 0; // textSearch changing will reset the current page in the pagination
+      if (value === '') {
+        // Don't search, it requires a query param or it aborts
+        this.filteredInvites = [];
+        return;
+      }
+
+      this.loading = true;
+      this.filteredInvites = await this.$api.search(value, this.pages);
+      this.loading = false;
+    }
   },
   asyncComputed: {
     dbStats: {
@@ -52,8 +72,14 @@ export default {
     }
   },
   methods: {
-    showMore() {
-      this.$refs.searchControls.showMore();
+    async showMore() {
+      this.pages += 1;
+      this.loading = true;
+      this.filteredInvites = [
+        ...this.filteredInvites,
+        ...await this.$api.search(this.textSearch, this.pages)
+      ];
+      this.loading = false;
     }
   }
 }
