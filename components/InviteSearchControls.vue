@@ -3,7 +3,8 @@
     class="invite-search-controls">
     <input
       type="text"
-      v-model="textSearch">
+      v-model="textSearch"
+      placeholder="uwu, this is the search...">
   </div>
 </template>
 

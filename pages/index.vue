@@ -27,13 +27,14 @@
         </p>
       </div>
     </section>
-    <!-- <section class="dc-sub-hero">
-      <h4 class="dc-sub-hero-title">Search over</h4>
-      <div class="dc-sub-hero-stats">
+    <section class="dc-sub-hero">
+      <p>Only <strong>whole</strong> words allowed. A wildcard (<code>*</code>) can be included at the end of words too</p>
+      <!--h4 class="dc-sub-hero-title">Search over</h4-->
+      <!--div class="dc-sub-hero-stats">
         <p>{{dbStats.guilds.toLocaleString()}} guilds</p>
         <p>{{dbStats.codes.toLocaleString()}} codes</p>
-      </div>
-    </section> -->
+      </div-->
+    </section>
     <section class="dc-search">
       <invite-search />
     </section>
@@ -133,17 +134,20 @@ export default {
   }
 }
 
-// .dc-sub-hero {
-//   display: flex;
-//   justify-content: flex-start;
-//   align-items: center;
-//   flex-direction: column;
-//   text-align: center;
-//   margin-bottom: 20px;
+.dc-sub-hero {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  margin-bottom: 20px;
+  max-width: 600px;
+  margin: 0 auto;
 
-//   @include desktop {
-//     margin-bottom: 40px;
-//   }
+  @include desktop {
+    margin-bottom: 40px;
+  }
+}
 
 //   .dc-sub-hero-title {
 //     font-size: 30px;
