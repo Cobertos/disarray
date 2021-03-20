@@ -23,6 +23,7 @@
       />
     </section>
     <button
+      v-if="filteredInvites.length > 0"
       @click="showMore"
     >
       Show More
