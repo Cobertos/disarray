@@ -29,11 +29,18 @@
       />
     </section>
     <button
-      v-if="filteredInvites.length > 0"
+      v-if="filteredInvites.length > 0 && !noMorePages"
+      :class="{ 'is-loading': loading }"
       @click="showMore"
     >
       Show More
     </button>
+    <p
+      v-else-if="noMorePages"
+      class="search-end-text"
+    >
+      That's it, you've reached the end of this search. <strong>{{filteredInvites.length}}</strong> results uwu!
+    </p>
   </div>
 </template>
 
@@ -44,23 +51,24 @@ export default {
   data(){
     return {
       textSearch: '',
-      pages: 0,
+      pages: undefined,
+      noMorePages: false,
       filteredInvites: [],
       pulsed: false
     };
   },
   watch: {
     async textSearch(value) {
-      this.pages = 0; // textSearch changing will reset the current page in the pagination
+      this.pages = undefined; // textSearch changing will reset the current page in the pagination
+      this.noMorePages = false;
+      this.filteredInvites = [];
       if (value === '') {
         // Don't search, it requires a query param or it aborts
-        this.filteredInvites = [];
+        this.noMorePages = true;
         return;
       }
 
-      this.loading = true;
-      this.filteredInvites = await this.$api.search(value, this.pages);
-      this.loading = false;
+      this.fetchNextPage();
     }
   },
   asyncComputed: {
@@ -72,14 +80,30 @@ export default {
     }
   },
   methods: {
-    async showMore() {
-      this.pages += 1;
+    async fetchNextPage() {
+      if (this.noMorePages) {
+        return;
+      }
+      if (this.pages === undefined) {
+        this.pages = 0;
+      }
+      else {
+        this.pages += 1;
+      }
+
       this.loading = true;
+      const newInvites = await this.$api.search(this.textSearch, this.pages);
       this.filteredInvites = [
         ...this.filteredInvites,
-        ...await this.$api.search(this.textSearch, this.pages)
+        ...newInvites
       ];
       this.loading = false;
+      if (newInvites.length < 25) { // The normal return amount
+        this.noMorePages = true;
+      }
+    },
+    async showMore() {
+      this.fetchNextPage();
     }
   }
 }
@@ -113,6 +137,10 @@ export default {
   @include desktop {
     margin: 0 auto;
   }
+}
+
+.search-end-text {
+  text-align: center;
 }
 
 
