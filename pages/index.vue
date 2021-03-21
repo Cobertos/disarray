@@ -49,7 +49,7 @@ export default {
 }
 </script>
 
-<style lang="scss">
+<style lang="scss" scoped>
 @import "@/assets/styles/_utils.scss";
 
 .mover-bg {
@@ -184,10 +184,10 @@ export default {
 
 .dc-search {
   max-width: 760px;
-  margin: 0 10px;
+  margin: 0 10px 100px;
 
   @include desktop {
-    margin: 0 auto;
+    margin: 0 auto 100px;
   }
 }
 

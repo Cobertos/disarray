@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="dc-search">
     <section class="dc-search-controls">
       <invite-search-controls
         ref="searchControls"
@@ -28,19 +28,30 @@
         :invite="invite"
       />
     </section>
-    <button
-      v-if="filteredInvites.length > 0 && !noMorePages"
-      :class="{ 'is-loading': loading }"
-      @click="showMore"
+    <template
+      v-if="textSearch !== ''"
     >
-      Show More
-    </button>
-    <p
-      v-else-if="noMorePages"
-      class="search-end-text"
-    >
-      That's it, you've reached the end of this search. <strong>{{filteredInvites.length}}</strong> results uwu!
-    </p>
+      <p
+        v-if="filteredInvites.length === 0 && noMorePages"
+        class="search-end-text"
+      >
+        No results. Maybe try using a prefix + wildcard (<code>*</code>) for your search?
+      </p>
+      <button
+        v-else-if="filteredInvites.length > 0 && !noMorePages"
+        class="show-more-button"
+        :class="{ 'is-loading': loading }"
+        @click="showMore"
+      >
+        Show More
+      </button>
+      <p
+        v-else-if="noMorePages"
+        class="search-end-text"
+      >
+        That's it, you've reached the end of this search. <strong>{{filteredInvites.length}}</strong> results uwu!
+      </p>
+    </template>
   </div>
 </template>
 
@@ -55,14 +66,13 @@ export default {
       pages: undefined,
       noMorePages: false,
       filteredInvites: [],
-      pulsed: false
+      pulsed: false,
+      loading: false
     };
   },
   watch: {
-    textSearch() {
-      // TODO: Maybe we need to await this and do a debounce-promise using whatever
-      // library was suggested in here? https://github.com/foxbenjaminfox/vue-async-computed/issues/8
-      this.$options.dNewTextSearch();
+    async textSearch() {
+      await this.newTextSearch();
     }
   },
   asyncComputed: {
@@ -107,14 +117,17 @@ export default {
         return;
       }
 
-      this.fetchNextPage();
+      // Debounced fetch the first page of the search, when the search typing settles
+      // down. But we still do the above to invalidate the old search and clear
+      // its results
+      this.$options.dFetchNewPage();
     },
     async showMore() {
       this.fetchNextPage();
     }
   },
   created() {
-    this.$options.dNewTextSearch = debounce(this.newTextSearch.bind(this), 100);
+    this.$options.dFetchNewPage = debounce(this.fetchNextPage.bind(this), 100);
   }
 }
 </script>
@@ -122,36 +135,42 @@ export default {
 <style lang="scss">
 @import "@/assets/styles/_utils.scss";
 
-.dc-search-controls {
-  margin: 0 10px;
+.dc-search {
+  .dc-search-controls {
+    margin: 0 10px;
 
-  @include desktop {
+    @include desktop {
+      margin: 0 auto;
+    }
+  }
+
+  .dc-search-info {
+    display: flex;
+    align-items: stretch;
+    justify-content: space-between;
+    margin: 10px 10px 0;
+
+    @include desktop {
+      margin: 10px auto 0;
+    }
+  }
+
+  .dc-results {
+    margin: 0 10px;
+
+    @include desktop {
+      margin: 0 auto;
+    }
+  }
+
+  .show-more-button {
+    display: block;
     margin: 0 auto;
   }
-}
 
-.dc-search-info {
-  display: flex;
-  align-items: stretch;
-  justify-content: space-between;
-  margin: 10px 10px 0;
-
-  @include desktop {
-    margin: 10px auto 0;
+  .search-end-text {
+    text-align: center;
   }
 }
-
-.dc-results {
-  margin: 0 10px;
-
-  @include desktop {
-    margin: 0 auto;
-  }
-}
-
-.search-end-text {
-  text-align: center;
-}
-
 
 </style>

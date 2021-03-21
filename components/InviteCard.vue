@@ -43,7 +43,7 @@
             :format="'MMM YYYY'"
           />
         </p>
-        <p class="diamond">◆</p>
+        <p class="diamond">⬥</p>
         <div
           class="invite-card-user-count"
         >
@@ -56,7 +56,7 @@
           <fa class="online-icon" :icon="['fas', 'circle']" />
           {{invite.approximate_presence_count}}
         </div>
-        <p class="diamond">◆</p>
+        <p class="diamond">⬥</p>
         <p
           class="invite-card-channel"
           :title="`Channel id: ${invite.channel.id}`"
@@ -105,7 +105,7 @@ export default {
   position: relative;
   color: #000;
   background-blend-mode: difference;
-  padding: 30px 10px 10px;
+  padding: 10px 0;
 
   .invite-card-top {
     display: flex;
@@ -141,6 +141,10 @@ export default {
       > * {
         margin-bottom: 0;
         margin-top: 0;
+      }
+
+      p {
+        font-size: inherit;
       }
 
       > *:nth-child(n+2) {
