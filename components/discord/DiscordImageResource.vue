@@ -23,7 +23,13 @@ export default {
     ext: {
       type: String,
       validator(value){ return ['jpg', 'jpeg', 'png', 'webp', 'gif'].includes(value) },
-      default(){ return 'webp' } //TODO: Eventhing supports png, but probably should use webp, only 2 dont support webp
+      // Default is undefined, which is a special-sauce choose (based on some context)
+      default(){ return undefined }
+    },
+    animate: {
+      // If set, will animate, if the resource supports it
+      type: Boolean,
+      default() { return false; }
     }
   },
   computed: {
@@ -58,10 +64,20 @@ export default {
           return dataUrl;
         }
 
+        let ext = this.ext;
+        if (!ext) {
+          ext = this.resource.icon.startsWith('a_') && this.animate ? 'gif' : 'webp';
+        }
+
         // Guild Icon  icons/guild_id/guild_icon.png **  PNG, JPEG, WebP, GIF
-        return `${baseUrl}icons/${this.resource.id}/${this.resource.icon}.${this.ext}`;
+        return `${baseUrl}icons/${this.resource.id}/${this.resource.icon}.${ext}`;
       }
       else if (this.resourceType === 'user/avatar') {
+        let ext = this.ext;
+        if (!ext) {
+          ext = this.resource.icon.startsWith('a_') && this.animate ? 'gif' : 'webp';
+        }
+
         // User Avatar avatars/user_id/user_avatar.png **  PNG, JPEG, WebP, GIF
         return `${baseUrl}avatars/${this.resource.id}/${this.resource.avatar}.${this.ext}`;
       }

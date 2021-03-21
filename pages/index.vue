@@ -188,6 +188,7 @@ export default {
 
   @include desktop {
     margin: 0 auto 100px;
+    padding: 0 10px;
   }
 }
 

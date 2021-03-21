@@ -3,7 +3,6 @@
     <section class="invite-search-controls">
       <invite-search-controls
         ref="searchControls"
-        @input.native="pulsed = !pulsed"
       />
       <div class="control"
         :class="{ 'is-loading': loading }">
@@ -62,11 +61,10 @@ export default {
   components: { InviteCard },
   data(){
     return {
+      filteredInvites: [],
       textSearch: '',
       pages: undefined,
       noMorePages: false,
-      filteredInvites: [],
-      pulsed: false,
       loading: false
     };
   },

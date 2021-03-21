@@ -2,6 +2,8 @@
 <a
   class="invite-card"
   :href="`https://discord.gg/${invite.code}`"
+  @mouseenter="shouldAnimate = true"
+  @mouseleave="shouldAnimate = false"
 >
   <!--div
     class="invite-card-inviter"
@@ -17,7 +19,6 @@
       :resource="invite.inviter"
     />
   </div-->
-  <!-- TODO: Show date using snowflake -->
   <div
     class="invite-card-top"
   >
@@ -25,6 +26,7 @@
       class="invite-card-image"
       :resourceType="'guild/icon'"
       :resource="invite.guild"
+      :animate="shouldAnimate"
     />
     <div
       class="invite-card-content"
@@ -90,6 +92,11 @@ export default {
       type: Object,
       required: true
     }
+  },
+  data() {
+    return {
+      shouldAnimate: false
+    };
   },
   methods: {
     timestampFromSnowflake(id) {
