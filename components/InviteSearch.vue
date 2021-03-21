@@ -1,6 +1,6 @@
 <template>
-  <div class="dc-search">
-    <section class="dc-search-controls">
+  <div class="invite-search">
+    <section class="invite-search-controls">
       <invite-search-controls
         ref="searchControls"
         @input.native="pulsed = !pulsed"
@@ -15,14 +15,14 @@
       </div>
     </section>
     <section
-      class="dc-search-info"
+      class="invite-search-info"
       v-if="filteredInvites"
     >
       <p>{{dbStats.guilds.toLocaleString()}} guilds indexed</p>
       <p>{{filteredInvites.length}} of ??? results</p>
       <!-- <p v-if="$asyncComputed.filteredInvites.updating">LOADING</p> -->
     </section>
-    <section class="dc-results">
+    <section class="invite-results">
       <invite-card
         v-for="invite in filteredInvites"
         :invite="invite"
@@ -135,32 +135,12 @@ export default {
 <style lang="scss">
 @import "@/assets/styles/_utils.scss";
 
-.dc-search {
-  .dc-search-controls {
-    margin: 0 10px;
-
-    @include desktop {
-      margin: 0 auto;
-    }
-  }
-
-  .dc-search-info {
+.invite-search {
+  .invite-search-info {
     display: flex;
     align-items: stretch;
     justify-content: space-between;
-    margin: 10px 10px 0;
-
-    @include desktop {
-      margin: 10px auto 0;
-    }
-  }
-
-  .dc-results {
-    margin: 0 10px;
-
-    @include desktop {
-      margin: 0 auto;
-    }
+    margin-top: 10px;
   }
 
   .show-more-button {

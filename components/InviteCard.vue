@@ -37,8 +37,10 @@
       <div
         class="invite-card-under-title"
       >
-        <p>
-          Created <vue-time
+        <p
+          title="Date guild created on"
+        >
+          Est. <vue-time
             :datetime="timestampFromSnowflake(invite.guild.id)"
             :format="'MMM YYYY'"
           />
@@ -60,8 +62,9 @@
         <p
           class="invite-card-channel"
           :title="`Channel id: ${invite.channel.id}`"
-          v-text="`> #${invite.channel.name}`"
-        />
+        >
+          >&nbsp;{{invite.channel.name}}
+        </p>
       </div>
     </div>
   </div>
@@ -100,6 +103,8 @@ export default {
 </script>
 
 <style lang="scss">
+@import "@/assets/styles/_utils.scss";
+
 .invite-card {
   display: block;
   position: relative;
@@ -109,13 +114,22 @@ export default {
 
   .invite-card-top {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     justify-content: space-between;
+
+    @include desktop {
+      align-items: center;
+    }
   }
 
   .invite-card-image {
-    max-height: 60px;
-    margin-right: 20px;
+    max-height: 50px;
+    margin-right: 10px;
+
+    @include desktop {
+      max-height: 60px;
+      margin-right: 20px;
+    }
   }
 
   .invite-card-content {
@@ -123,20 +137,34 @@ export default {
 
     .invite-card-title {
       margin: 0;
+      font-size: 25px;
+
+      @include desktop {
+        font-size: 30px;
+      }
     }
 
     .invite-card-channel {
       margin-left: 20px;
       color: #444;
-      font-size: 14px;
+      font-size: 12px;
+
+      @include desktop {
+        font-size: 14px;
+      }
     }
 
     .invite-card-under-title {
       display: flex;
       flex-align: flex-start;
+      flex-wrap: wrap;
       align-items: center;
       margin-top: 3px;
-      font-size: 16px;
+      font-size: 14px;
+
+      @include desktop {
+        font-size: 16px;
+      }
 
       > * {
         margin-bottom: 0;
