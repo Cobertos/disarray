@@ -1,9 +1,6 @@
 <template>
   <div class="invite-search">
     <section class="invite-search-controls">
-      <invite-search-controls
-        ref="searchControls"
-      />
       <div class="control"
         :class="{ 'is-loading': loading }">
         <input
