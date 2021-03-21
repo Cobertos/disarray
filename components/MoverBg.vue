@@ -70,6 +70,15 @@ export default {
           }
         }
       }
+
+      @media (prefers-reduced-motion) {
+        transition-property: none;
+
+        > div {
+          transition-property: none;
+          animation-name: none;
+        }
+      }
     }
   }
 
