@@ -4,6 +4,20 @@
       class="mover-bg"
       :class="{ bgHighlight: bgHighlight }"
     />
+    <section class="dc-socials">
+      <a
+        href="https://discord.gg/E5b5y8ue"
+        target="_blank"
+      >
+        <fa :icon="['fab', 'discord']" />
+      </a>
+      <a
+        href="https://github.com/Cobertos/disarray"
+        target="_blank"
+      >
+        <fa :icon="['fab', 'github']" />
+      </a>
+    </section>
     <section class="dc-hero">
       <div class="dc-hero-left">
         <h2
@@ -73,6 +87,29 @@ export default {
   pointer-events: none;
 }
 
+.dc-socials {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+  font-size: 45px;
+
+  @include desktop {
+    justify-content: flex-end;
+  }
+
+  > * {
+    margin-right: 40px;
+
+    @include desktop {
+      margin-right: 20px;
+    }
+  }
+
+  > *:last-child {
+    margin-right: 0;
+  }
+}
+
 .dc-hero {
   display: flex;
   justify-content: space-around;
@@ -82,12 +119,12 @@ export default {
   text-align: center;
   min-height: 40vh;
 
-  margin: 50px 10px 50px;
+  margin: 0px 10px 50px;
 
   @include desktop {
     flex-direction: row;
     min-height: 35vh;
-    margin: 50px auto 0;
+    margin: 0 auto 0;
     padding: 0 50px;
     justify-content: space-between;
 
