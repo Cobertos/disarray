@@ -21,6 +21,7 @@
     </section>
     <section class="invite-results">
       <invite-card
+        class="invite-card-outer"
         v-for="invite in filteredInvites"
         :invite="invite"
       />
@@ -134,11 +135,35 @@ export default {
 @import "@/assets/styles/_utils.scss";
 
 .invite-search {
+  .invite-card-outer {
+    padding: 10px;
+
+    &:hover {
+      background-color: rgba(0,0,0,0.05);
+    }
+    &:active {
+      background-color: rgba(0,0,0,0.1);
+    }
+  }
+
+  .invite-search-controls {
+    margin: 0 10px;
+  }
+
   .invite-search-info {
     display: flex;
     align-items: stretch;
     justify-content: space-between;
-    margin-top: 10px;
+    margin: 10px 10px 0;
+    font-size: 14px;
+
+    @include desktop {
+      font-size: 16px;
+    }
+
+    p {
+      font-size: inherit;
+    }
   }
 
   .show-more-button {

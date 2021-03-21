@@ -154,9 +154,11 @@ export default {
   margin-bottom: 20px;
   max-width: 600px;
   margin: 0 auto;
+  padding: 10px;
 
   @include desktop {
     margin-bottom: 40px;
+    padding: 0;
   }
 }
 
@@ -195,12 +197,7 @@ export default {
 
 .dc-search {
   max-width: 760px;
-  margin: 0 10px 100px;
-
-  @include desktop {
-    margin: 0 auto 100px;
-    padding: 0 10px;
-  }
+  margin: 0 auto 100px;
 }
 
 

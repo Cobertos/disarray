@@ -116,8 +116,6 @@ export default {
   display: block;
   position: relative;
   color: #000;
-  background-blend-mode: difference;
-  padding: 10px 0;
 
   .invite-card-top {
     display: flex;
