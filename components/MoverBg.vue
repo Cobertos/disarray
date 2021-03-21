@@ -13,7 +13,7 @@
 export default {
   data(){
     return {
-      a: [...new Array(200).fill(1)]
+      a: [...new Array(99).fill(1)]
     };
   }
 };
@@ -54,7 +54,7 @@ export default {
             transition-delay: #{$dist/9 * 0.5s};
             background-color: darken(#CCC, $dist * 1%);
             animation-name: idle-rotate-#{$i}-#{$j};
-            animation-duration: random(500) * 1s + 400s;
+            animation-duration: random(500) * 1s + 300s;
             animation-iteration-count: infinite;
             animation-delay: 0.3s;
             //animation-direction: ;
@@ -74,11 +74,25 @@ export default {
   }
 
   &.bgHighlight {
-    .mover-base > div {
-      background-color: #000;
+    .mover-base {
+      @for $j from 0 to 20 {
+        @for $i from 0 to 10 {
+          $idx: $j*10 + $i;
+          $dist: $i + $j;
+
+          &:nth-of-type(#{$idx}) {
+            > div {
+              background-color: darken(#cfccda, $dist * 1%);
+            }
+          }
+        }
+      }
     }
   }
 
+  // This would be really cool if we can get it to work, but there's no easy way
+  // to animate between the idle animation and transition to this, so it looks like
+  // shit...
   // &.bgModulate {
   //   .mover-base {
   //     @for $j from 0 to 20 {

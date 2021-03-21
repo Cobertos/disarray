@@ -2,8 +2,8 @@
   <div>
     <mover-bg
       class="mover-bg"
+      :class="{ bgHighlight: bgHighlight }"
     />
-      <!--:class="{ bgHighlight: shouldHighlight, bgModulate: pulsed }"-->
     <section class="dc-hero">
       <div class="dc-hero-left">
         <h2
@@ -36,7 +36,8 @@
       </div-->
     </section>
     <section class="dc-search">
-      <invite-search />
+      <invite-search
+        @search="onSearch"/>
     </section>
   </div>
 </template>
@@ -46,6 +47,16 @@ import MoverBg from '@/components/MoverBg.vue';
 import InviteSearch from '@/components/InviteSearch.vue';
 export default {
   components: { MoverBg, InviteSearch },
+  data() {
+    return {
+      bgHighlight: false
+    };
+  },
+  methods: {
+    onSearch(searchStr) {
+      this.bgHighlight = searchStr !== '';
+    }
+  }
 }
 </script>
 

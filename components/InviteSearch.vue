@@ -7,7 +7,8 @@
           class="input"
           type="text"
           v-model.trim="textSearch"
-          placeholder="uwu, this is the search...">
+          placeholder="uwu, this is the search..."
+        >
       </div>
     </section>
     <section
@@ -52,7 +53,7 @@
 </template>
 
 <script>
-import debounce from 'debounce';
+import debounce from 'debounce-promise';
 import InviteCard from '@/components/InviteCard.vue';
 export default {
   components: { InviteCard },
@@ -109,13 +110,15 @@ export default {
       if (this.textSearch === '') {
         // Don't search, it requires a query param or it aborts
         this.noMorePages = true;
+        this.$emit('search', this.textSearch); //New search occured-ish
         return;
       }
 
       // Debounced fetch the first page of the search, when the search typing settles
       // down. But we still do the above to invalidate the old search and clear
       // its results
-      this.$options.dFetchNewPage();
+      await this.$options.dFetchNewPage();
+      this.$emit('search', this.textSearch); //New search occured
     },
     async showMore() {
       this.fetchNextPage();
